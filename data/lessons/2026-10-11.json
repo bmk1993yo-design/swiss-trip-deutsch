@@ -1,0 +1,488 @@
+{
+  "type": "lesson",
+  "schemaVersion": 1,
+  "date": "2026-10-11",
+  "day": 8,
+  "unlockAt": "2026-10-11T17:00:00+09:00",
+  "theme": {
+    "id": "supermarket",
+    "title": "Coop / Migros",
+    "emoji": "🛒"
+  },
+  "approved": false,
+  "words": [
+    {
+      "id": "word-01",
+      "german": "der Supermarkt",
+      "meaning": "슈퍼마켓, 마트",
+      "partOfSpeech": "noun",
+      "gender": "der",
+      "plural": "die Supermärkte",
+      "pronunciation": {
+        "ipa": "/ˈzuːpɐˌmaʁkt/",
+        "korean": [
+          {
+            "text": "주ː",
+            "stress": true
+          },
+          {
+            "text": "퍼",
+            "stress": false
+          },
+          {
+            "text": "마르크트",
+            "stress": false
+          }
+        ]
+      },
+      "isSwissExpression": false,
+      "swissNote": "스위스의 대표적인 마트 브랜드로는 Coop과 Migros가 있습니다.",
+      "audio": {
+        "aiden": {
+          "normal": "/audio/2026-10-11/word-01-aiden.opus",
+          "slow": "/audio/2026-10-11/word-01-aiden-slow.opus"
+        },
+        "serena": {
+          "normal": "/audio/2026-10-11/word-01-serena.opus",
+          "slow": "/audio/2026-10-11/word-01-serena-slow.opus"
+        }
+      }
+    },
+    {
+      "id": "word-02",
+      "german": "die Migros",
+      "meaning": "미그로 (스위스 대표 마트)",
+      "partOfSpeech": "noun",
+      "gender": "die",
+      "plural": null,
+      "pronunciation": {
+        "ipa": "/ˈmiːɡʁo/",
+        "korean": [
+          {
+            "text": "미ː",
+            "stress": true
+          },
+          {
+            "text": "그로",
+            "stress": false
+          }
+        ]
+      },
+      "isSwissExpression": true,
+      "swissNote": "Migros는 스위스 최대 유통업체 중 하나입니다. 스위스 독일어권에서는 여성명사(die Migros)로 쓰이며, 자체 주류나 담배를 판매하지 않는 특징이 있습니다.",
+      "audio": {
+        "aiden": {
+          "normal": "/audio/2026-10-11/word-02-aiden.opus",
+          "slow": "/audio/2026-10-11/word-02-aiden-slow.opus"
+        },
+        "serena": {
+          "normal": "/audio/2026-10-11/word-02-serena.opus",
+          "slow": "/audio/2026-10-11/word-02-serena-slow.opus"
+        }
+      }
+    },
+    {
+      "id": "word-03",
+      "german": "das Rüebli",
+      "meaning": "당근",
+      "partOfSpeech": "noun",
+      "gender": "das",
+      "plural": "die Rüebli",
+      "pronunciation": {
+        "ipa": "/ˈʁyə̯bli/",
+        "korean": [
+          {
+            "text": "류",
+            "stress": true
+          },
+          {
+            "text": "에",
+            "stress": false
+          },
+          {
+            "text": "블리",
+            "stress": false
+          }
+        ]
+      },
+      "isSwissExpression": true,
+      "swissNote": "스위스에서는 표준 독일어 'Karotte' 대신 'Rüebli'를 흔히 사용합니다. 아라우(Aarau) 지방의 당근 케이크인 'Rüeblitorte'도 유명합니다.",
+      "audio": {
+        "aiden": {
+          "normal": "/audio/2026-10-11/word-03-aiden.opus",
+          "slow": "/audio/2026-10-11/word-03-aiden-slow.opus"
+        },
+        "serena": {
+          "normal": "/audio/2026-10-11/word-03-serena.opus",
+          "slow": "/audio/2026-10-11/word-03-serena-slow.opus"
+        }
+      }
+    },
+    {
+      "id": "word-04",
+      "german": "die Quittung",
+      "meaning": "영수증",
+      "partOfSpeech": "noun",
+      "gender": "die",
+      "plural": "die Quittungen",
+      "pronunciation": {
+        "ipa": "/ˈkvɪtʊŋ/",
+        "korean": [
+          {
+            "text": "크비",
+            "stress": true
+          },
+          {
+            "text": "퉁",
+            "stress": false
+          }
+        ]
+      },
+      "isSwissExpression": false,
+      "swissNote": "스위스 마트의 셀프 계산대(Passabene, Subito)를 이용한 뒤 출구를 나갈 때 영수증 바코드를 스캔해야 하는 경우가 많으니 영수증을 꼭 챙기세요.",
+      "audio": {
+        "aiden": {
+          "normal": "/audio/2026-10-11/word-04-aiden.opus",
+          "slow": "/audio/2026-10-11/word-04-aiden-slow.opus"
+        },
+        "serena": {
+          "normal": "/audio/2026-10-11/word-04-serena.opus",
+          "slow": "/audio/2026-10-11/word-04-serena-slow.opus"
+        }
+      }
+    },
+    {
+      "id": "word-05",
+      "german": "die Tasche",
+      "meaning": "가방, 봉투",
+      "partOfSpeech": "noun",
+      "gender": "die",
+      "plural": "die Taschen",
+      "pronunciation": {
+        "ipa": "/ˈtaʃə/",
+        "korean": [
+          {
+            "text": "타",
+            "stress": true
+          },
+          {
+            "text": "셰",
+            "stress": false
+          }
+        ]
+      },
+      "isSwissExpression": false,
+      "swissNote": "스위스 마트에서는 쇼핑백을 무료로 제공하지 않으므로, 에코백이나 장바구니를 챙겨 다니는 것이 좋습니다.",
+      "audio": {
+        "aiden": {
+          "normal": "/audio/2026-10-11/word-05-aiden.opus",
+          "slow": "/audio/2026-10-11/word-05-aiden-slow.opus"
+        },
+        "serena": {
+          "normal": "/audio/2026-10-11/word-05-serena.opus",
+          "slow": "/audio/2026-10-11/word-05-serena-slow.opus"
+        }
+      }
+    },
+    {
+      "id": "word-06",
+      "german": "der Apfel",
+      "meaning": "사과",
+      "partOfSpeech": "noun",
+      "gender": "der",
+      "plural": "die Äpfel",
+      "pronunciation": {
+        "ipa": "/ˈapfl̩/",
+        "korean": [
+          {
+            "text": "압",
+            "stress": true
+          },
+          {
+            "text": "펠",
+            "stress": false
+          }
+        ]
+      },
+      "isSwissExpression": false,
+      "audio": {
+        "aiden": {
+          "normal": "/audio/2026-10-11/word-06-aiden.opus",
+          "slow": "/audio/2026-10-11/word-06-aiden-slow.opus"
+        },
+        "serena": {
+          "normal": "/audio/2026-10-11/word-06-serena.opus",
+          "slow": "/audio/2026-10-11/word-06-serena-slow.opus"
+        }
+      }
+    },
+    {
+      "id": "word-07",
+      "german": "der Käse",
+      "meaning": "치즈",
+      "partOfSpeech": "noun",
+      "gender": "der",
+      "plural": "die Käse",
+      "pronunciation": {
+        "ipa": "/ˈkɛːzə/",
+        "korean": [
+          {
+            "text": "케ː",
+            "stress": true
+          },
+          {
+            "text": "제",
+            "stress": false
+          }
+        ]
+      },
+      "isSwissExpression": false,
+      "swissNote": "그뤼에르(Le Gruyère), 에멘탈(Emmentaler), 라클렛(Raclette) 등 다양한 스위스 치즈를 마트 신선 코너에서 저렴하게 구매할 수 있습니다.",
+      "audio": {
+        "aiden": {
+          "normal": "/audio/2026-10-11/word-07-aiden.opus",
+          "slow": "/audio/2026-10-11/word-07-aiden-slow.opus"
+        },
+        "serena": {
+          "normal": "/audio/2026-10-11/word-07-serena.opus",
+          "slow": "/audio/2026-10-11/word-07-serena-slow.opus"
+        }
+      }
+    },
+    {
+      "id": "word-08",
+      "german": "suchen",
+      "meaning": "찾다, 찾고 있다",
+      "partOfSpeech": "verb",
+      "pronunciation": {
+        "ipa": "/ˈzuːxn̩/",
+        "korean": [
+          {
+            "text": "주ː",
+            "stress": true
+          },
+          {
+            "text": "헨",
+            "stress": false
+          }
+        ]
+      },
+      "isSwissExpression": false,
+      "audio": {
+        "aiden": {
+          "normal": "/audio/2026-10-11/word-08-aiden.opus",
+          "slow": "/audio/2026-10-11/word-08-aiden-slow.opus"
+        },
+        "serena": {
+          "normal": "/audio/2026-10-11/word-08-serena.opus",
+          "slow": "/audio/2026-10-11/word-08-serena-slow.opus"
+        }
+      }
+    },
+    {
+      "id": "word-09",
+      "german": "brauchen",
+      "meaning": "필요로 하다, 필요하다",
+      "partOfSpeech": "verb",
+      "pronunciation": {
+        "ipa": "/ˈbʁaʊ̯xn̩/",
+        "korean": [
+          {
+            "text": "브라우",
+            "stress": true
+          },
+          {
+            "text": "헨",
+            "stress": false
+          }
+        ]
+      },
+      "isSwissExpression": false,
+      "audio": {
+        "aiden": {
+          "normal": "/audio/2026-10-11/word-09-aiden.opus",
+          "slow": "/audio/2026-10-11/word-09-aiden-slow.opus"
+        },
+        "serena": {
+          "normal": "/audio/2026-10-11/word-09-serena.opus",
+          "slow": "/audio/2026-10-11/word-09-serena-slow.opus"
+        }
+      }
+    },
+    {
+      "id": "word-10",
+      "german": "hier",
+      "meaning": "여기, 여기에",
+      "partOfSpeech": "adverb",
+      "pronunciation": {
+        "ipa": "/hiːɐ̯/",
+        "korean": [
+          {
+            "text": "히ː어",
+            "stress": true
+          }
+        ]
+      },
+      "isSwissExpression": false,
+      "audio": {
+        "aiden": {
+          "normal": "/audio/2026-10-11/word-10-aiden.opus",
+          "slow": "/audio/2026-10-11/word-10-aiden-slow.opus"
+        },
+        "serena": {
+          "normal": "/audio/2026-10-11/word-10-serena.opus",
+          "slow": "/audio/2026-10-11/word-10-serena-slow.opus"
+        }
+      }
+    }
+  ],
+  "sentences": [
+    {
+      "id": "sentence-01",
+      "german": "Gibt es hier Schweizer Käse?",
+      "meaning": "여기에 스위스 치즈가 있나요?",
+      "pronunciation": {
+        "ipa": "/ɡiːpt ɛs hiːɐ̯ ˈʃvaɪ̯tsəʁ ˈkɛːzə/",
+        "korean": [
+          {
+            "text": "깁트",
+            "stress": false
+          },
+          {
+            "text": "에스",
+            "stress": true
+          },
+          {
+            "text": "히ː어",
+            "stress": false
+          },
+          {
+            "text": "슈바이처",
+            "stress": false
+          },
+          {
+            "text": "케ː제",
+            "stress": true
+          }
+        ]
+      },
+      "usesWords": [
+        "word-07",
+        "word-10"
+      ],
+      "audio": {
+        "aiden": {
+          "normal": "/audio/2026-10-11/sentence-01-aiden.opus",
+          "slow": "/audio/2026-10-11/sentence-01-aiden-slow.opus"
+        },
+        "serena": {
+          "normal": "/audio/2026-10-11/sentence-01-serena.opus",
+          "slow": "/audio/2026-10-11/sentence-01-serena-slow.opus"
+        }
+      }
+    },
+    {
+      "id": "sentence-02",
+      "german": "Ich brauche eine Tasche.",
+      "meaning": "저는 봉투가 필요해요.",
+      "pronunciation": {
+        "ipa": "/ɪç ˈbʁaʊ̯xə ˈaɪ̯nə ˈtaʃə/",
+        "korean": [
+          {
+            "text": "이히",
+            "stress": false
+          },
+          {
+            "text": "브라우헤",
+            "stress": true
+          },
+          {
+            "text": "아이네",
+            "stress": false
+          },
+          {
+            "text": "타셰",
+            "stress": true
+          }
+        ]
+      },
+      "usesWords": [
+        "word-05",
+        "word-09"
+      ],
+      "audio": {
+        "aiden": {
+          "normal": "/audio/2026-10-11/sentence-02-aiden.opus",
+          "slow": "/audio/2026-10-11/sentence-02-aiden-slow.opus"
+        },
+        "serena": {
+          "normal": "/audio/2026-10-11/sentence-02-serena.opus",
+          "slow": "/audio/2026-10-11/sentence-02-serena-slow.opus"
+        }
+      }
+    },
+    {
+      "id": "sentence-03",
+      "german": "Ich suche Rüebli und Äpfel.",
+      "meaning": "저는 당근과 사과를 찾고 있어요.",
+      "pronunciation": {
+        "ipa": "/ɪç ˈzuːxə ˈʁyə̯bli ʊnt ˈɛpfl̩/",
+        "korean": [
+          {
+            "text": "이히",
+            "stress": false
+          },
+          {
+            "text": "주ː헤",
+            "stress": true
+          },
+          {
+            "text": "류에블리",
+            "stress": true
+          },
+          {
+            "text": "운트",
+            "stress": false
+          },
+          {
+            "text": "엡펠",
+            "stress": true
+          }
+        ]
+      },
+      "usesWords": [
+        "word-03",
+        "word-06",
+        "word-08"
+      ],
+      "audio": {
+        "aiden": {
+          "normal": "/audio/2026-10-11/sentence-03-aiden.opus",
+          "slow": "/audio/2026-10-11/sentence-03-aiden-slow.opus"
+        },
+        "serena": {
+          "normal": "/audio/2026-10-11/sentence-03-serena.opus",
+          "slow": "/audio/2026-10-11/sentence-03-serena-slow.opus"
+        }
+      }
+    }
+  ],
+  "grammar": {
+    "id": "gibt-es",
+    "title": "Gibt es …? (es gibt + 4격)",
+    "pattern": "Gibt es + 명사(4격)?",
+    "meaning": "“~이/가 있나요?”",
+    "explanation": "'es gibt'는 '~이/가 있다'라는 표현으로, 뒤에는 항상 4격(목적격) 명사가 연결됩니다. 의문문으로 만들 때는 동사 'Gibt'를 문장 맨 앞으로 보내 'Gibt es ...?' 형태로 씁니다. 슈퍼마켓이나 매장에서 찾고 있는 물건이 있는지 점원에게 물어볼 때 유용하게 쓰입니다.",
+    "examples": [
+      {
+        "german": "Gibt es hier Käse?",
+        "meaning": "여기에 치즈가 있나요?"
+      },
+      {
+        "german": "Gibt es eine Tasche?",
+        "meaning": "봉투가 있나요?"
+      }
+    ],
+    "tip": "직원에게 물어볼 때 문장 앞에 'Entschuldigung'(실례합니다)을 덧붙이면 훨씬 정중한 표현이 됩니다."
+  }
+}

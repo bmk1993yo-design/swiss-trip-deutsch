@@ -1,0 +1,511 @@
+{
+  "type": "lesson",
+  "schemaVersion": 1,
+  "date": "2026-10-13",
+  "day": 10,
+  "unlockAt": "2026-10-13T17:00:00+09:00",
+  "theme": {
+    "id": "cable-car",
+    "title": "케이블카",
+    "emoji": "🚠"
+  },
+  "approved": false,
+  "words": [
+    {
+      "id": "word-01",
+      "german": "die Gondelbahn",
+      "meaning": "곤돌라",
+      "partOfSpeech": "noun",
+      "gender": "die",
+      "plural": "die Gondelbahnen",
+      "pronunciation": {
+        "ipa": "/ˈɡɔndl̩ˌbaːn/",
+        "korean": [
+          {
+            "text": "곤",
+            "stress": true
+          },
+          {
+            "text": "들",
+            "stress": false
+          },
+          {
+            "text": "반",
+            "stress": false
+          }
+        ]
+      },
+      "isSwissExpression": true,
+      "swissNote": "스위스 산악 지역에서 흔히 볼 수 있는 소형 케이블카로, 스위스 여행 중 이동할 때 자주 이용합니다.",
+      "audio": {
+        "aiden": {
+          "normal": "/audio/2026-10-13/word-01-aiden.opus",
+          "slow": "/audio/2026-10-13/word-01-aiden-slow.opus"
+        },
+        "serena": {
+          "normal": "/audio/2026-10-13/word-01-serena.opus",
+          "slow": "/audio/2026-10-13/word-01-serena-slow.opus"
+        }
+      }
+    },
+    {
+      "id": "word-02",
+      "german": "die Luftseilbahn",
+      "meaning": "대형 공중 케이블카",
+      "partOfSpeech": "noun",
+      "gender": "die",
+      "plural": "die Luftseilbahnen",
+      "pronunciation": {
+        "ipa": "/ˈlʊftˌzaɪ̯lˌbaːn/",
+        "korean": [
+          {
+            "text": "루프트",
+            "stress": true
+          },
+          {
+            "text": "자일",
+            "stress": false
+          },
+          {
+            "text": "반",
+            "stress": false
+          }
+        ]
+      },
+      "isSwissExpression": true,
+      "swissNote": "스위스에서 대형 케이블카를 뜻하는 대표적인 표현이며, 가파른 봉우리로 올라갈 때 주로 탑승합니다.",
+      "audio": {
+        "aiden": {
+          "normal": "/audio/2026-10-13/word-02-aiden.opus",
+          "slow": "/audio/2026-10-13/word-02-aiden-slow.opus"
+        },
+        "serena": {
+          "normal": "/audio/2026-10-13/word-02-serena.opus",
+          "slow": "/audio/2026-10-13/word-02-serena-slow.opus"
+        }
+      }
+    },
+    {
+      "id": "word-03",
+      "german": "der Berg",
+      "meaning": "산",
+      "partOfSpeech": "noun",
+      "gender": "der",
+      "plural": "die Berge",
+      "pronunciation": {
+        "ipa": "/bɛʁk/",
+        "korean": [
+          {
+            "text": "베르크",
+            "stress": true
+          }
+        ]
+      },
+      "isSwissExpression": false,
+      "audio": {
+        "aiden": {
+          "normal": "/audio/2026-10-13/word-03-aiden.opus",
+          "slow": "/audio/2026-10-13/word-03-aiden-slow.opus"
+        },
+        "serena": {
+          "normal": "/audio/2026-10-13/word-03-serena.opus",
+          "slow": "/audio/2026-10-13/word-03-serena-slow.opus"
+        }
+      }
+    },
+    {
+      "id": "word-04",
+      "german": "das Tal",
+      "meaning": "계곡, 골짜기",
+      "partOfSpeech": "noun",
+      "gender": "das",
+      "plural": "die Täler",
+      "pronunciation": {
+        "ipa": "/taːl/",
+        "korean": [
+          {
+            "text": "탈",
+            "stress": true
+          }
+        ]
+      },
+      "isSwissExpression": false,
+      "audio": {
+        "aiden": {
+          "normal": "/audio/2026-10-13/word-04-aiden.opus",
+          "slow": "/audio/2026-10-13/word-04-aiden-slow.opus"
+        },
+        "serena": {
+          "normal": "/audio/2026-10-13/word-04-serena.opus",
+          "slow": "/audio/2026-10-13/word-04-serena-slow.opus"
+        }
+      }
+    },
+    {
+      "id": "word-05",
+      "german": "die Station",
+      "meaning": "역, 정류장",
+      "partOfSpeech": "noun",
+      "gender": "die",
+      "plural": "die Stationen",
+      "pronunciation": {
+        "ipa": "/staˈt͡si̯oːn/",
+        "korean": [
+          {
+            "text": "스타",
+            "stress": false
+          },
+          {
+            "text": "치온",
+            "stress": true
+          }
+        ]
+      },
+      "isSwissExpression": false,
+      "audio": {
+        "aiden": {
+          "normal": "/audio/2026-10-13/word-05-aiden.opus",
+          "slow": "/audio/2026-10-13/word-05-aiden-slow.opus"
+        },
+        "serena": {
+          "normal": "/audio/2026-10-13/word-05-serena.opus",
+          "slow": "/audio/2026-10-13/word-05-serena-slow.opus"
+        }
+      }
+    },
+    {
+      "id": "word-06",
+      "german": "offen",
+      "meaning": "열려 있는, 영업 중인",
+      "partOfSpeech": "adjective",
+      "pronunciation": {
+        "ipa": "/ˈɔfən/",
+        "korean": [
+          {
+            "text": "오",
+            "stress": true
+          },
+          {
+            "text": "펀",
+            "stress": false
+          }
+        ]
+      },
+      "isSwissExpression": false,
+      "audio": {
+        "aiden": {
+          "normal": "/audio/2026-10-13/word-06-aiden.opus",
+          "slow": "/audio/2026-10-13/word-06-aiden-slow.opus"
+        },
+        "serena": {
+          "normal": "/audio/2026-10-13/word-06-serena.opus",
+          "slow": "/audio/2026-10-13/word-06-serena-slow.opus"
+        }
+      }
+    },
+    {
+      "id": "word-07",
+      "german": "geschlossen",
+      "meaning": "닫힌, 운휴 중인",
+      "partOfSpeech": "adjective",
+      "pronunciation": {
+        "ipa": "/ɡəˈʃlɔsn̩/",
+        "korean": [
+          {
+            "text": "게",
+            "stress": false
+          },
+          {
+            "text": "슐로",
+            "stress": true
+          },
+          {
+            "text": "센",
+            "stress": false
+          }
+        ]
+      },
+      "isSwissExpression": false,
+      "swissNote": "악천후로 인해 케이블카가 운행하지 않을 때 안내판이나 앱에 이 단어가 표시됩니다.",
+      "audio": {
+        "aiden": {
+          "normal": "/audio/2026-10-13/word-07-aiden.opus",
+          "slow": "/audio/2026-10-13/word-07-aiden-slow.opus"
+        },
+        "serena": {
+          "normal": "/audio/2026-10-13/word-07-serena.opus",
+          "slow": "/audio/2026-10-13/word-07-serena-slow.opus"
+        }
+      }
+    },
+    {
+      "id": "word-08",
+      "german": "das Wetter",
+      "meaning": "날씨",
+      "partOfSpeech": "noun",
+      "gender": "das",
+      "plural": null,
+      "pronunciation": {
+        "ipa": "/ˈvɛtɐ/",
+        "korean": [
+          {
+            "text": "베",
+            "stress": true
+          },
+          {
+            "text": "터",
+            "stress": false
+          }
+        ]
+      },
+      "isSwissExpression": false,
+      "audio": {
+        "aiden": {
+          "normal": "/audio/2026-10-13/word-08-aiden.opus",
+          "slow": "/audio/2026-10-13/word-08-aiden-slow.opus"
+        },
+        "serena": {
+          "normal": "/audio/2026-10-13/word-08-serena.opus",
+          "slow": "/audio/2026-10-13/word-08-serena-slow.opus"
+        }
+      }
+    },
+    {
+      "id": "word-09",
+      "german": "der Wind",
+      "meaning": "바람",
+      "partOfSpeech": "noun",
+      "gender": "der",
+      "plural": "die Winde",
+      "pronunciation": {
+        "ipa": "/vɪnt/",
+        "korean": [
+          {
+            "text": "빈트",
+            "stress": true
+          }
+        ]
+      },
+      "isSwissExpression": false,
+      "audio": {
+        "aiden": {
+          "normal": "/audio/2026-10-13/word-09-aiden.opus",
+          "slow": "/audio/2026-10-13/word-09-aiden-slow.opus"
+        },
+        "serena": {
+          "normal": "/audio/2026-10-13/word-09-serena.opus",
+          "slow": "/audio/2026-10-13/word-09-serena-slow.opus"
+        }
+      }
+    },
+    {
+      "id": "word-10",
+      "german": "wann",
+      "meaning": "언제",
+      "partOfSpeech": "adverb",
+      "pronunciation": {
+        "ipa": "/van/",
+        "korean": [
+          {
+            "text": "반",
+            "stress": true
+          }
+        ]
+      },
+      "isSwissExpression": false,
+      "audio": {
+        "aiden": {
+          "normal": "/audio/2026-10-13/word-10-aiden.opus",
+          "slow": "/audio/2026-10-13/word-10-aiden-slow.opus"
+        },
+        "serena": {
+          "normal": "/audio/2026-10-13/word-10-serena.opus",
+          "slow": "/audio/2026-10-13/word-10-serena-slow.opus"
+        }
+      }
+    }
+  ],
+  "sentences": [
+    {
+      "id": "sentence-01",
+      "german": "Um wie viel Uhr fährt die letzte Gondelbahn?",
+      "meaning": "지막 곤돌라는 몇 시에 출발하나요?",
+      "pronunciation": {
+        "ipa": "/ʊm viː fiːl uːɐ̯ fɛːɐ̯t diː ˈlɛstə ˈɡɔndl̩ˌbaːn/",
+        "korean": [
+          {
+            "text": "움",
+            "stress": false
+          },
+          {
+            "text": "비ː",
+            "stress": false
+          },
+          {
+            "text": "필",
+            "stress": false
+          },
+          {
+            "text": "우어",
+            "stress": true
+          },
+          {
+            "text": "페르트",
+            "stress": false
+          },
+          {
+            "text": "디ː",
+            "stress": false
+          },
+          {
+            "text": "레스테",
+            "stress": false
+          },
+          {
+            "text": "곤들반",
+            "stress": true
+          }
+        ]
+      },
+      "usesWords": [
+        "word-01"
+      ],
+      "audio": {
+        "aiden": {
+          "normal": "/audio/2026-10-13/sentence-01-aiden.opus",
+          "slow": "/audio/2026-10-13/sentence-01-aiden-slow.opus"
+        },
+        "serena": {
+          "normal": "/audio/2026-10-13/sentence-01-serena.opus",
+          "slow": "/audio/2026-10-13/sentence-01-serena-slow.opus"
+        }
+      }
+    },
+    {
+      "id": "sentence-02",
+      "german": "Ist die Luftseilbahn wegen des Wetters geschlossen?",
+      "meaning": "날씨 때문에 대형 케이블카가 운휴 중인가요?",
+      "pronunciation": {
+        "ipa": "/ɪst diː ˈlʊftˌzaɪ̯lˌbaːn ˈveːɡn̩ dɛs ˈvɛtɐs ɡəˈʃlɔsn̩/",
+        "korean": [
+          {
+            "text": "이스트",
+            "stress": false
+          },
+          {
+            "text": "디ː",
+            "stress": false
+          },
+          {
+            "text": "루프트자일반",
+            "stress": true
+          },
+          {
+            "text": "베겐",
+            "stress": false
+          },
+          {
+            "text": "데스",
+            "stress": false
+          },
+          {
+            "text": "베터스",
+            "stress": false
+          },
+          {
+            "text": "게슐로센",
+            "stress": true
+          }
+        ]
+      },
+      "usesWords": [
+        "word-02",
+        "word-07",
+        "word-08"
+      ],
+      "audio": {
+        "aiden": {
+          "normal": "/audio/2026-10-13/sentence-02-aiden.opus",
+          "slow": "/audio/2026-10-13/sentence-02-aiden-slow.opus"
+        },
+        "serena": {
+          "normal": "/audio/2026-10-13/sentence-02-serena.opus",
+          "slow": "/audio/2026-10-13/sentence-02-serena-slow.opus"
+        }
+      }
+    },
+    {
+      "id": "sentence-03",
+      "german": "Um wie viel Uhr kommt die Gondelbahn an?",
+      "meaning": "곤돌라는 몇 시에 도착하나요?",
+      "pronunciation": {
+        "ipa": "/ʊm viː fiːl uːɐ̯ kɔmt diː ˈɡɔndl̩ˌbaːn an/",
+        "korean": [
+          {
+            "text": "움",
+            "stress": false
+          },
+          {
+            "text": "비ː",
+            "stress": false
+          },
+          {
+            "text": "필",
+            "stress": false
+          },
+          {
+            "text": "우어",
+            "stress": true
+          },
+          {
+            "text": "콤트",
+            "stress": false
+          },
+          {
+            "text": "디ː",
+            "stress": false
+          },
+          {
+            "text": "곤들반",
+            "stress": true
+          },
+          {
+            "text": "안",
+            "stress": false
+          }
+        ]
+      },
+      "usesWords": [
+        "word-01"
+      ],
+      "audio": {
+        "aiden": {
+          "normal": "/audio/2026-10-13/sentence-03-aiden.opus",
+          "slow": "/audio/2026-10-13/sentence-03-aiden-slow.opus"
+        },
+        "serena": {
+          "normal": "/audio/2026-10-13/sentence-03-serena.opus",
+          "slow": "/audio/2026-10-13/sentence-03-serena-slow.opus"
+        }
+      }
+    }
+  ],
+  "grammar": {
+    "id": "um-wie-viel-uhr",
+    "title": "Um wie viel Uhr …? (시각 말하기)",
+    "pattern": "Um wie viel Uhr + 동사 + 주어 …?",
+    "meaning": "“몇 시에 ~하나요?”",
+    "explanation": "특정 시각을 물어볼 때 사용하는 표현입니다. 'Um wie viel Uhr'는 '몇 시에'라는 의미로 문장 맨 처음에 오며, 그 뒤에는 동사가 두 번째 자리에 위치합니다. 시각을 대답할 때는 'um + 시각' 형태로 답합니다.",
+    "examples": [
+      {
+        "german": "Um wie viel Uhr fährt die Gondelbahn?",
+        "meaning": "곤돌라는 몇 시에 출발하나요?"
+      },
+      {
+        "german": "Um wie viel Uhr öffnet die Station?",
+        "meaning": "역은 몇 시에 문을 여나요?"
+      }
+    ],
+    "tip": "스위스 산악 케이블카는 기상 상황에 따라 운행 시간이 급변경될 수 있으므로 탑승 전 안내판을 꼭 확인하세요."
+  }
+}

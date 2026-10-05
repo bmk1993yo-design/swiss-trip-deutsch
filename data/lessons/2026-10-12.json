@@ -1,0 +1,494 @@
+{
+  "type": "lesson",
+  "schemaVersion": 1,
+  "date": "2026-10-12",
+  "day": 9,
+  "unlockAt": "2026-10-12T17:00:00+09:00",
+  "theme": {
+    "id": "mountain-railway",
+    "title": "산악열차",
+    "emoji": "🚞"
+  },
+  "approved": false,
+  "words": [
+    {
+      "id": "word-01",
+      "german": "die Zahnradbahn",
+      "meaning": "톱니바퀴 산악열차",
+      "partOfSpeech": "noun",
+      "gender": "die",
+      "plural": "die Zahnradbahnen",
+      "pronunciation": {
+        "ipa": "/ˈtsaːnʁaːtˌbaːn/",
+        "korean": [
+          {
+            "text": "차ː른",
+            "stress": true
+          },
+          {
+            "text": "라ː트",
+            "stress": false
+          },
+          {
+            "text": "바ː른",
+            "stress": false
+          }
+        ]
+      },
+      "isSwissExpression": true,
+      "swissNote": "스위스의 가파른 산악 지형을 오를 때 필수적인 톱니바퀴 열차입니다. 융프라우요흐로 향할 때도 탑승하게 됩니다.",
+      "audio": {
+        "aiden": {
+          "normal": "/audio/2026-10-12/word-01-aiden.opus",
+          "slow": "/audio/2026-10-12/word-01-aiden-slow.opus"
+        },
+        "serena": {
+          "normal": "/audio/2026-10-12/word-01-serena.opus",
+          "slow": "/audio/2026-10-12/word-01-serena-slow.opus"
+        }
+      }
+    },
+    {
+      "id": "word-02",
+      "german": "das Gleis",
+      "meaning": "승강장 번호, 선로",
+      "partOfSpeech": "noun",
+      "gender": "das",
+      "plural": "die Gleise",
+      "pronunciation": {
+        "ipa": "/ɡlaɪ̯s/",
+        "korean": [
+          {
+            "text": "글라이스",
+            "stress": true
+          }
+        ]
+      },
+      "isSwissExpression": false,
+      "swissNote": "스위스 기차역 안내판에서 플랫폼 번호를 확인할 때 'Gleis 3' (3번 승강장) 형태로 자주 보게 됩니다.",
+      "audio": {
+        "aiden": {
+          "normal": "/audio/2026-10-12/word-02-aiden.opus",
+          "slow": "/audio/2026-10-12/word-02-aiden-slow.opus"
+        },
+        "serena": {
+          "normal": "/audio/2026-10-12/word-02-serena.opus",
+          "slow": "/audio/2026-10-12/word-02-serena-slow.opus"
+        }
+      }
+    },
+    {
+      "id": "word-03",
+      "german": "die Abfahrt",
+      "meaning": "출발",
+      "partOfSpeech": "noun",
+      "gender": "die",
+      "plural": "die Abfahrten",
+      "pronunciation": {
+        "ipa": "/ˈapˌfaːɐ̯t/",
+        "korean": [
+          {
+            "text": "압",
+            "stress": true
+          },
+          {
+            "text": "파르트",
+            "stress": false
+          }
+        ]
+      },
+      "isSwissExpression": false,
+      "audio": {
+        "aiden": {
+          "normal": "/audio/2026-10-12/word-03-aiden.opus",
+          "slow": "/audio/2026-10-12/word-03-aiden-slow.opus"
+        },
+        "serena": {
+          "normal": "/audio/2026-10-12/word-03-serena.opus",
+          "slow": "/audio/2026-10-12/word-03-serena-slow.opus"
+        }
+      }
+    },
+    {
+      "id": "word-04",
+      "german": "die Ankunftzeit",
+      "meaning": "도착 시각",
+      "partOfSpeech": "noun",
+      "gender": "die",
+      "plural": "die Ankunftzeiten",
+      "pronunciation": {
+        "ipa": "/ˈanˌkʊŋft͡sˌtsaɪ̯t/",
+        "korean": [
+          {
+            "text": "안",
+            "stress": true
+          },
+          {
+            "text": "쿵프트",
+            "stress": false
+          },
+          {
+            "text": "차이트",
+            "stress": false
+          }
+        ]
+      },
+      "isSwissExpression": false,
+      "audio": {
+        "aiden": {
+          "normal": "/audio/2026-10-12/word-04-aiden.opus",
+          "slow": "/audio/2026-10-12/word-04-aiden-slow.opus"
+        },
+        "serena": {
+          "normal": "/audio/2026-10-12/word-04-serena.opus",
+          "slow": "/audio/2026-10-12/word-04-serena-slow.opus"
+        }
+      }
+    },
+    {
+      "id": "word-05",
+      "german": "der Umstieg",
+      "meaning": "환승",
+      "partOfSpeech": "noun",
+      "gender": "der",
+      "plural": "die Umstiege",
+      "pronunciation": {
+        "ipa": "/ˈʊmˌstiːk/",
+        "korean": [
+          {
+            "text": "움",
+            "stress": true
+          },
+          {
+            "text": "스티크",
+            "stress": false
+          }
+        ]
+      },
+      "isSwissExpression": false,
+      "audio": {
+        "aiden": {
+          "normal": "/audio/2026-10-12/word-05-aiden.opus",
+          "slow": "/audio/2026-10-12/word-05-aiden-slow.opus"
+        },
+        "serena": {
+          "normal": "/audio/2026-10-12/word-05-serena.opus",
+          "slow": "/audio/2026-10-12/word-05-serena-slow.opus"
+        }
+      }
+    },
+    {
+      "id": "word-06",
+      "german": "die Dauer",
+      "meaning": "소요 시간, 기간",
+      "partOfSpeech": "noun",
+      "gender": "die",
+      "plural": null,
+      "pronunciation": {
+        "ipa": "/ˈdaʊ̯ɐ/",
+        "korean": [
+          {
+            "text": "다우",
+            "stress": true
+          },
+          {
+            "text": "어",
+            "stress": false
+          }
+        ]
+      },
+      "isSwissExpression": false,
+      "audio": {
+        "aiden": {
+          "normal": "/audio/2026-10-12/word-06-aiden.opus",
+          "slow": "/audio/2026-10-12/word-06-aiden-slow.opus"
+        },
+        "serena": {
+          "normal": "/audio/2026-10-12/word-06-serena.opus",
+          "slow": "/audio/2026-10-12/word-06-serena-slow.opus"
+        }
+      }
+    },
+    {
+      "id": "word-07",
+      "german": "abfahren",
+      "meaning": "출발하다",
+      "partOfSpeech": "verb",
+      "pronunciation": {
+        "ipa": "/ˈapˌfaːʁən/",
+        "korean": [
+          {
+            "text": "압",
+            "stress": true
+          },
+          {
+            "text": "파렌",
+            "stress": false
+          }
+        ]
+      },
+      "isSwissExpression": false,
+      "swissNote": "대표적인 분리동사로 문장 맨 뒤에 'ab'가 분리되어 위치합니다.",
+      "audio": {
+        "aiden": {
+          "normal": "/audio/2026-10-12/word-07-aiden.opus",
+          "slow": "/audio/2026-10-12/word-07-aiden-slow.opus"
+        },
+        "serena": {
+          "normal": "/audio/2026-10-12/word-07-serena.opus",
+          "slow": "/audio/2026-10-12/word-07-serena-slow.opus"
+        }
+      }
+    },
+    {
+      "id": "word-08",
+      "german": "umsteigen",
+      "meaning": "환승하다",
+      "partOfSpeech": "verb",
+      "pronunciation": {
+        "ipa": "/ˈʊmˌʃtaɪ̯ɡən/",
+        "korean": [
+          {
+            "text": "움",
+            "stress": true
+          },
+          {
+            "text": "슈타이겐",
+            "stress": false
+          }
+        ]
+      },
+      "isSwissExpression": false,
+      "audio": {
+        "aiden": {
+          "normal": "/audio/2026-10-12/word-08-aiden.opus",
+          "slow": "/audio/2026-10-12/word-08-aiden-slow.opus"
+        },
+        "serena": {
+          "normal": "/audio/2026-10-12/word-08-serena.opus",
+          "slow": "/audio/2026-10-12/word-08-serena-slow.opus"
+        }
+      }
+    },
+    {
+      "id": "word-09",
+      "german": "dauern",
+      "meaning": "걸리다, 지속되다",
+      "partOfSpeech": "verb",
+      "pronunciation": {
+        "ipa": "/ˈdaʊ̯ɐn/",
+        "korean": [
+          {
+            "text": "다우",
+            "stress": true
+          },
+          {
+            "text": "언",
+            "stress": false
+          }
+        ]
+      },
+      "isSwissExpression": false,
+      "audio": {
+        "aiden": {
+          "normal": "/audio/2026-10-12/word-09-aiden.opus",
+          "slow": "/audio/2026-10-12/word-09-aiden-slow.opus"
+        },
+        "serena": {
+          "normal": "/audio/2026-10-12/word-09-serena.opus",
+          "slow": "/audio/2026-10-12/word-09-serena-slow.opus"
+        }
+      }
+    },
+    {
+      "id": "word-10",
+      "german": "direkt",
+      "meaning": "직행의, 직접의",
+      "partOfSpeech": "adjective",
+      "pronunciation": {
+        "ipa": "/diˈʁɛkt/",
+        "korean": [
+          {
+            "text": "디",
+            "stress": false
+          },
+          {
+            "text": "렉트",
+            "stress": true
+          }
+        ]
+      },
+      "isSwissExpression": false,
+      "audio": {
+        "aiden": {
+          "normal": "/audio/2026-10-12/word-10-aiden.opus",
+          "slow": "/audio/2026-10-12/word-10-aiden-slow.opus"
+        },
+        "serena": {
+          "normal": "/audio/2026-10-12/word-10-serena.opus",
+          "slow": "/audio/2026-10-12/word-10-serena-slow.opus"
+        }
+      }
+    }
+  ],
+  "sentences": [
+    {
+      "id": "sentence-01",
+      "german": "Wann fährt die Zahnradbahn ab?",
+      "meaning": "산악열차는 언제 출발하나요?",
+      "pronunciation": {
+        "ipa": "/van fɛːɐ̯t diː ˈtsaːnʁaːtˌbaːn ap/",
+        "korean": [
+          {
+            "text": "반",
+            "stress": true
+          },
+          {
+            "text": "페르트",
+            "stress": false
+          },
+          {
+            "text": "디ː",
+            "stress": false
+          },
+          {
+            "text": "차ː른라트바ː른",
+            "stress": true
+          },
+          {
+            "text": "압",
+            "stress": false
+          }
+        ]
+      },
+      "usesWords": [
+        "word-01",
+        "word-07"
+      ],
+      "audio": {
+        "aiden": {
+          "normal": "/audio/2026-10-12/sentence-01-aiden.opus",
+          "slow": "/audio/2026-10-12/sentence-01-aiden-slow.opus"
+        },
+        "serena": {
+          "normal": "/audio/2026-10-12/sentence-01-serena.opus",
+          "slow": "/audio/2026-10-12/sentence-01-serena-slow.opus"
+        }
+      }
+    },
+    {
+      "id": "sentence-02",
+      "german": "Wie lange dauert die Fahrt zum Berg?",
+      "meaning": "산까지 가는 데 얼마나 걸리나요?",
+      "pronunciation": {
+        "ipa": "/viː ˈlaŋə ˈdaʊ̯ɐt diː faːɐ̯t t͡sʊm bɛʁk/",
+        "korean": [
+          {
+            "text": "비ː",
+            "stress": false
+          },
+          {
+            "text": "랑게",
+            "stress": false
+          },
+          {
+            "text": "다우어트",
+            "stress": true
+          },
+          {
+            "text": "디ː",
+            "stress": false
+          },
+          {
+            "text": "파르트",
+            "stress": false
+          },
+          {
+            "text": "춤",
+            "stress": false
+          },
+          {
+            "text": "베르크",
+            "stress": true
+          }
+        ]
+      },
+      "usesWords": [
+        "word-06",
+        "word-09"
+      ],
+      "audio": {
+        "aiden": {
+          "normal": "/audio/2026-10-12/sentence-02-aiden.opus",
+          "slow": "/audio/2026-10-12/sentence-02-aiden-slow.opus"
+        },
+        "serena": {
+          "normal": "/audio/2026-10-12/sentence-02-serena.opus",
+          "slow": "/audio/2026-10-12/sentence-02-serena-slow.opus"
+        }
+      }
+    },
+    {
+      "id": "sentence-03",
+      "german": "Muss ich in Interlaken umsteigen?",
+      "meaning": "인터라켄에서 환승해야 하나요?",
+      "pronunciation": {
+        "ipa": "/mʊs ɪç ɪn ˌɪntɐˈlaːkn̩ ˈʊmˌʃtaɪ̯ɡən/",
+        "korean": [
+          {
+            "text": "무스",
+            "stress": false
+          },
+          {
+            "text": "이히",
+            "stress": false
+          },
+          {
+            "text": "인",
+            "stress": false
+          },
+          {
+            "text": "인터라켄",
+            "stress": true
+          },
+          {
+            "text": "움슈타이겐",
+            "stress": true
+          }
+        ]
+      },
+      "usesWords": [
+        "word-08"
+      ],
+      "swissNote": "스위스 여행 시 인기 관광지인 융프라우 지역으로 갈 때 인터라켄(Interlaken) 등에서 열차를 갈아타는 경우가 많습니다.",
+      "audio": {
+        "aiden": {
+          "normal": "/audio/2026-10-12/sentence-03-aiden.opus",
+          "slow": "/audio/2026-10-12/sentence-03-aiden-slow.opus"
+        },
+        "serena": {
+          "normal": "/audio/2026-10-12/sentence-03-serena.opus",
+          "slow": "/audio/2026-10-12/sentence-03-serena-slow.opus"
+        }
+      }
+    }
+  ],
+  "grammar": {
+    "id": "trennbare-verben",
+    "title": "분리동사: Der Zug fährt um 9 Uhr ab.",
+    "pattern": "주어 + 분리동사(변형) + … + 전치구/목적어 + 전치사(접두사)",
+    "meaning": "“기차가 9시에 출발합니다.”",
+    "explanation": "독일어의 분리동사는 문장에서 쓰일 때 전치사 형태의 접두사(ab-, um- 등)가 문장 맨 뒤로 떨어져 나가는 특징이 있습니다. 본동사는 주어에 맞춰 2번째 자리에 오고, 접두사는 문장의 가장 마지막에 놓입니다.",
+    "examples": [
+      {
+        "german": "Der Zug fährt um 9 Uhr ab.",
+        "meaning": "기차가 9시에 출발합니다."
+      },
+      {
+        "german": "Ich steige in Interlaken um.",
+        "meaning": "나는 인터라켄에서 환승합니다."
+      }
+    ],
+    "tip": "회화에서 질문을 만들 때는 조동사(Muss, Kann 등)를 활용하여 분리동사 원형을 문장 맨 뒤로 보낼 수도 있습니다. (예: Muss ich umsteigen?)"
+  }
+}

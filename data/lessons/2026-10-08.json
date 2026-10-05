@@ -1,0 +1,513 @@
+{
+  "type": "lesson",
+  "schemaVersion": 1,
+  "date": "2026-10-08",
+  "day": 5,
+  "unlockAt": "2026-10-08T17:00:00+09:00",
+  "theme": {
+    "id": "restaurant",
+    "title": "식당",
+    "emoji": "🍽️"
+  },
+  "approved": false,
+  "words": [
+    {
+      "id": "word-01",
+      "german": "der Tisch",
+      "meaning": "테이블, 식탁",
+      "partOfSpeech": "noun",
+      "gender": "der",
+      "plural": "die Tische",
+      "pronunciation": {
+        "ipa": "/ˈtɪʃ/",
+        "korean": [
+          {
+            "text": "티슈",
+            "stress": true
+          }
+        ]
+      },
+      "isSwissExpression": false,
+      "audio": {
+        "aiden": {
+          "normal": "/audio/2026-10-08/word-01-aiden.opus",
+          "slow": "/audio/2026-10-08/word-01-aiden-slow.opus"
+        },
+        "serena": {
+          "normal": "/audio/2026-10-08/word-01-serena.opus",
+          "slow": "/audio/2026-10-08/word-01-serena-slow.opus"
+        }
+      }
+    },
+    {
+      "id": "word-02",
+      "german": "die Speisekarte",
+      "meaning": "메뉴판",
+      "partOfSpeech": "noun",
+      "gender": "die",
+      "plural": "die Speisekarten",
+      "pronunciation": {
+        "ipa": "/ˈʃpaɪ̯zəˌkaʁtə/",
+        "korean": [
+          {
+            "text": "슈파이",
+            "stress": true
+          },
+          {
+            "text": "제",
+            "stress": false
+          },
+          {
+            "text": "카르",
+            "stress": false
+          },
+          {
+            "text": "테",
+            "stress": false
+          }
+        ]
+      },
+      "isSwissExpression": false,
+      "audio": {
+        "aiden": {
+          "normal": "/audio/2026-10-08/word-02-aiden.opus",
+          "slow": "/audio/2026-10-08/word-02-aiden-slow.opus"
+        },
+        "serena": {
+          "normal": "/audio/2026-10-08/word-02-serena.opus",
+          "slow": "/audio/2026-10-08/word-02-serena-slow.opus"
+        }
+      }
+    },
+    {
+      "id": "word-03",
+      "german": "nehmen",
+      "meaning": "먹다, 선택하다, 가지다",
+      "partOfSpeech": "verb",
+      "pronunciation": {
+        "ipa": "/ˈneːmən/",
+        "korean": [
+          {
+            "text": "네ː",
+            "stress": true
+          },
+          {
+            "text": "멘",
+            "stress": false
+          }
+        ]
+      },
+      "isSwissExpression": false,
+      "audio": {
+        "aiden": {
+          "normal": "/audio/2026-10-08/word-03-aiden.opus",
+          "slow": "/audio/2026-10-08/word-03-aiden-slow.opus"
+        },
+        "serena": {
+          "normal": "/audio/2026-10-08/word-03-serena.opus",
+          "slow": "/audio/2026-10-08/word-03-serena-slow.opus"
+        }
+      }
+    },
+    {
+      "id": "word-04",
+      "german": "das Wasser",
+      "meaning": "물",
+      "partOfSpeech": "noun",
+      "gender": "das",
+      "plural": null,
+      "pronunciation": {
+        "ipa": "/ˈvasɐ/",
+        "korean": [
+          {
+            "text": "바",
+            "stress": true
+          },
+          {
+            "text": "서",
+            "stress": false
+          }
+        ]
+      },
+      "isSwissExpression": false,
+      "swissNote": "스위스 식당에서는 기본적으로 유료 탄산수/정수 물을 판매합니다. 수돗물을 원하시면 'Leitungswasser'(라이퉁스바서)를 문의해 보세요.",
+      "audio": {
+        "aiden": {
+          "normal": "/audio/2026-10-08/word-04-aiden.opus",
+          "slow": "/audio/2026-10-08/word-04-aiden-slow.opus"
+        },
+        "serena": {
+          "normal": "/audio/2026-10-08/word-04-serena.opus",
+          "slow": "/audio/2026-10-08/word-04-serena-slow.opus"
+        }
+      }
+    },
+    {
+      "id": "word-05",
+      "german": "das Poulet",
+      "meaning": "닭고기",
+      "partOfSpeech": "noun",
+      "gender": "das",
+      "plural": "die Poulets",
+      "pronunciation": {
+        "ipa": "/puˈleː/",
+        "korean": [
+          {
+            "text": "푸",
+            "stress": false
+          },
+          {
+            "text": "레ː",
+            "stress": true
+          }
+        ]
+      },
+      "isSwissExpression": true,
+      "swissNote": "스위스에서는 닭고기를 독일 표준어 Hähnchen 대신 프랑스어에서 온 Poulet이라고 부릅니다.",
+      "audio": {
+        "aiden": {
+          "normal": "/audio/2026-10-08/word-05-aiden.opus",
+          "slow": "/audio/2026-10-08/word-05-aiden-slow.opus"
+        },
+        "serena": {
+          "normal": "/audio/2026-10-08/word-05-serena.opus",
+          "slow": "/audio/2026-10-08/word-05-serena-slow.opus"
+        }
+      }
+    },
+    {
+      "id": "word-06",
+      "german": "die Rösti",
+      "meaning": "뢰스티 (스위스식 감자 요리)",
+      "partOfSpeech": "noun",
+      "gender": "die",
+      "plural": null,
+      "pronunciation": {
+        "ipa": "/ˈrøːʃti/",
+        "korean": [
+          {
+            "text": "뢰ː",
+            "stress": true
+          },
+          {
+            "text": "슈티",
+            "stress": false
+          }
+        ]
+      },
+      "isSwissExpression": true,
+      "swissNote": "뢰스티는 채썬 감자를 노릇하게 부쳐 낸 스위스의 가장 대표적인 전통 음식입니다.",
+      "audio": {
+        "aiden": {
+          "normal": "/audio/2026-10-08/word-06-aiden.opus",
+          "slow": "/audio/2026-10-08/word-06-aiden-slow.opus"
+        },
+        "serena": {
+          "normal": "/audio/2026-10-08/word-06-serena.opus",
+          "slow": "/audio/2026-10-08/word-06-serena-slow.opus"
+        }
+      }
+    },
+    {
+      "id": "word-07",
+      "german": "die Rechnung",
+      "meaning": "계산서",
+      "partOfSpeech": "noun",
+      "gender": "die",
+      "plural": "die Rechnungen",
+      "pronunciation": {
+        "ipa": "/ˈʁɛçnʊŋ/",
+        "korean": [
+          {
+            "text": "레히",
+            "stress": true
+          },
+          {
+            "text": "눙",
+            "stress": false
+          }
+        ]
+      },
+      "isSwissExpression": false,
+      "swissNote": "스위스 식당에서는 카운터로 나가지 않고 앉아 계신 테이블에서 담당 직원에게 계산을 요청합니다.",
+      "audio": {
+        "aiden": {
+          "normal": "/audio/2026-10-08/word-07-aiden.opus",
+          "slow": "/audio/2026-10-08/word-07-aiden-slow.opus"
+        },
+        "serena": {
+          "normal": "/audio/2026-10-08/word-07-serena.opus",
+          "slow": "/audio/2026-10-08/word-07-serena-slow.opus"
+        }
+      }
+    },
+    {
+      "id": "word-08",
+      "german": "der Salat",
+      "meaning": "샐러드",
+      "partOfSpeech": "noun",
+      "gender": "der",
+      "plural": "die Salate",
+      "pronunciation": {
+        "ipa": "/zaˈlaːt/",
+        "korean": [
+          {
+            "text": "자",
+            "stress": false
+          },
+          {
+            "text": "라ː트",
+            "stress": true
+          }
+        ]
+      },
+      "isSwissExpression": false,
+      "audio": {
+        "aiden": {
+          "normal": "/audio/2026-10-08/word-08-aiden.opus",
+          "slow": "/audio/2026-10-08/word-08-aiden-slow.opus"
+        },
+        "serena": {
+          "normal": "/audio/2026-10-08/word-08-serena.opus",
+          "slow": "/audio/2026-10-08/word-08-serena-slow.opus"
+        }
+      }
+    },
+    {
+      "id": "word-09",
+      "german": "bestellen",
+      "meaning": "주문하다",
+      "partOfSpeech": "verb",
+      "pronunciation": {
+        "ipa": "/bəˈʃtɛlən/",
+        "korean": [
+          {
+            "text": "베",
+            "stress": false
+          },
+          {
+            "text": "슈텔",
+            "stress": true
+          },
+          {
+            "text": "렌",
+            "stress": false
+          }
+        ]
+      },
+      "isSwissExpression": false,
+      "audio": {
+        "aiden": {
+          "normal": "/audio/2026-10-08/word-09-aiden.opus",
+          "slow": "/audio/2026-10-08/word-09-aiden-slow.opus"
+        },
+        "serena": {
+          "normal": "/audio/2026-10-08/word-09-serena.opus",
+          "slow": "/audio/2026-10-08/word-09-serena-slow.opus"
+        }
+      }
+    },
+    {
+      "id": "word-10",
+      "german": "bitte",
+      "meaning": "부탁합니다, 주세요",
+      "partOfSpeech": "adverb",
+      "pronunciation": {
+        "ipa": "/ˈbɪtə/",
+        "korean": [
+          {
+            "text": "비",
+            "stress": true
+          },
+          {
+            "text": "테",
+            "stress": false
+          }
+        ]
+      },
+      "isSwissExpression": false,
+      "audio": {
+        "aiden": {
+          "normal": "/audio/2026-10-08/word-10-aiden.opus",
+          "slow": "/audio/2026-10-08/word-10-aiden-slow.opus"
+        },
+        "serena": {
+          "normal": "/audio/2026-10-08/word-10-serena.opus",
+          "slow": "/audio/2026-10-08/word-10-serena-slow.opus"
+        }
+      }
+    }
+  ],
+  "sentences": [
+    {
+      "id": "sentence-01",
+      "german": "Ich nehme ein Poulet und ein Wasser, bitte.",
+      "meaning": "닭고기 요리 하나와 물 한 잔 주세요.",
+      "pronunciation": {
+        "ipa": "/ɪç ˈneːmə aɪ̯n puˈleː ʊnt aɪ̯n ˈvasɐ ˈbɪtə/",
+        "korean": [
+          {
+            "text": "이히",
+            "stress": false
+          },
+          {
+            "text": "네ː메",
+            "stress": true
+          },
+          {
+            "text": "아인",
+            "stress": false
+          },
+          {
+            "text": "푸레ː",
+            "stress": true
+          },
+          {
+            "text": "운트",
+            "stress": false
+          },
+          {
+            "text": "아인",
+            "stress": false
+          },
+          {
+            "text": "바서",
+            "stress": true
+          },
+          {
+            "text": "비테",
+            "stress": false
+          }
+        ]
+      },
+      "usesWords": [
+        "word-03",
+        "word-04",
+        "word-05",
+        "word-10"
+      ],
+      "audio": {
+        "aiden": {
+          "normal": "/audio/2026-10-08/sentence-01-aiden.opus",
+          "slow": "/audio/2026-10-08/sentence-01-aiden-slow.opus"
+        },
+        "serena": {
+          "normal": "/audio/2026-10-08/sentence-01-serena.opus",
+          "slow": "/audio/2026-10-08/sentence-01-serena-slow.opus"
+        }
+      }
+    },
+    {
+      "id": "sentence-02",
+      "german": "Die Rechnung, bitte!",
+      "meaning": "계산서 주세요!",
+      "pronunciation": {
+        "ipa": "/diː ˈʁɛçnʊŋ ˈbɪtə/",
+        "korean": [
+          {
+            "text": "디ː",
+            "stress": false
+          },
+          {
+            "text": "레히눙",
+            "stress": true
+          },
+          {
+            "text": "비테",
+            "stress": false
+          }
+        ]
+      },
+      "usesWords": [
+        "word-07",
+        "word-10"
+      ],
+      "swissNote": "계산이 끝나면 직원에게 'Merci!'(감사합니다)라고 인사해 보세요.",
+      "audio": {
+        "aiden": {
+          "normal": "/audio/2026-10-08/sentence-02-aiden.opus",
+          "slow": "/audio/2026-10-08/sentence-02-aiden-slow.opus"
+        },
+        "serena": {
+          "normal": "/audio/2026-10-08/sentence-02-serena.opus",
+          "slow": "/audio/2026-10-08/sentence-02-serena-slow.opus"
+        }
+      }
+    },
+    {
+      "id": "sentence-03",
+      "german": "Wir bestellen einen Salat und die Rösti.",
+      "meaning": "저희는 샐러드 하나와 뢰스티를 주문할게요.",
+      "pronunciation": {
+        "ipa": "/viːɐ̯ bəˈʃtɛlən ˈaɪ̯nən zaˈlaːt ʊnt diː ˈrøːʃti/",
+        "korean": [
+          {
+            "text": "비어",
+            "stress": false
+          },
+          {
+            "text": "베슈텔렌",
+            "stress": false
+          },
+          {
+            "text": "아이넨",
+            "stress": false
+          },
+          {
+            "text": "자라ː트",
+            "stress": true
+          },
+          {
+            "text": "운트",
+            "stress": false
+          },
+          {
+            "text": "디ː",
+            "stress": false
+          },
+          {
+            "text": "뢰ː슈티",
+            "stress": true
+          }
+        ]
+      },
+      "usesWords": [
+        "word-06",
+        "word-08",
+        "word-09"
+      ],
+      "audio": {
+        "aiden": {
+          "normal": "/audio/2026-10-08/sentence-03-aiden.opus",
+          "slow": "/audio/2026-10-08/sentence-03-aiden-slow.opus"
+        },
+        "serena": {
+          "normal": "/audio/2026-10-08/sentence-03-serena.opus",
+          "slow": "/audio/2026-10-08/sentence-03-serena-slow.opus"
+        }
+      }
+    }
+  ],
+  "grammar": {
+    "id": "ich-nehme",
+    "title": "Ich nehme … (주문할 때의 4격)",
+    "pattern": "Ich nehme + 명사(4격/목적격)",
+    "meaning": "“저는 ~로 할게요 / ~를 선택할게요”",
+    "explanation": "식당에서 메뉴를 선택하거나 주문할 때 가장 자주 쓰는 표현은 'Ich nehme ...'(나는 ~를 선택하겠다)입니다. 동사 nehmen 뒤에는 목적어인 4격(목적격) 명사가 옵니다. 남성 명사(der)는 부정관사가 einen으로 바뀌고, 여성 명사(die)는 eine, 중성 명사(das)는 ein을 사용합니다.",
+    "examples": [
+      {
+        "german": "Ich nehme einen Salat.",
+        "meaning": "저는 샐러드를 하나 할게요."
+      },
+      {
+        "german": "Ich nehme ein Poulet.",
+        "meaning": "저는 닭고기 요리를 할게요."
+      },
+      {
+        "german": "Ich nehme eine Rösti.",
+        "meaning": "저는 뢰스티를 할게요."
+      }
+    ],
+    "tip": "문장 끝에 'bitte'(부탁합니다)를 붙여 'Ich nehme einen Salat, bitte.'라고 말하면 더욱 자연스럽고 정중합니다."
+  }
+}

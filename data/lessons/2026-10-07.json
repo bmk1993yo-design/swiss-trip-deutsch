@@ -1,0 +1,506 @@
+{
+  "type": "lesson",
+  "schemaVersion": 1,
+  "date": "2026-10-07",
+  "day": 4,
+  "unlockAt": "2026-10-07T17:00:00+09:00",
+  "theme": {
+    "id": "hotel-checkin",
+    "title": "호텔 체크인",
+    "emoji": "🏨"
+  },
+  "approved": false,
+  "words": [
+    {
+      "id": "word-01",
+      "german": "das Hotel",
+      "meaning": "호텔",
+      "partOfSpeech": "noun",
+      "gender": "das",
+      "plural": "die Hotels",
+      "pronunciation": {
+        "ipa": "/hoˈtɛl/",
+        "korean": [
+          {
+            "text": "호",
+            "stress": false
+          },
+          {
+            "text": "텔",
+            "stress": true
+          }
+        ]
+      },
+      "isSwissExpression": false,
+      "audio": {
+        "aiden": {
+          "normal": "/audio/2026-10-07/word-01-aiden.opus",
+          "slow": "/audio/2026-10-07/word-01-aiden-slow.opus"
+        },
+        "serena": {
+          "normal": "/audio/2026-10-07/word-01-serena.opus",
+          "slow": "/audio/2026-10-07/word-01-serena-slow.opus"
+        }
+      }
+    },
+    {
+      "id": "word-02",
+      "german": "die Reservierung",
+      "meaning": "예약",
+      "partOfSpeech": "noun",
+      "gender": "die",
+      "plural": "die Reservierungen",
+      "pronunciation": {
+        "ipa": "/ʁezaʁˈviːʁʊŋ/",
+        "korean": [
+          {
+            "text": "레",
+            "stress": false
+          },
+          {
+            "text": "저",
+            "stress": false
+          },
+          {
+            "text": "비ː",
+            "stress": true
+          },
+          {
+            "text": "룽",
+            "stress": false
+          }
+        ]
+      },
+      "isSwissExpression": false,
+      "audio": {
+        "aiden": {
+          "normal": "/audio/2026-10-07/word-02-aiden.opus",
+          "slow": "/audio/2026-10-07/word-02-aiden-slow.opus"
+        },
+        "serena": {
+          "normal": "/audio/2026-10-07/word-02-serena.opus",
+          "slow": "/audio/2026-10-07/word-02-serena-slow.opus"
+        }
+      }
+    },
+    {
+      "id": "word-03",
+      "german": "der Schlüssel",
+      "meaning": "열쇠",
+      "partOfSpeech": "noun",
+      "gender": "der",
+      "plural": "die Schlüssel",
+      "pronunciation": {
+        "ipa": "/ˈʃlʏsl̩/",
+        "korean": [
+          {
+            "text": "슈",
+            "stress": false
+          },
+          {
+            "text": "뤼",
+            "stress": true
+          },
+          {
+            "text": "슬",
+            "stress": false
+          }
+        ]
+      },
+      "isSwissExpression": false,
+      "audio": {
+        "aiden": {
+          "normal": "/audio/2026-10-07/word-03-aiden.opus",
+          "slow": "/audio/2026-10-07/word-03-aiden-slow.opus"
+        },
+        "serena": {
+          "normal": "/audio/2026-10-07/word-03-serena.opus",
+          "slow": "/audio/2026-10-07/word-03-serena-slow.opus"
+        }
+      }
+    },
+    {
+      "id": "word-04",
+      "german": "das Zimmer",
+      "meaning": "방, 객실",
+      "partOfSpeech": "noun",
+      "gender": "das",
+      "plural": "die Zimmer",
+      "pronunciation": {
+        "ipa": "/ˈtsɪmɐ/",
+        "korean": [
+          {
+            "text": "침",
+            "stress": true
+          },
+          {
+            "text": "머",
+            "stress": false
+          }
+        ]
+      },
+      "isSwissExpression": false,
+      "audio": {
+        "aiden": {
+          "normal": "/audio/2026-10-07/word-04-aiden.opus",
+          "slow": "/audio/2026-10-07/word-04-aiden-slow.opus"
+        },
+        "serena": {
+          "normal": "/audio/2026-10-07/word-04-serena.opus",
+          "slow": "/audio/2026-10-07/word-04-serena-slow.opus"
+        }
+      }
+    },
+    {
+      "id": "word-05",
+      "german": "das WLAN",
+      "meaning": "와이파이",
+      "partOfSpeech": "noun",
+      "gender": "das",
+      "plural": null,
+      "pronunciation": {
+        "ipa": "/ˈveːlaːn/",
+        "korean": [
+          {
+            "text": "베ː",
+            "stress": true
+          },
+          {
+            "text": "란",
+            "stress": false
+          }
+        ]
+      },
+      "isSwissExpression": false,
+      "swissNote": "스위스 호텔과 카페에서도 'WLAN'이라는 표기를 동일하게 사용합니다.",
+      "audio": {
+        "aiden": {
+          "normal": "/audio/2026-10-07/word-05-aiden.opus",
+          "slow": "/audio/2026-10-07/word-05-aiden-slow.opus"
+        },
+        "serena": {
+          "normal": "/audio/2026-10-07/word-05-serena.opus",
+          "slow": "/audio/2026-10-07/word-05-serena-slow.opus"
+        }
+      }
+    },
+    {
+      "id": "word-06",
+      "german": "das Frühstück",
+      "meaning": "아침 식사, 조식",
+      "partOfSpeech": "noun",
+      "gender": "das",
+      "plural": "die Frühstücke",
+      "pronunciation": {
+        "ipa": "/ˈfryːˌʃtʏk/",
+        "korean": [
+          {
+            "text": "프뤼ː",
+            "stress": true
+          },
+          {
+            "text": "슈튁",
+            "stress": false
+          }
+        ]
+      },
+      "isSwissExpression": false,
+      "audio": {
+        "aiden": {
+          "normal": "/audio/2026-10-07/word-06-aiden.opus",
+          "slow": "/audio/2026-10-07/word-06-aiden-slow.opus"
+        },
+        "serena": {
+          "normal": "/audio/2026-10-07/word-06-serena.opus",
+          "slow": "/audio/2026-10-07/word-06-serena-slow.opus"
+        }
+      }
+    },
+    {
+      "id": "word-07",
+      "german": "das Zmorge",
+      "meaning": "아침 식사 (스위스 표현)",
+      "partOfSpeech": "noun",
+      "gender": "das",
+      "plural": null,
+      "pronunciation": {
+        "ipa": "/ˈtsmɔʁɡə/",
+        "korean": [
+          {
+            "text": "츠",
+            "stress": false
+          },
+          {
+            "text": "모",
+            "stress": true
+          },
+          {
+            "text": "게",
+            "stress": false
+          }
+        ]
+      },
+      "isSwissExpression": true,
+      "swissNote": "스위스에서 '아침 식사'를 뜻하는 대표적인 스위스 독일어 표현입니다. 정식 독일어 'Frühstück' 대신 호텔 식당이나 카페 메뉴판에서 자주 보게 됩니다.",
+      "audio": {
+        "aiden": {
+          "normal": "/audio/2026-10-07/word-07-aiden.opus",
+          "slow": "/audio/2026-10-07/word-07-aiden-slow.opus"
+        },
+        "serena": {
+          "normal": "/audio/2026-10-07/word-07-serena.opus",
+          "slow": "/audio/2026-10-07/word-07-serena-slow.opus"
+        }
+      }
+    },
+    {
+      "id": "word-08",
+      "german": "frei",
+      "meaning": "비어 있는, 이용 가능한",
+      "partOfSpeech": "adjective",
+      "pronunciation": {
+        "ipa": "/fʁaɪ̯/",
+        "korean": [
+          {
+            "text": "프라이",
+            "stress": true
+          }
+        ]
+      },
+      "isSwissExpression": false,
+      "audio": {
+        "aiden": {
+          "normal": "/audio/2026-10-07/word-08-aiden.opus",
+          "slow": "/audio/2026-10-07/word-08-aiden-slow.opus"
+        },
+        "serena": {
+          "normal": "/audio/2026-10-07/word-08-serena.opus",
+          "slow": "/audio/2026-10-07/word-08-serena-slow.opus"
+        }
+      }
+    },
+    {
+      "id": "word-09",
+      "german": "haben",
+      "meaning": "가지고 있다",
+      "partOfSpeech": "verb",
+      "pronunciation": {
+        "ipa": "/ˈhaːbn̩/",
+        "korean": [
+          {
+            "text": "하ː",
+            "stress": true
+          },
+          {
+            "text": "벤",
+            "stress": false
+          }
+        ]
+      },
+      "isSwissExpression": false,
+      "audio": {
+        "aiden": {
+          "normal": "/audio/2026-10-07/word-09-aiden.opus",
+          "slow": "/audio/2026-10-07/word-09-aiden-slow.opus"
+        },
+        "serena": {
+          "normal": "/audio/2026-10-07/word-09-serena.opus",
+          "slow": "/audio/2026-10-07/word-09-serena-slow.opus"
+        }
+      }
+    },
+    {
+      "id": "word-10",
+      "german": "das Doppelzimmer",
+      "meaning": "2인실, 더블룸",
+      "partOfSpeech": "noun",
+      "gender": "das",
+      "plural": "die Doppelzimmer",
+      "pronunciation": {
+        "ipa": "/ˈdɔpəlˌtsɪmɐ/",
+        "korean": [
+          {
+            "text": "도",
+            "stress": true
+          },
+          {
+            "text": "펠",
+            "stress": false
+          },
+          {
+            "text": "침",
+            "stress": false
+          },
+          {
+            "text": "머",
+            "stress": false
+          }
+        ]
+      },
+      "isSwissExpression": false,
+      "audio": {
+        "aiden": {
+          "normal": "/audio/2026-10-07/word-10-aiden.opus",
+          "slow": "/audio/2026-10-07/word-10-aiden-slow.opus"
+        },
+        "serena": {
+          "normal": "/audio/2026-10-07/word-10-serena.opus",
+          "slow": "/audio/2026-10-07/word-10-serena-slow.opus"
+        }
+      }
+    }
+  ],
+  "sentences": [
+    {
+      "id": "sentence-01",
+      "german": "Ich habe eine Reservierung.",
+      "meaning": "저는 예약이 있습니다.",
+      "pronunciation": {
+        "ipa": "/ɪç ˈhaːbə ˈaɪ̯nə ʁezaʁˈviːʁʊŋ/",
+        "korean": [
+          {
+            "text": "이히",
+            "stress": false
+          },
+          {
+            "text": "하ː베",
+            "stress": true
+          },
+          {
+            "text": "아이네",
+            "stress": false
+          },
+          {
+            "text": "레저비룽",
+            "stress": true
+          }
+        ]
+      },
+      "usesWords": [
+        "word-02",
+        "word-09"
+      ],
+      "audio": {
+        "aiden": {
+          "normal": "/audio/2026-10-07/sentence-01-aiden.opus",
+          "slow": "/audio/2026-10-07/sentence-01-aiden-slow.opus"
+        },
+        "serena": {
+          "normal": "/audio/2026-10-07/sentence-01-serena.opus",
+          "slow": "/audio/2026-10-07/sentence-01-serena-slow.opus"
+        }
+      }
+    },
+    {
+      "id": "sentence-02",
+      "german": "Haben Sie ein Doppelzimmer frei?",
+      "meaning": "빈 2인실이 있나요?",
+      "pronunciation": {
+        "ipa": "/ˈhaːbn̩ ziː aɪ̯n ˈdɔpəlˌtsɪmɐ fʁaɪ̯/",
+        "korean": [
+          {
+            "text": "하ː벤",
+            "stress": true
+          },
+          {
+            "text": "지ː",
+            "stress": false
+          },
+          {
+            "text": "아인",
+            "stress": false
+          },
+          {
+            "text": "도펠침머",
+            "stress": true
+          },
+          {
+            "text": "프라이",
+            "stress": false
+          }
+        ]
+      },
+      "usesWords": [
+        "word-08",
+        "word-09",
+        "word-10"
+      ],
+      "audio": {
+        "aiden": {
+          "normal": "/audio/2026-10-07/sentence-02-aiden.opus",
+          "slow": "/audio/2026-10-07/sentence-02-aiden-slow.opus"
+        },
+        "serena": {
+          "normal": "/audio/2026-10-07/sentence-02-serena.opus",
+          "slow": "/audio/2026-10-07/sentence-02-serena-slow.opus"
+        }
+      }
+    },
+    {
+      "id": "sentence-03",
+      "german": "Wann gibt es das Zmorge?",
+      "meaning": "아침 식사는 언제인가요?",
+      "pronunciation": {
+        "ipa": "/van ɡiːpt ɛs das ˈtsmɔʁɡə/",
+        "korean": [
+          {
+            "text": "반",
+            "stress": false
+          },
+          {
+            "text": "깁트",
+            "stress": false
+          },
+          {
+            "text": "에스",
+            "stress": false
+          },
+          {
+            "text": "다스",
+            "stress": false
+          },
+          {
+            "text": "츠모게",
+            "stress": true
+          }
+        ]
+      },
+      "usesWords": [
+        "word-07"
+      ],
+      "swissNote": "스위스 호텔 조식 안내판이나 안내문에는 'Frühstück' 대신 'Zmorge'라고 적혀 있는 경우가 많습니다.",
+      "audio": {
+        "aiden": {
+          "normal": "/audio/2026-10-07/sentence-03-aiden.opus",
+          "slow": "/audio/2026-10-07/sentence-03-aiden-slow.opus"
+        },
+        "serena": {
+          "normal": "/audio/2026-10-07/sentence-03-serena.opus",
+          "slow": "/audio/2026-10-07/sentence-03-serena-slow.opus"
+        }
+      }
+    }
+  ],
+  "grammar": {
+    "id": "haben-akkusativ",
+    "title": "Ich habe + 4격 (einen/eine/ein)",
+    "pattern": "Ich habe + 남성(einen) / 여성(eine) / 중성(ein) + 명사",
+    "meaning": "“저는 ~을/를 가지고 있습니다”",
+    "explanation": "동사 'haben'(가지고 있다) 뒤에는 목적어가 오므로 4격(목적격) 부정관사를 사용합니다. 남성 명사(der) 앞에서는 관사가 'einen'으로 변하고, 여성 명사(die) 앞에서는 'eine', 중성 명사(das) 앞에서는 'ein'을 씁니다. 호텔 체크인 시 예약이 있거나 원하는 방 유형을 밝힐 때 매우 자주 쓰이는 패턴입니다.",
+    "examples": [
+      {
+        "german": "Ich habe eine Reservierung.",
+        "meaning": "저는 예약이 있습니다."
+      },
+      {
+        "german": "Ich habe einen Schlüssel.",
+        "meaning": "저는 열쇠를 가지고 있습니다."
+      },
+      {
+        "german": "Ich habe ein Zimmer.",
+        "meaning": "저는 방이 하나 있습니다."
+      }
+    ],
+    "tip": "남성 명사만 관사가 'einen'으로 바뀌고, 여성(eine)과 중성(ein)은 주격(1격) 형태와 똑같으니 남성 명사만 주의해 주세요!"
+  }
+}

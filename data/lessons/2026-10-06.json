@@ -1,0 +1,505 @@
+{
+  "type": "lesson",
+  "schemaVersion": 1,
+  "date": "2026-10-06",
+  "day": 3,
+  "unlockAt": "2026-10-06T17:00:00+09:00",
+  "theme": {
+    "id": "sbb-ticket",
+    "title": "SBB 승차권",
+    "emoji": "🎫"
+  },
+  "approved": false,
+  "words": [
+    {
+      "id": "word-01",
+      "german": "das Halbtax",
+      "meaning": "반액 할인 카드 (Halbtax)",
+      "partOfSpeech": "noun",
+      "gender": "das",
+      "plural": null,
+      "pronunciation": {
+        "ipa": "/ˈhalpˌtaks/",
+        "korean": [
+          {
+            "text": "할프",
+            "stress": true
+          },
+          {
+            "text": "탁스",
+            "stress": false
+          }
+        ]
+      },
+      "isSwissExpression": true,
+      "swissNote": "스위스 대중교통을 50% 할인받을 수 있는 반액 패스입니다. 스위스 여행자용 반액 패스는 'Swiss Half Fare Card'라는 이름으로 판매됩니다.",
+      "audio": {
+        "aiden": {
+          "normal": "/audio/2026-10-06/word-01-aiden.opus",
+          "slow": "/audio/2026-10-06/word-01-aiden-slow.opus"
+        },
+        "serena": {
+          "normal": "/audio/2026-10-06/word-01-serena.opus",
+          "slow": "/audio/2026-10-06/word-01-serena-slow.opus"
+        }
+      }
+    },
+    {
+      "id": "word-02",
+      "german": "retour",
+      "meaning": "왕복의, 돌아오는",
+      "partOfSpeech": "adverb",
+      "pronunciation": {
+        "ipa": "/ʁəˈtuːɐ̯/",
+        "korean": [
+          {
+            "text": "레",
+            "stress": false
+          },
+          {
+            "text": "투ː어",
+            "stress": true
+          }
+        ]
+      },
+      "isSwissExpression": true,
+      "swissNote": "독일에서는 왕복 표에 'Hin und zurück'을 자주 쓰지만, 스위스에서는 프랑스어에서 유래한 'retour'를 매표소나 자동발권기에서 흔히 씁니다.",
+      "audio": {
+        "aiden": {
+          "normal": "/audio/2026-10-06/word-02-aiden.opus",
+          "slow": "/audio/2026-10-06/word-02-aiden-slow.opus"
+        },
+        "serena": {
+          "normal": "/audio/2026-10-06/word-02-serena.opus",
+          "slow": "/audio/2026-10-06/word-02-serena-slow.opus"
+        }
+      }
+    },
+    {
+      "id": "word-03",
+      "german": "der Schalter",
+      "meaning": "매표 창구, 창구",
+      "partOfSpeech": "noun",
+      "gender": "der",
+      "plural": "die Schalter",
+      "pronunciation": {
+        "ipa": "/ˈʃaltɐ/",
+        "korean": [
+          {
+            "text": "샬",
+            "stress": true
+          },
+          {
+            "text": "터",
+            "stress": false
+          }
+        ]
+      },
+      "isSwissExpression": false,
+      "swissNote": "SBB 주요 역의 매표 창구(SBB Reisezentrum)에서는 승차권 구매와 여행 상담을 모두 받을 수 있습니다.",
+      "audio": {
+        "aiden": {
+          "normal": "/audio/2026-10-06/word-03-aiden.opus",
+          "slow": "/audio/2026-10-06/word-03-aiden-slow.opus"
+        },
+        "serena": {
+          "normal": "/audio/2026-10-06/word-03-serena.opus",
+          "slow": "/audio/2026-10-06/word-03-serena-slow.opus"
+        }
+      }
+    },
+    {
+      "id": "word-04",
+      "german": "der Automat",
+      "meaning": "자동발권기",
+      "partOfSpeech": "noun",
+      "gender": "der",
+      "plural": "die Automaten",
+      "pronunciation": {
+        "ipa": "/aʊ̯toˈmaːt/",
+        "korean": [
+          {
+            "text": "아우",
+            "stress": false
+          },
+          {
+            "text": "토",
+            "stress": false
+          },
+          {
+            "text": "마트",
+            "stress": true
+          }
+        ]
+      },
+      "isSwissExpression": false,
+      "audio": {
+        "aiden": {
+          "normal": "/audio/2026-10-06/word-04-aiden.opus",
+          "slow": "/audio/2026-10-06/word-04-aiden-slow.opus"
+        },
+        "serena": {
+          "normal": "/audio/2026-10-06/word-04-serena.opus",
+          "slow": "/audio/2026-10-06/word-04-serena-slow.opus"
+        }
+      }
+    },
+    {
+      "id": "word-05",
+      "german": "kosten",
+      "meaning": "(비용이) 들다",
+      "partOfSpeech": "verb",
+      "pronunciation": {
+        "ipa": "/ˈkɔstn̩/",
+        "korean": [
+          {
+            "text": "코스",
+            "stress": true
+          },
+          {
+            "text": "텐",
+            "stress": false
+          }
+        ]
+      },
+      "isSwissExpression": false,
+      "audio": {
+        "aiden": {
+          "normal": "/audio/2026-10-06/word-05-aiden.opus",
+          "slow": "/audio/2026-10-06/word-05-aiden-slow.opus"
+        },
+        "serena": {
+          "normal": "/audio/2026-10-06/word-05-serena.opus",
+          "slow": "/audio/2026-10-06/word-05-serena-slow.opus"
+        }
+      }
+    },
+    {
+      "id": "word-06",
+      "german": "der Preis",
+      "meaning": "가격, 요금",
+      "partOfSpeech": "noun",
+      "gender": "der",
+      "plural": "die Preise",
+      "pronunciation": {
+        "ipa": "/pʁaɪ̯s/",
+        "korean": [
+          {
+            "text": "프라이스",
+            "stress": true
+          }
+        ]
+      },
+      "isSwissExpression": false,
+      "audio": {
+        "aiden": {
+          "normal": "/audio/2026-10-06/word-06-aiden.opus",
+          "slow": "/audio/2026-10-06/word-06-aiden-slow.opus"
+        },
+        "serena": {
+          "normal": "/audio/2026-10-06/word-06-serena.opus",
+          "slow": "/audio/2026-10-06/word-06-serena-slow.opus"
+        }
+      }
+    },
+    {
+      "id": "word-07",
+      "german": "zahlen",
+      "meaning": "지불하다, 결제하다",
+      "partOfSpeech": "verb",
+      "pronunciation": {
+        "ipa": "/ˈt͡saːlən/",
+        "korean": [
+          {
+            "text": "찰",
+            "stress": true
+          },
+          {
+            "text": "렌",
+            "stress": false
+          }
+        ]
+      },
+      "isSwissExpression": false,
+      "audio": {
+        "aiden": {
+          "normal": "/audio/2026-10-06/word-07-aiden.opus",
+          "slow": "/audio/2026-10-06/word-07-aiden-slow.opus"
+        },
+        "serena": {
+          "normal": "/audio/2026-10-06/word-07-serena.opus",
+          "slow": "/audio/2026-10-06/word-07-serena-slow.opus"
+        }
+      }
+    },
+    {
+      "id": "word-08",
+      "german": "die Karte",
+      "meaning": "카드, 승차권",
+      "partOfSpeech": "noun",
+      "gender": "die",
+      "plural": "die Karten",
+      "pronunciation": {
+        "ipa": "/ˈkaʁtə/",
+        "korean": [
+          {
+            "text": "카르",
+            "stress": true
+          },
+          {
+            "text": "테",
+            "stress": false
+          }
+        ]
+      },
+      "isSwissExpression": false,
+      "audio": {
+        "aiden": {
+          "normal": "/audio/2026-10-06/word-08-aiden.opus",
+          "slow": "/audio/2026-10-06/word-08-aiden-slow.opus"
+        },
+        "serena": {
+          "normal": "/audio/2026-10-06/word-08-serena.opus",
+          "slow": "/audio/2026-10-06/word-08-serena-slow.opus"
+        }
+      }
+    },
+    {
+      "id": "word-09",
+      "german": "gültig",
+      "meaning": "유효한",
+      "partOfSpeech": "adjective",
+      "pronunciation": {
+        "ipa": "/ˈɡʏltɪç/",
+        "korean": [
+          {
+            "text": "귈",
+            "stress": true
+          },
+          {
+            "text": "티히",
+            "stress": false
+          }
+        ]
+      },
+      "isSwissExpression": false,
+      "audio": {
+        "aiden": {
+          "normal": "/audio/2026-10-06/word-09-aiden.opus",
+          "slow": "/audio/2026-10-06/word-09-aiden-slow.opus"
+        },
+        "serena": {
+          "normal": "/audio/2026-10-06/word-09-serena.opus",
+          "slow": "/audio/2026-10-06/word-09-serena-slow.opus"
+        }
+      }
+    },
+    {
+      "id": "word-10",
+      "german": "die Ermässigung",
+      "meaning": "할인",
+      "partOfSpeech": "noun",
+      "gender": "die",
+      "plural": "die Ermässigungen",
+      "pronunciation": {
+        "ipa": "/ɛɐ̯ˈmɛːsɪɡʊŋ/",
+        "korean": [
+          {
+            "text": "에어",
+            "stress": false
+          },
+          {
+            "text": "메ː",
+            "stress": true
+          },
+          {
+            "text": "시궁",
+            "stress": false
+          }
+        ]
+      },
+      "isSwissExpression": false,
+      "swissNote": "스위스 표준 독일어에서는 'ä' 뒤에 'ß' 대신 항상 'ss'를 씁니다 (Ermässigung).",
+      "audio": {
+        "aiden": {
+          "normal": "/audio/2026-10-06/word-10-aiden.opus",
+          "slow": "/audio/2026-10-06/word-10-aiden-slow.opus"
+        },
+        "serena": {
+          "normal": "/audio/2026-10-06/word-10-serena.opus",
+          "slow": "/audio/2026-10-06/word-10-serena-slow.opus"
+        }
+      }
+    }
+  ],
+  "sentences": [
+    {
+      "id": "sentence-01",
+      "german": "Wie viel kostet das Halbtax?",
+      "meaning": "하프페어 카드는 얼마인가요?",
+      "pronunciation": {
+        "ipa": "/viː fiːl ˈkɔstət das ˈhalpˌtaks/",
+        "korean": [
+          {
+            "text": "비ː",
+            "stress": false
+          },
+          {
+            "text": "필",
+            "stress": false
+          },
+          {
+            "text": "코스테트",
+            "stress": true
+          },
+          {
+            "text": "다스",
+            "stress": false
+          },
+          {
+            "text": "할프탁스",
+            "stress": true
+          }
+        ]
+      },
+      "usesWords": [
+        "word-01",
+        "word-05"
+      ],
+      "audio": {
+        "aiden": {
+          "normal": "/audio/2026-10-06/sentence-01-aiden.opus",
+          "slow": "/audio/2026-10-06/sentence-01-aiden-slow.opus"
+        },
+        "serena": {
+          "normal": "/audio/2026-10-06/sentence-01-serena.opus",
+          "slow": "/audio/2026-10-06/sentence-01-serena-slow.opus"
+        }
+      }
+    },
+    {
+      "id": "sentence-02",
+      "german": "Ich möchte eine Karte retour, bitte.",
+      "meaning": "왕복 표 한 장 주세요.",
+      "pronunciation": {
+        "ipa": "/ɪç ˈmœçtə ˈaɪ̯nə ˈkaʁtə ʁəˈtuːɐ̯ ˈbɪtə/",
+        "korean": [
+          {
+            "text": "이히",
+            "stress": false
+          },
+          {
+            "text": "메히테",
+            "stress": true
+          },
+          {
+            "text": "아이네",
+            "stress": false
+          },
+          {
+            "text": "카르테",
+            "stress": true
+          },
+          {
+            "text": "레투ː어",
+            "stress": true
+          },
+          {
+            "text": "비테",
+            "stress": false
+          }
+        ]
+      },
+      "usesWords": [
+        "word-02",
+        "word-08"
+      ],
+      "swissNote": "스위스에서는 편도 대신 왕복을 선택할 때 'retour'라는 표현을 흔히 사용합니다.",
+      "audio": {
+        "aiden": {
+          "normal": "/audio/2026-10-06/sentence-02-aiden.opus",
+          "slow": "/audio/2026-10-06/sentence-02-aiden-slow.opus"
+        },
+        "serena": {
+          "normal": "/audio/2026-10-06/sentence-02-serena.opus",
+          "slow": "/audio/2026-10-06/sentence-02-serena-slow.opus"
+        }
+      }
+    },
+    {
+      "id": "sentence-03",
+      "german": "Kann ich am Schalter mit Karte zahlen?",
+      "meaning": "창구에서 카드로 결제할 수 있나요?",
+      "pronunciation": {
+        "ipa": "/kan ɪç am ˈʃaltɐ mɪt ˈkaʁtə ˈt͡saːlən/",
+        "korean": [
+          {
+            "text": "칸",
+            "stress": false
+          },
+          {
+            "text": "이히",
+            "stress": false
+          },
+          {
+            "text": "암",
+            "stress": false
+          },
+          {
+            "text": "샬터",
+            "stress": true
+          },
+          {
+            "text": "미트",
+            "stress": false
+          },
+          {
+            "text": "카르테",
+            "stress": true
+          },
+          {
+            "text": "찰렌",
+            "stress": true
+          }
+        ]
+      },
+      "usesWords": [
+        "word-03",
+        "word-07",
+        "word-08"
+      ],
+      "audio": {
+        "aiden": {
+          "normal": "/audio/2026-10-06/sentence-03-aiden.opus",
+          "slow": "/audio/2026-10-06/sentence-03-aiden-slow.opus"
+        },
+        "serena": {
+          "normal": "/audio/2026-10-06/sentence-03-serena.opus",
+          "slow": "/audio/2026-10-06/sentence-03-serena-slow.opus"
+        }
+      }
+    }
+  ],
+  "grammar": {
+    "id": "wie-viel-kostet",
+    "title": "Wie viel kostet …?",
+    "pattern": "Wie viel kostet + 단수 명사? / Wie viel kosten + 복수 명사?",
+    "meaning": "“~은(는) 얼마인가요?”",
+    "explanation": "가격이나 비용을 물어볼 때 'Wie viel'(얼마나 많이) 뒤에 동사 'kosten'(비용이 들다)을 조합하여 질문합니다. 물어보는 대상이 단수이면 'kostet', 복수이면 'kosten'을 씁니다. 스위스 통화 단위인 프랑은 숫 뒤에 'Franken'(예: 20 Franken)으로 나타냅니다.",
+    "examples": [
+      {
+        "german": "Wie viel kostet das Halbtax?",
+        "meaning": "하프페어 카드는 얼마인가요?"
+      },
+      {
+        "german": "Wie viel kostet die Karte?",
+        "meaning": "표/카드는 얼마인가요?"
+      },
+      {
+        "german": "Wie viel kosten zwei Karten?",
+        "meaning": "표 두 장은 얼마인가요?"
+      }
+    ],
+    "tip": "스위스 화폐 단위 CHF는 독일어로 'Franken'(프랑켄)이라고 읽습니다. 예: 10 CHF -> zehn Franken."
+  }
+}

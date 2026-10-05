@@ -1,0 +1,491 @@
+{
+  "type": "lesson",
+  "schemaVersion": 1,
+  "date": "2026-10-09",
+  "day": 6,
+  "unlockAt": "2026-10-09T17:00:00+09:00",
+  "theme": {
+    "id": "cafe",
+    "title": "카페",
+    "emoji": "☕"
+  },
+  "approved": false,
+  "words": [
+    {
+      "id": "word-01",
+      "german": "das Café",
+      "meaning": "카페",
+      "partOfSpeech": "noun",
+      "gender": "das",
+      "plural": "die Cafés",
+      "pronunciation": {
+        "ipa": "/kaˈfeː/",
+        "korean": [
+          {
+            "text": "카",
+            "stress": false
+          },
+          {
+            "text": "페ː",
+            "stress": true
+          }
+        ]
+      },
+      "isSwissExpression": false,
+      "audio": {
+        "aiden": {
+          "normal": "/audio/2026-10-09/word-01-aiden.opus",
+          "slow": "/audio/2026-10-09/word-01-aiden-slow.opus"
+        },
+        "serena": {
+          "normal": "/audio/2026-10-09/word-01-serena.opus",
+          "slow": "/audio/2026-10-09/word-01-serena-slow.opus"
+        }
+      }
+    },
+    {
+      "id": "word-02",
+      "german": "der Kaffee",
+      "meaning": "커피",
+      "partOfSpeech": "noun",
+      "gender": "der",
+      "plural": "die Kaffees",
+      "pronunciation": {
+        "ipa": "/ˈkafe/",
+        "korean": [
+          {
+            "text": "카",
+            "stress": true
+          },
+          {
+            "text": "페",
+            "stress": false
+          }
+        ]
+      },
+      "isSwissExpression": false,
+      "audio": {
+        "aiden": {
+          "normal": "/audio/2026-10-09/word-02-aiden.opus",
+          "slow": "/audio/2026-10-09/word-02-aiden-slow.opus"
+        },
+        "serena": {
+          "normal": "/audio/2026-10-09/word-02-serena.opus",
+          "slow": "/audio/2026-10-09/word-02-serena-slow.opus"
+        }
+      }
+    },
+    {
+      "id": "word-03",
+      "german": "die Milch",
+      "meaning": "우유",
+      "partOfSpeech": "noun",
+      "gender": "die",
+      "plural": null,
+      "pronunciation": {
+        "ipa": "/mɪlç/",
+        "korean": [
+          {
+            "text": "밀히",
+            "stress": true
+          }
+        ]
+      },
+      "isSwissExpression": false,
+      "audio": {
+        "aiden": {
+          "normal": "/audio/2026-10-09/word-03-aiden.opus",
+          "slow": "/audio/2026-10-09/word-03-aiden-slow.opus"
+        },
+        "serena": {
+          "normal": "/audio/2026-10-09/word-03-serena.opus",
+          "slow": "/audio/2026-10-09/word-03-serena-slow.opus"
+        }
+      }
+    },
+    {
+      "id": "word-04",
+      "german": "der Zucker",
+      "meaning": "설탕",
+      "partOfSpeech": "noun",
+      "gender": "der",
+      "plural": "die Zucker",
+      "pronunciation": {
+        "ipa": "/ˈtsʊkɐ/",
+        "korean": [
+          {
+            "text": "추",
+            "stress": true
+          },
+          {
+            "text": "커",
+            "stress": false
+          }
+        ]
+      },
+      "isSwissExpression": false,
+      "audio": {
+        "aiden": {
+          "normal": "/audio/2026-10-09/word-04-aiden.opus",
+          "slow": "/audio/2026-10-09/word-04-aiden-slow.opus"
+        },
+        "serena": {
+          "normal": "/audio/2026-10-09/word-04-serena.opus",
+          "slow": "/audio/2026-10-09/word-04-serena-slow.opus"
+        }
+      }
+    },
+    {
+      "id": "word-05",
+      "german": "das Brot",
+      "meaning": "빵",
+      "partOfSpeech": "noun",
+      "gender": "das",
+      "plural": "die Brote",
+      "pronunciation": {
+        "ipa": "/bʁoːt/",
+        "korean": [
+          {
+            "text": "브로ː트",
+            "stress": true
+          }
+        ]
+      },
+      "isSwissExpression": false,
+      "audio": {
+        "aiden": {
+          "normal": "/audio/2026-10-09/word-05-aiden.opus",
+          "slow": "/audio/2026-10-09/word-05-aiden-slow.opus"
+        },
+        "serena": {
+          "normal": "/audio/2026-10-09/word-05-serena.opus",
+          "slow": "/audio/2026-10-09/word-05-serena-slow.opus"
+        }
+      }
+    },
+    {
+      "id": "word-06",
+      "german": "der Kuchen",
+      "meaning": "케이크",
+      "partOfSpeech": "noun",
+      "gender": "der",
+      "plural": "die Kuchen",
+      "pronunciation": {
+        "ipa": "/ˈkuːxn̩/",
+        "korean": [
+          {
+            "text": "쿠ː",
+            "stress": true
+          },
+          {
+            "text": "헨",
+            "stress": false
+          }
+        ]
+      },
+      "isSwissExpression": false,
+      "audio": {
+        "aiden": {
+          "normal": "/audio/2026-10-09/word-06-aiden.opus",
+          "slow": "/audio/2026-10-09/word-06-aiden-slow.opus"
+        },
+        "serena": {
+          "normal": "/audio/2026-10-09/word-06-serena.opus",
+          "slow": "/audio/2026-10-09/word-06-serena-slow.opus"
+        }
+      }
+    },
+    {
+      "id": "word-07",
+      "german": "mit",
+      "meaning": "~와 함께, ~가 든",
+      "partOfSpeech": "preposition",
+      "pronunciation": {
+        "ipa": "/mɪt/",
+        "korean": [
+          {
+            "text": "미트",
+            "stress": true
+          }
+        ]
+      },
+      "isSwissExpression": false,
+      "audio": {
+        "aiden": {
+          "normal": "/audio/2026-10-09/word-07-aiden.opus",
+          "slow": "/audio/2026-10-09/word-07-aiden-slow.opus"
+        },
+        "serena": {
+          "normal": "/audio/2026-10-09/word-07-serena.opus",
+          "slow": "/audio/2026-10-09/word-07-serena-slow.opus"
+        }
+      }
+    },
+    {
+      "id": "word-08",
+      "german": "ohne",
+      "meaning": "~없이",
+      "partOfSpeech": "preposition",
+      "pronunciation": {
+        "ipa": "/ˈoːnə/",
+        "korean": [
+          {
+            "text": "오ː",
+            "stress": true
+          },
+          {
+            "text": "네",
+            "stress": false
+          }
+        ]
+      },
+      "isSwissExpression": false,
+      "audio": {
+        "aiden": {
+          "normal": "/audio/2026-10-09/word-08-aiden.opus",
+          "slow": "/audio/2026-10-09/word-08-aiden-slow.opus"
+        },
+        "serena": {
+          "normal": "/audio/2026-10-09/word-08-serena.opus",
+          "slow": "/audio/2026-10-09/word-08-serena-slow.opus"
+        }
+      }
+    },
+    {
+      "id": "word-09",
+      "german": "das Gipfeli",
+      "meaning": "크루아상 (스위스식)",
+      "partOfSpeech": "noun",
+      "gender": "das",
+      "plural": "die Gipfeli",
+      "pronunciation": {
+        "ipa": "/ˈɡɪpfəli/",
+        "korean": [
+          {
+            "text": "기프",
+            "stress": true
+          },
+          {
+            "text": "엘",
+            "stress": false
+          },
+          {
+            "text": "리",
+            "stress": false
+          }
+        ]
+      },
+      "isSwissExpression": true,
+      "swissNote": "스위스에서 크루아상은 표준어인 'Croissant' 대신 'Gipfeli'라고 부릅니다. 아침 식사나 간식으로 아주 인기 있는 빵입니다.",
+      "audio": {
+        "aiden": {
+          "normal": "/audio/2026-10-09/word-09-aiden.opus",
+          "slow": "/audio/2026-10-09/word-09-aiden-slow.opus"
+        },
+        "serena": {
+          "normal": "/audio/2026-10-09/word-09-serena.opus",
+          "slow": "/audio/2026-10-09/word-09-serena-slow.opus"
+        }
+      }
+    },
+    {
+      "id": "word-10",
+      "german": "der Rahm",
+      "meaning": "휘핑 크림, 크림 (스위스식)",
+      "partOfSpeech": "noun",
+      "gender": "der",
+      "plural": "die Rahme",
+      "pronunciation": {
+        "ipa": "/ʁaːm/",
+        "korean": [
+          {
+            "text": "라ː름",
+            "stress": true
+          }
+        ]
+      },
+      "isSwissExpression": true,
+      "swissNote": "독일에서는 주로 'Sahne'라고 하지만, 스위스에서는 'Rahm'이라고 합니다. 커피나 케이크에 크림을 곁들일 때 자주 씁니다.",
+      "audio": {
+        "aiden": {
+          "normal": "/audio/2026-10-09/word-10-aiden.opus",
+          "slow": "/audio/2026-10-09/word-10-aiden-slow.opus"
+        },
+        "serena": {
+          "normal": "/audio/2026-10-09/word-10-serena.opus",
+          "slow": "/audio/2026-10-09/word-10-serena-slow.opus"
+        }
+      }
+    }
+  ],
+  "sentences": [
+    {
+      "id": "sentence-01",
+      "german": "Kann ich einen Kaffee mit Milch bestellen?",
+      "meaning": "우유를 넣은 커피를 주문할 수 있나요?",
+      "pronunciation": {
+        "ipa": "/kan ɪç ˈaɪ̯nən ˈkafe mɪt mɪlç bəˈʃtɛlən/",
+        "korean": [
+          {
+            "text": "칸",
+            "stress": true
+          },
+          {
+            "text": "이히",
+            "stress": false
+          },
+          {
+            "text": "아이넨",
+            "stress": false
+          },
+          {
+            "text": "카페",
+            "stress": true
+          },
+          {
+            "text": "미트",
+            "stress": false
+          },
+          {
+            "text": "밀히",
+            "stress": false
+          },
+          {
+            "text": "베슈텔렌",
+            "stress": true
+          }
+        ]
+      },
+      "usesWords": [
+        "word-02",
+        "word-03",
+        "word-07"
+      ],
+      "audio": {
+        "aiden": {
+          "normal": "/audio/2026-10-09/sentence-01-aiden.opus",
+          "slow": "/audio/2026-10-09/sentence-01-aiden-slow.opus"
+        },
+        "serena": {
+          "normal": "/audio/2026-10-09/sentence-01-serena.opus",
+          "slow": "/audio/2026-10-09/sentence-01-serena-slow.opus"
+        }
+      }
+    },
+    {
+      "id": "sentence-02",
+      "german": "Können Sie mir ein Gipfeli geben?",
+      "meaning": "크루아상 하나 주시겠어요?",
+      "pronunciation": {
+        "ipa": "/ˈkœnən ziː miːɐ̯ aɪ̯n ˈɡɪpfəli ˈɡeːbn̩/",
+        "korean": [
+          {
+            "text": "쾨넨",
+            "stress": true
+          },
+          {
+            "text": "지ː",
+            "stress": false
+          },
+          {
+            "text": "미어",
+            "stress": false
+          },
+          {
+            "text": "아인",
+            "stress": false
+          },
+          {
+            "text": "기프엘리",
+            "stress": true
+          },
+          {
+            "text": "게벤",
+            "stress": false
+          }
+        ]
+      },
+      "usesWords": [
+        "word-09"
+      ],
+      "swissNote": "스위스 빵집이나 카페에서 'ein Gipfeli, bitte'라고 간단히 말해도 쉽게 주문할 수 있습니다.",
+      "audio": {
+        "aiden": {
+          "normal": "/audio/2026-10-09/sentence-02-aiden.opus",
+          "slow": "/audio/2026-10-09/sentence-02-aiden-slow.opus"
+        },
+        "serena": {
+          "normal": "/audio/2026-10-09/sentence-02-serena.opus",
+          "slow": "/audio/2026-10-09/sentence-02-serena-slow.opus"
+        }
+      }
+    },
+    {
+      "id": "sentence-03",
+      "german": "Kann ich Kaffee ohne Zucker haben?",
+      "meaning": "설탕 없는 커피를 마실 수 있나요?",
+      "pronunciation": {
+        "ipa": "/kan ɪç ˈkafe ˈoːnə ˈtsʊkɐ ˈhaːbn̩/",
+        "korean": [
+          {
+            "text": "칸",
+            "stress": true
+          },
+          {
+            "text": "이히",
+            "stress": false
+          },
+          {
+            "text": "카페",
+            "stress": true
+          },
+          {
+            "text": "오ː네",
+            "stress": false
+          },
+          {
+            "text": "추커",
+            "stress": false
+          },
+          {
+            "text": "하ː벤",
+            "stress": false
+          }
+        ]
+      },
+      "usesWords": [
+        "word-02",
+        "word-04",
+        "word-08"
+      ],
+      "audio": {
+        "aiden": {
+          "normal": "/audio/2026-10-09/sentence-03-aiden.opus",
+          "slow": "/audio/2026-10-09/sentence-03-aiden-slow.opus"
+        },
+        "serena": {
+          "normal": "/audio/2026-10-09/sentence-03-serena.opus",
+          "slow": "/audio/2026-10-09/sentence-03-serena-slow.opus"
+        }
+      }
+    }
+  ],
+  "grammar": {
+    "id": "kann-ich",
+    "title": "Kann ich …? / Können Sie …?",
+    "pattern": "Kann ich / Können Sie + 명사(4격/목적어) + 동사원형?",
+    "meaning": "“~을(를) 해도 될까요? / ~해 주시겠어요?”",
+    "explanation": "조동사 können(할 수 있다)을 사용하여 정중하게 요청하거나 가능성을 묻는 표현입니다. 주어가 'ich(나)'일 때는 'Kann ich', 상대방에게 정중하게 부탁할 때는 'Können Sie'를 씁니다. 문장 맨 끝에는 의미를 완성하는 동사 원형이 위치합니다.",
+    "examples": [
+      {
+        "german": "Kann ich einen Kaffee bestellen?",
+        "meaning": "커피를 주문할 수 있나요?"
+      },
+      {
+        "german": "Können Sie mir helfen?",
+        "meaning": "저를 도와주실 수 있나요?"
+      }
+    ],
+    "tip": "카페나 상점에서 'Kann ich …?'를 쓰면 매우 공손하고 자연스럽게 원하는 것을 요청할 수 있습니다."
+  }
+}

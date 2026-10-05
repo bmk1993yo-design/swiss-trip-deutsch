@@ -68,9 +68,19 @@ body {
   scroll-snap-align: center;
 }
 
-/* 뜻/독일어 가리기: 탭하면 보임 */
+/* 뜻/독일어 가리기: 탭할 때마다 보이기 ↔ 가리기 */
+.masked,
+.revealed {
+  cursor: pointer;
+  transition: filter 0.15s ease;
+}
 .masked {
   filter: blur(6px);
-  cursor: pointer;
   user-select: none;
+}
+/* 다시 가릴 수 있다는 표시 */
+.revealed {
+  text-decoration: underline dotted;
+  text-decoration-color: var(--muted);
+  text-underline-offset: 4px;
 }

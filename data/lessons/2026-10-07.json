@@ -1,0 +1,495 @@
+{
+  "schemaVersion": 1,
+  "date": "2026-10-07",
+  "day": 2,
+  "unlockAt": "2026-10-07T17:00:00+09:00",
+  "theme": {
+    "id": "train",
+    "title": "기차",
+    "emoji": "🚆"
+  },
+  "approved": true,
+  "words": [
+    {
+      "id": "word-01",
+      "german": "das Billett",
+      "meaning": "승차권, 티켓",
+      "partOfSpeech": "noun",
+      "gender": "das",
+      "plural": "die Billette",
+      "pronunciation": {
+        "ipa": "/biˈlɛt/",
+        "korean": [
+          {
+            "text": "빌",
+            "stress": false
+          },
+          {
+            "text": "렛",
+            "stress": true
+          }
+        ]
+      },
+      "isSwissExpression": true,
+      "swissNote": "스위스에서는 승차권을 'Fahrkarte' 대신 프랑스어에서 유래한 'Billett'이라고 부릅니다.",
+      "audio": {
+        "aiden": {
+          "normal": "/audio/2026-10-07/word-01-aiden.opus",
+          "slow": "/audio/2026-10-07/word-01-aiden-slow.opus"
+        },
+        "serena": {
+          "normal": "/audio/2026-10-07/word-01-serena.opus",
+          "slow": "/audio/2026-10-07/word-01-serena-slow.opus"
+        }
+      }
+    },
+    {
+      "id": "word-02",
+      "german": "das Perron",
+      "meaning": "승강장, 플랫폼",
+      "partOfSpeech": "noun",
+      "gender": "das",
+      "plural": "die Perrons",
+      "pronunciation": {
+        "ipa": "/pɛˈʁɔ̃/",
+        "korean": [
+          {
+            "text": "페",
+            "stress": false
+          },
+          {
+            "text": "롱",
+            "stress": true
+          }
+        ]
+      },
+      "isSwissExpression": true,
+      "swissNote": "스위스 기차역 표지판과 안내 방송에서는 승강장을 'Gleis' 외에도 프랑스어 유래의 'Perron'으로 자주 표현합니다.",
+      "audio": {
+        "aiden": {
+          "normal": "/audio/2026-10-07/word-02-aiden.opus",
+          "slow": "/audio/2026-10-07/word-02-aiden-slow.opus"
+        },
+        "serena": {
+          "normal": "/audio/2026-10-07/word-02-serena.opus",
+          "slow": "/audio/2026-10-07/word-02-serena-slow.opus"
+        }
+      }
+    },
+    {
+      "id": "word-03",
+      "german": "der Bahnhof",
+      "meaning": "기차역",
+      "partOfSpeech": "noun",
+      "gender": "der",
+      "plural": "die Bahnhöfe",
+      "pronunciation": {
+        "ipa": "/ˈbaːnˌhoːf/",
+        "korean": [
+          {
+            "text": "반",
+            "stress": true
+          },
+          {
+            "text": "호ː프",
+            "stress": false
+          }
+        ]
+      },
+      "isSwissExpression": false,
+      "swissNote": "스위스의 주요 중앙역은 보통 'HB'(Hauptbahnhof)로 표기합니다. 예: Zürich HB",
+      "audio": {
+        "aiden": {
+          "normal": "/audio/2026-10-07/word-03-aiden.opus",
+          "slow": "/audio/2026-10-07/word-03-aiden-slow.opus"
+        },
+        "serena": {
+          "normal": "/audio/2026-10-07/word-03-serena.opus",
+          "slow": "/audio/2026-10-07/word-03-serena-slow.opus"
+        }
+      }
+    },
+    {
+      "id": "word-04",
+      "german": "der Zug",
+      "meaning": "기차, 열차",
+      "partOfSpeech": "noun",
+      "gender": "der",
+      "plural": "die Züge",
+      "pronunciation": {
+        "ipa": "/tsuːk/",
+        "korean": [
+          {
+            "text": "추ː크",
+            "stress": true
+          }
+        ]
+      },
+      "isSwissExpression": false,
+      "audio": {
+        "aiden": {
+          "normal": "/audio/2026-10-07/word-04-aiden.opus",
+          "slow": "/audio/2026-10-07/word-04-aiden-slow.opus"
+        },
+        "serena": {
+          "normal": "/audio/2026-10-07/word-04-serena.opus",
+          "slow": "/audio/2026-10-07/word-04-serena-slow.opus"
+        }
+      }
+    },
+    {
+      "id": "word-05",
+      "german": "die Klasse",
+      "meaning": "(기차) 등급, ○등석",
+      "partOfSpeech": "noun",
+      "gender": "die",
+      "plural": "die Klassen",
+      "pronunciation": {
+        "ipa": "/ˈklasə/",
+        "korean": [
+          {
+            "text": "클라",
+            "stress": true
+          },
+          {
+            "text": "세",
+            "stress": false
+          }
+        ]
+      },
+      "isSwissExpression": false,
+      "swissNote": "스위스 기차 열차 객차 외벽에는 1등석(1. Klasse)과 2등석(2. Klasse)을 나타내는 숫자 1과 2가 기재되어 있습니다.",
+      "audio": {
+        "aiden": {
+          "normal": "/audio/2026-10-07/word-05-aiden.opus",
+          "slow": "/audio/2026-10-07/word-05-aiden-slow.opus"
+        },
+        "serena": {
+          "normal": "/audio/2026-10-07/word-05-serena.opus",
+          "slow": "/audio/2026-10-07/word-05-serena-slow.opus"
+        }
+      }
+    },
+    {
+      "id": "word-06",
+      "german": "der Fahrplan",
+      "meaning": "운행 시간표",
+      "partOfSpeech": "noun",
+      "gender": "der",
+      "plural": "die Fahrpläne",
+      "pronunciation": {
+        "ipa": "/ˈfaːɐ̯ˌplaːn/",
+        "korean": [
+          {
+            "text": "파ː어",
+            "stress": true
+          },
+          {
+            "text": "플란",
+            "stress": false
+          }
+        ]
+      },
+      "isSwissExpression": false,
+      "audio": {
+        "aiden": {
+          "normal": "/audio/2026-10-07/word-06-aiden.opus",
+          "slow": "/audio/2026-10-07/word-06-aiden-slow.opus"
+        },
+        "serena": {
+          "normal": "/audio/2026-10-07/word-06-serena.opus",
+          "slow": "/audio/2026-10-07/word-06-serena-slow.opus"
+        }
+      }
+    },
+    {
+      "id": "word-07",
+      "german": "fahren",
+      "meaning": "가다, 타다 (탈것으로)",
+      "partOfSpeech": "verb",
+      "pronunciation": {
+        "ipa": "/ˈfaːʁən/",
+        "korean": [
+          {
+            "text": "파ː",
+            "stress": true
+          },
+          {
+            "text": "렌",
+            "stress": false
+          }
+        ]
+      },
+      "isSwissExpression": false,
+      "audio": {
+        "aiden": {
+          "normal": "/audio/2026-10-07/word-07-aiden.opus",
+          "slow": "/audio/2026-10-07/word-07-aiden-slow.opus"
+        },
+        "serena": {
+          "normal": "/audio/2026-10-07/word-07-serena.opus",
+          "slow": "/audio/2026-10-07/word-07-serena-slow.opus"
+        }
+      }
+    },
+    {
+      "id": "word-08",
+      "german": "nach",
+      "meaning": "~로, ~행",
+      "partOfSpeech": "preposition",
+      "pronunciation": {
+        "ipa": "/naːx/",
+        "korean": [
+          {
+            "text": "나ː흐",
+            "stress": true
+          }
+        ]
+      },
+      "isSwissExpression": false,
+      "audio": {
+        "aiden": {
+          "normal": "/audio/2026-10-07/word-08-aiden.opus",
+          "slow": "/audio/2026-10-07/word-08-aiden-slow.opus"
+        },
+        "serena": {
+          "normal": "/audio/2026-10-07/word-08-serena.opus",
+          "slow": "/audio/2026-10-07/word-08-serena-slow.opus"
+        }
+      }
+    },
+    {
+      "id": "word-09",
+      "german": "einfach",
+      "meaning": "편도 (티켓); 단순한",
+      "partOfSpeech": "adjective",
+      "pronunciation": {
+        "ipa": "/ˈaɪ̯nfax/",
+        "korean": [
+          {
+            "text": "아인",
+            "stress": true
+          },
+          {
+            "text": "파흐",
+            "stress": false
+          }
+        ]
+      },
+      "isSwissExpression": false,
+      "swissNote": "왕복 티켓을 원할 때는 'retour' 또는 'hin und zurück'을 사용합니다.",
+      "audio": {
+        "aiden": {
+          "normal": "/audio/2026-10-07/word-09-aiden.opus",
+          "slow": "/audio/2026-10-07/word-09-aiden-slow.opus"
+        },
+        "serena": {
+          "normal": "/audio/2026-10-07/word-09-serena.opus",
+          "slow": "/audio/2026-10-07/word-09-serena-slow.opus"
+        }
+      }
+    },
+    {
+      "id": "word-10",
+      "german": "der Sitzplatz",
+      "meaning": "좌석",
+      "partOfSpeech": "noun",
+      "gender": "der",
+      "plural": "die Sitzplätze",
+      "pronunciation": {
+        "ipa": "/ˈzɪtsˌplats/",
+        "korean": [
+          {
+            "text": "지츠",
+            "stress": true
+          },
+          {
+            "text": "플라츠",
+            "stress": false
+          }
+        ]
+      },
+      "isSwissExpression": false,
+      "audio": {
+        "aiden": {
+          "normal": "/audio/2026-10-07/word-10-aiden.opus",
+          "slow": "/audio/2026-10-07/word-10-aiden-slow.opus"
+        },
+        "serena": {
+          "normal": "/audio/2026-10-07/word-10-serena.opus",
+          "slow": "/audio/2026-10-07/word-10-serena-slow.opus"
+        }
+      }
+    }
+  ],
+  "sentences": [
+    {
+      "id": "sentence-01",
+      "german": "Ich möchte ein Billett nach Bern.",
+      "meaning": "베른행 티켓 한 장 주세요.",
+      "pronunciation": {
+        "ipa": "/ɪç ˈmœçtə aɪ̯n biˈlɛt naːx bɛʁn/",
+        "korean": [
+          {
+            "text": "이히",
+            "stress": false
+          },
+          {
+            "text": "뫼히테",
+            "stress": true
+          },
+          {
+            "text": "아인",
+            "stress": false
+          },
+          {
+            "text": "빌렛",
+            "stress": true
+          },
+          {
+            "text": "나ː흐",
+            "stress": false
+          },
+          {
+            "text": "베른",
+            "stress": false
+          }
+        ]
+      },
+      "usesWords": [
+        "word-01",
+        "word-08"
+      ],
+      "audio": {
+        "aiden": {
+          "normal": "/audio/2026-10-07/sentence-01-aiden.opus",
+          "slow": "/audio/2026-10-07/sentence-01-aiden-slow.opus"
+        },
+        "serena": {
+          "normal": "/audio/2026-10-07/sentence-01-serena.opus",
+          "slow": "/audio/2026-10-07/sentence-01-serena-slow.opus"
+        }
+      }
+    },
+    {
+      "id": "sentence-02",
+      "german": "Auf welchem Perron fährt der Zug ab?",
+      "meaning": "기차가 몇 번 승강장에서 출발하나요?",
+      "pronunciation": {
+        "ipa": "/aʊ̯f ˈvɛlçəm pɛˈʁɔ̃ fɛːɐ̯t deːɐ̯ tsuːk ap/",
+        "korean": [
+          {
+            "text": "아우프",
+            "stress": false
+          },
+          {
+            "text": "벨혬",
+            "stress": false
+          },
+          {
+            "text": "페롱",
+            "stress": true
+          },
+          {
+            "text": "페ː어트",
+            "stress": false
+          },
+          {
+            "text": "데어",
+            "stress": false
+          },
+          {
+            "text": "추ː크",
+            "stress": false
+          },
+          {
+            "text": "압",
+            "stress": true
+          }
+        ]
+      },
+      "usesWords": [
+        "word-02",
+        "word-04",
+        "word-07"
+      ],
+      "audio": {
+        "aiden": {
+          "normal": "/audio/2026-10-07/sentence-02-aiden.opus",
+          "slow": "/audio/2026-10-07/sentence-02-aiden-slow.opus"
+        },
+        "serena": {
+          "normal": "/audio/2026-10-07/sentence-02-serena.opus",
+          "slow": "/audio/2026-10-07/sentence-02-serena-slow.opus"
+        }
+      }
+    },
+    {
+      "id": "sentence-03",
+      "german": "Ich möchte zweiter Klasse fahren.",
+      "meaning": "2등석으로 가고 싶어요.",
+      "pronunciation": {
+        "ipa": "/ɪç ˈmœçtə ˈtsvaɪ̯tɐ ˈklasə ˈfaːʁən/",
+        "korean": [
+          {
+            "text": "이히",
+            "stress": false
+          },
+          {
+            "text": "뫼히테",
+            "stress": true
+          },
+          {
+            "text": "츠바이터",
+            "stress": false
+          },
+          {
+            "text": "클라세",
+            "stress": true
+          },
+          {
+            "text": "파ː렌",
+            "stress": false
+          }
+        ]
+      },
+      "usesWords": [
+        "word-05",
+        "word-07"
+      ],
+      "audio": {
+        "aiden": {
+          "normal": "/audio/2026-10-07/sentence-03-aiden.opus",
+          "slow": "/audio/2026-10-07/sentence-03-aiden-slow.opus"
+        },
+        "serena": {
+          "normal": "/audio/2026-10-07/sentence-03-serena.opus",
+          "slow": "/audio/2026-10-07/sentence-03-serena-slow.opus"
+        }
+      },
+      "swissNote": "'erster/zweiter Klasse fahren'은 굳어진 표현이라 Klasse 앞에 -er 형태를 씁니다. 스위스 객차 외벽의 숫자 1·2로 등급을 확인하세요."
+    }
+  ],
+  "grammar": {
+    "id": "ich-moechte",
+    "title": "Ich möchte + 명사/동사원형",
+    "pattern": "Ich möchte + 명사 / Ich möchte + 동사원형",
+    "meaning": "“~을 원해요 / ~하고 싶어요”",
+    "explanation": "'möchte'는 상대방에게 정중하게 요청하거나 주문할 때 사용하는 표현입니다. 뒤에 명사를 바로 붙이면 '~를 주세요/원합니다'라는 의미가 되며, 문장 맨 뒤에 동사원형을 놓으면 '~하고 싶습니다'라는 뜻이 됩니다. 기차역 티켓 창구나 매점에서 매우 유용하게 쓰입니다.",
+    "examples": [
+      {
+        "german": "Ich möchte ein Billett nach Zürich.",
+        "meaning": "취리히행 티켓 한 장 주세요."
+      },
+      {
+        "german": "Ich möchte zweiter Klasse fahren.",
+        "meaning": "2등석으로 가고 싶어요."
+      },
+      {
+        "german": "Ich möchte einen Sitzplatz reservieren.",
+        "meaning": "좌석을 예약하고 싶어요."
+      }
+    ],
+    "tip": "독일어권에서는 무언가를 요청할 때 'Ich will'(원한다) 대신 항상 'Ich möchte'(~하고 싶습니다)를 쓰는 것이 예의 바른 표현입니다."
+  }
+}

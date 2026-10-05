@@ -1,0 +1,25 @@
+# Node / Next.js
+node_modules/
+.next/
+out/
+next-env.d.ts
+*.tsbuildinfo
+
+# Python
+.venv/
+__pycache__/
+*.pyc
+
+# 환경 변수 (API 키)
+.env
+.env.local
+
+# TTS 작업 중 생기는 중간 파일 (배포는 .opus만)
+generator/tmp/
+*.wav
+
+# macOS
+.DS_Store
+
+# Vercel
+.vercel

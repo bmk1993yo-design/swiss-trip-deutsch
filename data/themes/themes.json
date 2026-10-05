@@ -1,0 +1,277 @@
+{
+  "course": "Swiss Trip Deutsch",
+  "startDate": "2026-10-06",
+  "level": "A1",
+  "themes": [
+    {
+      "day": 1,
+      "id": "airport",
+      "title": "공항",
+      "emoji": "✈️",
+      "scenarios": ["입국 후 출구 찾기", "수하물 찾기", "출발·도착 안내판 읽기", "항공편 지연 확인"],
+      "swissTerms": ["Grüezi"],
+      "grammarFocus": { "id": "wo-ist", "title": "Wo ist …? / Wo sind …?" }
+    },
+    {
+      "day": 2,
+      "id": "train",
+      "title": "기차",
+      "emoji": "🚆",
+      "scenarios": ["기차역에서 플랫폼 찾기", "목적지 말하기", "좌석 등급 고르기"],
+      "swissTerms": ["das Billett", "das Perron"],
+      "grammarFocus": { "id": "ich-moechte", "title": "Ich möchte + 명사/동사원형" }
+    },
+    {
+      "day": 3,
+      "id": "sbb-ticket",
+      "title": "SBB 승차권",
+      "emoji": "🎫",
+      "scenarios": ["매표소·발권기에서 표 사기", "편도·왕복", "Halbtax·Swiss Travel Pass 묻기", "가격 묻기"],
+      "swissTerms": ["das Billett", "das Halbtax", "retour"],
+      "grammarFocus": { "id": "wie-viel-kostet", "title": "Wie viel kostet …? + 숫자와 가격(CHF)" }
+    },
+    {
+      "day": 4,
+      "id": "hotel-checkin",
+      "title": "호텔 체크인",
+      "emoji": "🏨",
+      "scenarios": ["예약 확인", "체크인·체크아웃 시간", "아침 식사 묻기", "와이파이 묻기"],
+      "swissTerms": ["das Zmorge"],
+      "grammarFocus": { "id": "haben-akkusativ", "title": "Ich habe + 4격 (einen/eine/ein)" }
+    },
+    {
+      "day": 5,
+      "id": "restaurant",
+      "title": "식당",
+      "emoji": "🍽️",
+      "scenarios": ["자리 묻기", "메뉴 주문", "알레르기 말하기", "계산 요청"],
+      "swissTerms": ["das Poulet", "die Rösti", "Merci"],
+      "grammarFocus": { "id": "ich-nehme", "title": "Ich nehme … (주문할 때의 4격)" }
+    },
+    {
+      "day": 6,
+      "id": "cafe",
+      "title": "카페",
+      "emoji": "☕",
+      "scenarios": ["커피 주문", "빵·디저트 고르기", "포장 여부 말하기"],
+      "swissTerms": ["das Gipfeli", "der Rahm", "das Zvieri"],
+      "grammarFocus": { "id": "kann-ich", "title": "Kann ich …? / Können Sie …? (조동사 + 문장 끝 동사원형)" }
+    },
+    {
+      "day": 7,
+      "id": "supermarket",
+      "title": "Coop / Migros",
+      "emoji": "🛒",
+      "scenarios": ["물건 위치 묻기", "셀프 계산대", "봉투 필요 여부", "영수증"],
+      "swissTerms": ["der Coop", "die Migros", "das Rüebli"],
+      "grammarFocus": { "id": "gibt-es", "title": "Gibt es …? (es gibt + 4격)" }
+    },
+    {
+      "day": 8,
+      "id": "mountain-railway",
+      "title": "산악열차",
+      "emoji": "🚞",
+      "scenarios": ["출발 시각 묻기", "정상까지 걸리는 시간", "환승"],
+      "swissTerms": ["die Zahnradbahn"],
+      "grammarFocus": { "id": "trennbare-verben", "title": "분리동사: Der Zug fährt um 9 Uhr ab." }
+    },
+    {
+      "day": 9,
+      "id": "cable-car",
+      "title": "케이블카",
+      "emoji": "🚠",
+      "scenarios": ["운행 시간 묻기", "마지막 운행편", "날씨로 인한 운휴"],
+      "swissTerms": ["die Gondelbahn", "die Luftseilbahn"],
+      "grammarFocus": { "id": "um-wie-viel-uhr", "title": "Um wie viel Uhr …? (시각 말하기)" }
+    },
+    {
+      "day": 10,
+      "id": "hiking",
+      "title": "하이킹",
+      "emoji": "🥾",
+      "scenarios": ["노란 하이킹 표지판 읽기", "소요 시간", "산장에서 쉬기"],
+      "swissTerms": ["der Wanderweg", "die Hütte"],
+      "grammarFocus": { "id": "wie-lange-dauert", "title": "Wie lange dauert …? / Wie weit ist …?" }
+    },
+    {
+      "day": 11,
+      "id": "weather",
+      "title": "날씨",
+      "emoji": "⛅",
+      "scenarios": ["오늘 날씨 묻기", "산 위 날씨", "옷차림 결정"],
+      "swissTerms": ["der Föhn"],
+      "grammarFocus": { "id": "es-ist-kalt", "title": "비인칭 es: Es ist kalt. / Es regnet." }
+    },
+    {
+      "day": 12,
+      "id": "directions",
+      "title": "길 묻기",
+      "emoji": "🧭",
+      "scenarios": ["역·호텔 가는 길", "왼쪽·오른쪽·직진", "걸어서 갈 수 있는지"],
+      "swissTerms": ["das Trottoir"],
+      "grammarFocus": { "id": "imperativ-sie", "title": "Sie 명령형: Gehen Sie geradeaus." }
+    },
+    {
+      "day": 13,
+      "id": "shopping",
+      "title": "쇼핑",
+      "emoji": "🛍️",
+      "scenarios": ["옷 사이즈", "입어 보기", "색 고르기", "기념품"],
+      "swissTerms": ["die Grösse"],
+      "grammarFocus": { "id": "zu-adjektiv", "title": "zu + 형용사: Das ist zu gross." }
+    },
+    {
+      "day": 14,
+      "id": "payment",
+      "title": "결제",
+      "emoji": "💳",
+      "scenarios": ["카드 결제 가능 여부", "현금·CHF·유로", "TWINT", "영수증"],
+      "swissTerms": ["der Franken", "der Rappen", "TWINT"],
+      "grammarFocus": { "id": "mit-dativ", "title": "mit + 3격: mit Karte / mit der Karte" }
+    },
+    {
+      "day": 15,
+      "id": "toilet",
+      "title": "화장실과 기본 용무",
+      "emoji": "🚻",
+      "scenarios": ["화장실 찾기", "유료 화장실", "물 마시기", "휴대폰 충전"],
+      "swissTerms": ["das WC"],
+      "grammarFocus": { "id": "ich-brauche", "title": "Ich brauche + 4격" }
+    },
+    {
+      "day": 16,
+      "id": "pharmacy",
+      "title": "약국",
+      "emoji": "💊",
+      "scenarios": ["증상 말하기", "약 복용법 듣기", "처방 없이 살 수 있는지"],
+      "swissTerms": ["die Apotheke", "die Drogerie"],
+      "grammarFocus": { "id": "ich-habe-schmerzen", "title": "Ich habe Kopfschmerzen. / Mir ist schlecht." }
+    },
+    {
+      "day": 17,
+      "id": "emergency",
+      "title": "응급 상황",
+      "emoji": "🚑",
+      "scenarios": ["도움 요청", "분실 신고", "병원", "긴급 번호 112·144·117"],
+      "swissTerms": ["das Spital"],
+      "grammarFocus": { "id": "perfekt-verloren", "title": "현재완료 맛보기: Ich habe … verloren." }
+    },
+    {
+      "day": 18,
+      "id": "museum",
+      "title": "박물관",
+      "emoji": "🏛️",
+      "scenarios": ["운영 시간", "입장료·할인", "오디오 가이드", "사진 촬영"],
+      "swissTerms": ["der Eintritt"],
+      "grammarFocus": { "id": "von-bis", "title": "Wann öffnet …? / von … bis …" }
+    },
+    {
+      "day": 19,
+      "id": "festival",
+      "title": "축제와 문화",
+      "emoji": "🎉",
+      "scenarios": ["축제 일정", "지역 특산품", "전통 행사 구경"],
+      "swissTerms": ["die Spezialität", "Hopp Schwiiz"],
+      "grammarFocus": { "id": "zum-zur", "title": "zu + 3격: zum Fest / zur Messe" }
+    },
+    {
+      "day": 20,
+      "id": "christmas-market",
+      "title": "크리스마스 마켓",
+      "emoji": "🎄",
+      "scenarios": ["따뜻한 음료 주문", "보증금 컵 반납", "선물 고르기"],
+      "swissTerms": ["der Glühwein", "das Depot"],
+      "grammarFocus": { "id": "ich-haette-gern", "title": "Ich hätte gern … (정중한 주문)" }
+    },
+    {
+      "day": 21,
+      "id": "lake-boat",
+      "title": "호수 유람선",
+      "emoji": "⛴️",
+      "scenarios": ["선착장 찾기", "운항 시간표", "자리 고르기"],
+      "swissTerms": ["die Schifflände", "das Schiff"],
+      "grammarFocus": { "id": "ja-nein-frage", "title": "예/아니오 질문: 동사가 맨 앞 (Fährt das Schiff nach …?)" }
+    },
+    {
+      "day": 22,
+      "id": "chocolate-cheese",
+      "title": "초콜릿과 치즈",
+      "emoji": "🧀",
+      "scenarios": ["시식", "치즈 종류 묻기", "퐁뒤·라클렛 주문"],
+      "swissTerms": ["das Fondue", "das Raclette"],
+      "grammarFocus": { "id": "gern", "title": "gern: Ich esse gern Käse. / Ich mag …" }
+    },
+    {
+      "day": 23,
+      "id": "small-talk",
+      "title": "자기소개와 스몰토크",
+      "emoji": "👋",
+      "scenarios": ["어디서 왔는지", "여행 기간", "직업", "칭찬하기"],
+      "swissTerms": ["Grüezi mitenand"],
+      "grammarFocus": { "id": "kommen-aus", "title": "Ich komme aus Korea. (aus + 3격)" }
+    },
+    {
+      "day": 24,
+      "id": "swiss-politeness",
+      "title": "스위스식 인사와 예절",
+      "emoji": "🇨🇭",
+      "scenarios": ["인사·작별 인사", "감사·사과", "Sie와 du 구분"],
+      "swissTerms": ["Merci", "Exgüsi", "Uf Widerluege", "Ade"],
+      "grammarFocus": { "id": "sie-du", "title": "존칭 Sie와 친칭 du" }
+    },
+    {
+      "day": 25,
+      "id": "winter-sports",
+      "title": "스키와 겨울 스포츠",
+      "emoji": "⛷️",
+      "scenarios": ["장비 대여", "리프트권", "슬로프 난이도"],
+      "swissTerms": ["die Piste", "der Skipass"],
+      "grammarFocus": { "id": "koennen-faehigkeit", "title": "können(능력): Ich kann (nicht) Ski fahren." }
+    },
+    {
+      "day": 26,
+      "id": "sightseeing",
+      "title": "관광과 사진",
+      "emoji": "📸",
+      "scenarios": ["사진 부탁하기", "전망대", "가이드 투어"],
+      "swissTerms": ["die Altstadt"],
+      "grammarFocus": { "id": "darf-ich", "title": "Darf ich …? (허락 구하기)" }
+    },
+    {
+      "day": 27,
+      "id": "bus-tram",
+      "title": "버스와 트램",
+      "emoji": "🚋",
+      "scenarios": ["정류장 찾기", "환승", "하차 버튼", "1일권"],
+      "swissTerms": ["das Tram", "die Haltestelle"],
+      "grammarFocus": { "id": "muessen", "title": "Wo muss ich umsteigen? (müssen)" }
+    },
+    {
+      "day": 28,
+      "id": "room-problems",
+      "title": "숙소 문제 해결",
+      "emoji": "🔧",
+      "scenarios": ["온수·난방 고장", "수건 요청", "방 바꾸기"],
+      "swissTerms": ["die Heizung"],
+      "grammarFocus": { "id": "nicht-kein", "title": "부정: nicht와 kein" }
+    },
+    {
+      "day": 29,
+      "id": "post-luggage",
+      "title": "우체국과 짐 보관",
+      "emoji": "📮",
+      "scenarios": ["엽서 보내기", "우표", "역의 코인 로커", "짐 배송"],
+      "swissTerms": ["die Post", "das Schliessfach"],
+      "grammarFocus": { "id": "possessiv", "title": "소유관사: mein / Ihr" }
+    },
+    {
+      "day": 30,
+      "id": "departure",
+      "title": "출국과 여행 회고",
+      "emoji": "🧳",
+      "scenarios": ["공항 가는 길", "체크인 카운터", "여행 소감 말하기"],
+      "swissTerms": ["Uf Widerluege"],
+      "grammarFocus": { "id": "perfekt-gefallen", "title": "Es hat mir gut gefallen. / Ich war in …" }
+    }
+  ]
+}

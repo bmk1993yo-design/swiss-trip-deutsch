@@ -1,0 +1,76 @@
+@import "tailwindcss";
+
+@theme {
+  --color-swiss: #d52b1e;
+  --color-swiss-dark: #a61f15;
+  --color-der: #2563eb;
+  --color-die: #e11d48;
+  --color-das: #059669;
+  --font-sans: -apple-system, BlinkMacSystemFont, "Apple SD Gothic Neo", "Pretendard", "Noto Sans KR",
+    "Segoe UI", Roboto, sans-serif;
+}
+
+:root {
+  --bg: #f6f5f3;
+  --card: #ffffff;
+  --text: #1c1917;
+  --muted: #78716c;
+  --line: #e7e5e4;
+  color-scheme: light;
+}
+
+@media (prefers-color-scheme: dark) {
+  :root {
+    --bg: #0f0f0f;
+    --card: #1c1b1a;
+    --text: #f5f5f4;
+    --muted: #a8a29e;
+    --line: #2e2c2a;
+    color-scheme: dark;
+  }
+}
+
+body {
+  background: var(--bg);
+  color: var(--text);
+  -webkit-tap-highlight-color: transparent;
+}
+
+.card {
+  background: var(--card);
+  border: 1px solid var(--line);
+  border-radius: 1.25rem;
+}
+
+.text-muted {
+  color: var(--muted);
+}
+
+.border-line {
+  border-color: var(--line);
+}
+
+/* IPA는 기호가 많아 전용 서체 우선 */
+.ipa {
+  font-family: "Charis SIL", "Doulos SIL", "Gentium Plus", "Times New Roman", serif;
+  letter-spacing: 0.01em;
+}
+
+/* 단어 카드 가로 스와이프 */
+.snap-row {
+  scroll-snap-type: x mandatory;
+  scrollbar-width: none;
+}
+.snap-row::-webkit-scrollbar {
+  display: none;
+}
+.snap-row > * {
+  scroll-snap-align: center;
+}
+
+/* 뜻/독일어 가리기: 탭하면 보임 */
+.masked {
+  filter: blur(6px);
+  cursor: pointer;
+  user-select: none;
+}

@@ -1,0 +1,512 @@
+{
+  "schemaVersion": 1,
+  "date": "2026-10-06",
+  "day": 1,
+  "unlockAt": "2026-10-06T17:00:00+09:00",
+  "theme": {
+    "id": "airport",
+    "title": "공항",
+    "emoji": "✈️"
+  },
+  "approved": true,
+  "words": [
+    {
+      "id": "word-01",
+      "german": "der Flughafen",
+      "meaning": "공항",
+      "partOfSpeech": "noun",
+      "gender": "der",
+      "plural": "die Flughäfen",
+      "pronunciation": {
+        "ipa": "/ˈfluːkˌhaːfn̩/",
+        "korean": [
+          {
+            "text": "플룩",
+            "stress": true
+          },
+          {
+            "text": "하ː",
+            "stress": false
+          },
+          {
+            "text": "펜",
+            "stress": false
+          }
+        ]
+      },
+      "audio": {
+        "aiden": {
+          "normal": "/audio/2026-10-06/word-01-aiden.opus",
+          "slow": "/audio/2026-10-06/word-01-aiden-slow.opus"
+        },
+        "serena": {
+          "normal": "/audio/2026-10-06/word-01-serena.opus",
+          "slow": "/audio/2026-10-06/word-01-serena-slow.opus"
+        }
+      },
+      "isSwissExpression": false,
+      "swissNote": "취리히 공항의 정식 명칭은 Flughafen Zürich입니다. 기차역 안내판에는 줄여서 'Zürich Flughafen'으로 표시됩니다."
+    },
+    {
+      "id": "word-02",
+      "german": "das Gepäck",
+      "meaning": "짐, 수하물",
+      "partOfSpeech": "noun",
+      "gender": "das",
+      "plural": null,
+      "pronunciation": {
+        "ipa": "/ɡəˈpɛk/",
+        "korean": [
+          {
+            "text": "게",
+            "stress": false
+          },
+          {
+            "text": "펙",
+            "stress": true
+          }
+        ]
+      },
+      "audio": {
+        "aiden": {
+          "normal": "/audio/2026-10-06/word-02-aiden.opus",
+          "slow": "/audio/2026-10-06/word-02-aiden-slow.opus"
+        },
+        "serena": {
+          "normal": "/audio/2026-10-06/word-02-serena.opus",
+          "slow": "/audio/2026-10-06/word-02-serena-slow.opus"
+        }
+      },
+      "isSwissExpression": false
+    },
+    {
+      "id": "word-03",
+      "german": "der Koffer",
+      "meaning": "여행 가방, 캐리어",
+      "partOfSpeech": "noun",
+      "gender": "der",
+      "plural": "die Koffer",
+      "pronunciation": {
+        "ipa": "/ˈkɔfɐ/",
+        "korean": [
+          {
+            "text": "코",
+            "stress": true
+          },
+          {
+            "text": "퍼",
+            "stress": false
+          }
+        ]
+      },
+      "audio": {
+        "aiden": {
+          "normal": "/audio/2026-10-06/word-03-aiden.opus",
+          "slow": "/audio/2026-10-06/word-03-aiden-slow.opus"
+        },
+        "serena": {
+          "normal": "/audio/2026-10-06/word-03-serena.opus",
+          "slow": "/audio/2026-10-06/word-03-serena-slow.opus"
+        }
+      },
+      "isSwissExpression": false
+    },
+    {
+      "id": "word-04",
+      "german": "der Reisepass",
+      "meaning": "여권",
+      "partOfSpeech": "noun",
+      "gender": "der",
+      "plural": "die Reisepässe",
+      "pronunciation": {
+        "ipa": "/ˈʁaɪ̯zəˌpas/",
+        "korean": [
+          {
+            "text": "라이",
+            "stress": true
+          },
+          {
+            "text": "제",
+            "stress": false
+          },
+          {
+            "text": "파스",
+            "stress": false
+          }
+        ]
+      },
+      "audio": {
+        "aiden": {
+          "normal": "/audio/2026-10-06/word-04-aiden.opus",
+          "slow": "/audio/2026-10-06/word-04-aiden-slow.opus"
+        },
+        "serena": {
+          "normal": "/audio/2026-10-06/word-04-serena.opus",
+          "slow": "/audio/2026-10-06/word-04-serena-slow.opus"
+        }
+      },
+      "isSwissExpression": false
+    },
+    {
+      "id": "word-05",
+      "german": "die Bordkarte",
+      "meaning": "탑승권",
+      "partOfSpeech": "noun",
+      "gender": "die",
+      "plural": "die Bordkarten",
+      "pronunciation": {
+        "ipa": "/ˈbɔʁtˌkaʁtə/",
+        "korean": [
+          {
+            "text": "보르트",
+            "stress": true
+          },
+          {
+            "text": "카르",
+            "stress": false
+          },
+          {
+            "text": "테",
+            "stress": false
+          }
+        ]
+      },
+      "audio": {
+        "aiden": {
+          "normal": "/audio/2026-10-06/word-05-aiden.opus",
+          "slow": "/audio/2026-10-06/word-05-aiden-slow.opus"
+        },
+        "serena": {
+          "normal": "/audio/2026-10-06/word-05-serena.opus",
+          "slow": "/audio/2026-10-06/word-05-serena-slow.opus"
+        }
+      },
+      "isSwissExpression": false
+    },
+    {
+      "id": "word-06",
+      "german": "der Abflug",
+      "meaning": "출발 (항공편)",
+      "partOfSpeech": "noun",
+      "gender": "der",
+      "plural": "die Abflüge",
+      "pronunciation": {
+        "ipa": "/ˈapˌfluːk/",
+        "korean": [
+          {
+            "text": "압",
+            "stress": true
+          },
+          {
+            "text": "플룩",
+            "stress": false
+          }
+        ]
+      },
+      "audio": {
+        "aiden": {
+          "normal": "/audio/2026-10-06/word-06-aiden.opus",
+          "slow": "/audio/2026-10-06/word-06-aiden-slow.opus"
+        },
+        "serena": {
+          "normal": "/audio/2026-10-06/word-06-serena.opus",
+          "slow": "/audio/2026-10-06/word-06-serena-slow.opus"
+        }
+      },
+      "isSwissExpression": false
+    },
+    {
+      "id": "word-07",
+      "german": "die Ankunft",
+      "meaning": "도착",
+      "partOfSpeech": "noun",
+      "gender": "die",
+      "plural": "die Ankünfte",
+      "pronunciation": {
+        "ipa": "/ˈanˌkʊnft/",
+        "korean": [
+          {
+            "text": "안",
+            "stress": true
+          },
+          {
+            "text": "쿤프트",
+            "stress": false
+          }
+        ]
+      },
+      "audio": {
+        "aiden": {
+          "normal": "/audio/2026-10-06/word-07-aiden.opus",
+          "slow": "/audio/2026-10-06/word-07-aiden-slow.opus"
+        },
+        "serena": {
+          "normal": "/audio/2026-10-06/word-07-serena.opus",
+          "slow": "/audio/2026-10-06/word-07-serena-slow.opus"
+        }
+      },
+      "isSwissExpression": false
+    },
+    {
+      "id": "word-08",
+      "german": "der Ausgang",
+      "meaning": "출구",
+      "partOfSpeech": "noun",
+      "gender": "der",
+      "plural": "die Ausgänge",
+      "pronunciation": {
+        "ipa": "/ˈaʊ̯sˌɡaŋ/",
+        "korean": [
+          {
+            "text": "아우스",
+            "stress": true
+          },
+          {
+            "text": "강",
+            "stress": false
+          }
+        ]
+      },
+      "audio": {
+        "aiden": {
+          "normal": "/audio/2026-10-06/word-08-aiden.opus",
+          "slow": "/audio/2026-10-06/word-08-aiden-slow.opus"
+        },
+        "serena": {
+          "normal": "/audio/2026-10-06/word-08-serena.opus",
+          "slow": "/audio/2026-10-06/word-08-serena-slow.opus"
+        }
+      },
+      "isSwissExpression": false,
+      "swissNote": "스위스 안내판은 여러 언어로 표기됩니다. Ausgang · Sortie · Uscita는 모두 '출구'라는 뜻입니다."
+    },
+    {
+      "id": "word-09",
+      "german": "verspätet",
+      "meaning": "지연된, 늦은",
+      "partOfSpeech": "adjective",
+      "pronunciation": {
+        "ipa": "/fɛɐ̯ˈʃpɛːtət/",
+        "korean": [
+          {
+            "text": "페어",
+            "stress": false
+          },
+          {
+            "text": "슈페ː",
+            "stress": true
+          },
+          {
+            "text": "테트",
+            "stress": false
+          }
+        ]
+      },
+      "audio": {
+        "aiden": {
+          "normal": "/audio/2026-10-06/word-09-aiden.opus",
+          "slow": "/audio/2026-10-06/word-09-aiden-slow.opus"
+        },
+        "serena": {
+          "normal": "/audio/2026-10-06/word-09-serena.opus",
+          "slow": "/audio/2026-10-06/word-09-serena-slow.opus"
+        }
+      },
+      "isSwissExpression": false
+    },
+    {
+      "id": "word-10",
+      "german": "Grüezi",
+      "meaning": "안녕하세요 (스위스식 인사)",
+      "partOfSpeech": "interjection",
+      "pronunciation": {
+        "ipa": "/ˈɡryə̯tsi/",
+        "korean": [
+          {
+            "text": "그뤼",
+            "stress": true
+          },
+          {
+            "text": "에",
+            "stress": false
+          },
+          {
+            "text": "치",
+            "stress": false
+          }
+        ]
+      },
+      "audio": {
+        "aiden": {
+          "normal": "/audio/2026-10-06/word-10-aiden.opus",
+          "slow": "/audio/2026-10-06/word-10-aiden-slow.opus"
+        },
+        "serena": {
+          "normal": "/audio/2026-10-06/word-10-serena.opus",
+          "slow": "/audio/2026-10-06/word-10-serena-slow.opus"
+        }
+      },
+      "isSwissExpression": true,
+      "swissNote": "독일의 'Guten Tag' 대신 독일어권 스위스에서 쓰는 인사입니다. 여러 사람에게 인사할 때는 'Grüezi mitenand'라고 합니다."
+    }
+  ],
+  "sentences": [
+    {
+      "id": "sentence-01",
+      "german": "Grüezi! Wo ist der Ausgang?",
+      "meaning": "안녕하세요! 출구가 어디예요?",
+      "pronunciation": {
+        "ipa": "/ˈɡryə̯tsi voː ɪst deːɐ̯ ˈaʊ̯sɡaŋ/",
+        "korean": [
+          {
+            "text": "그뤼에치",
+            "stress": true
+          },
+          {
+            "text": "보ː",
+            "stress": false
+          },
+          {
+            "text": "이스트",
+            "stress": false
+          },
+          {
+            "text": "데어",
+            "stress": false
+          },
+          {
+            "text": "아우스강",
+            "stress": true
+          }
+        ]
+      },
+      "audio": {
+        "aiden": {
+          "normal": "/audio/2026-10-06/sentence-01-aiden.opus",
+          "slow": "/audio/2026-10-06/sentence-01-aiden-slow.opus"
+        },
+        "serena": {
+          "normal": "/audio/2026-10-06/sentence-01-serena.opus",
+          "slow": "/audio/2026-10-06/sentence-01-serena-slow.opus"
+        }
+      },
+      "usesWords": [
+        "word-10",
+        "word-08"
+      ]
+    },
+    {
+      "id": "sentence-02",
+      "german": "Mein Koffer ist nicht angekommen.",
+      "meaning": "제 캐리어가 도착하지 않았어요.",
+      "pronunciation": {
+        "ipa": "/maɪ̯n ˈkɔfɐ ɪst nɪçt ˈanɡəˌkɔmən/",
+        "korean": [
+          {
+            "text": "마인",
+            "stress": false
+          },
+          {
+            "text": "코퍼",
+            "stress": true
+          },
+          {
+            "text": "이스트",
+            "stress": false
+          },
+          {
+            "text": "니히트",
+            "stress": false
+          },
+          {
+            "text": "안게코멘",
+            "stress": true
+          }
+        ]
+      },
+      "audio": {
+        "aiden": {
+          "normal": "/audio/2026-10-06/sentence-02-aiden.opus",
+          "slow": "/audio/2026-10-06/sentence-02-aiden-slow.opus"
+        },
+        "serena": {
+          "normal": "/audio/2026-10-06/sentence-02-serena.opus",
+          "slow": "/audio/2026-10-06/sentence-02-serena-slow.opus"
+        }
+      },
+      "usesWords": [
+        "word-03"
+      ],
+      "swissNote": "수하물이 오지 않았다면 수하물 찾는 곳(Gepäckausgabe) 근처의 분실 수하물 창구로 가세요."
+    },
+    {
+      "id": "sentence-03",
+      "german": "Ist der Flug nach Zürich verspätet?",
+      "meaning": "취리히행 비행기가 지연됐나요?",
+      "pronunciation": {
+        "ipa": "/ɪst deːɐ̯ fluːk naːx ˈtsyːʁɪç fɛɐ̯ˈʃpɛːtət/",
+        "korean": [
+          {
+            "text": "이스트",
+            "stress": false
+          },
+          {
+            "text": "데어",
+            "stress": false
+          },
+          {
+            "text": "플룩",
+            "stress": true
+          },
+          {
+            "text": "나ː흐",
+            "stress": false
+          },
+          {
+            "text": "취ː리히",
+            "stress": true
+          },
+          {
+            "text": "페어슈페ː테트",
+            "stress": true
+          }
+        ]
+      },
+      "audio": {
+        "aiden": {
+          "normal": "/audio/2026-10-06/sentence-03-aiden.opus",
+          "slow": "/audio/2026-10-06/sentence-03-aiden-slow.opus"
+        },
+        "serena": {
+          "normal": "/audio/2026-10-06/sentence-03-serena.opus",
+          "slow": "/audio/2026-10-06/sentence-03-serena-slow.opus"
+        }
+      },
+      "usesWords": [
+        "word-09"
+      ]
+    }
+  ],
+  "grammar": {
+    "id": "wo-ist",
+    "title": "Wo ist …?",
+    "pattern": "Wo ist + 명사(1격)? / Wo sind + 복수 명사?",
+    "meaning": "“~은(는) 어디에 있나요?”",
+    "explanation": "'wo'는 '어디'라는 뜻의 의문사이고 'ist'는 동사 sein(~이다, 있다)의 3인칭 단수형입니다. 독일어 의문사 의문문에서는 동사가 항상 두 번째 자리에 옵니다. 찾는 대상이 복수이면 'ist' 대신 'sind'를 씁니다. 명사는 1격(주격)이므로 사전에 나온 관사를 그대로 붙이면 됩니다.",
+    "examples": [
+      {
+        "german": "Wo ist der Ausgang?",
+        "meaning": "출구가 어디예요?"
+      },
+      {
+        "german": "Wo ist die Toilette?",
+        "meaning": "화장실이 어디예요?"
+      },
+      {
+        "german": "Wo sind meine Koffer?",
+        "meaning": "제 캐리어들은 어디 있나요?"
+      }
+    ],
+    "tip": "문장 앞에 'Entschuldigung,'(실례합니다)을 붙이면 더 정중합니다. 예: Entschuldigung, wo ist der Ausgang?"
+  }
+}

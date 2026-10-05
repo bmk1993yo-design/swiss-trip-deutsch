@@ -29,16 +29,23 @@ function WordQuiz({ words }: { words: Word[] }) {
   const [known, setKnown] = useState(0);
   const [settings] = useDisplaySettings();
 
+  // 단어 구성이 실제로 바뀔 때만 다시 섞는다. 부모가 매초 다시 렌더링되면서
+  // 배열이 새로 만들어져도 퀴즈가 처음부터 다시 시작되지 않도록 내용으로 비교한다.
+  const signature = words.map((w) => w.german).join("|");
+  const [wordsAtStart, setWordsAtStart] = useState(words);
+  if (signature !== wordsAtStart.map((w) => w.german).join("|")) setWordsAtStart(words);
+
+  function restart() {
+    setQueue(shuffle(wordsAtStart));
+    setKnown(0);
+    setFlipped(false);
+  }
   // 섞기는 마운트 후에 (서버 렌더링과 어긋나지 않게)
-  const restart = useMemo(
-    () => () => {
-      setQueue(shuffle(words));
-      setKnown(0);
-      setFlipped(false);
-    },
-    [words],
-  );
-  useEffect(restart, [restart]);
+  useEffect(() => {
+    setQueue(shuffle(wordsAtStart));
+    setKnown(0);
+    setFlipped(false);
+  }, [wordsAtStart]);
 
   const current = queue[0];
   const total = words.length;

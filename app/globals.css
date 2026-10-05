@@ -70,7 +70,8 @@ body {
 
 /* 뜻/독일어 가리기: 탭할 때마다 보이기 ↔ 가리기 */
 .masked,
-.revealed {
+.revealed,
+.maskable {
   cursor: pointer;
   transition: filter 0.15s ease;
 }

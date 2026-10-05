@@ -2,22 +2,26 @@
 
 import { useEffect, useState, type ReactNode } from "react";
 
-/** masked=true 이면 흐리게 가리고, 탭할 때마다 보이기/가리기를 바꾼다. */
+/**
+ * 탭할 때마다 이 항목만 가리기 ↔ 보이기를 바꾼다.
+ * masked는 전체 설정(뜻 가리기·독일어 가리기)의 기본값이고,
+ * 전체 설정이 바뀌면 개별로 바꾼 상태는 초기화된다.
+ */
 export default function Maskable({ masked, children }: { masked: boolean; children: ReactNode }) {
-  const [revealed, setRevealed] = useState(false);
-  useEffect(() => setRevealed(false), [masked]);
+  const [flipped, setFlipped] = useState(false);
+  useEffect(() => setFlipped(false), [masked]);
 
-  if (!masked) return <>{children}</>;
+  const hidden = masked !== flipped;
+  const toggle = () => setFlipped((f) => !f);
 
-  const toggle = () => setRevealed((r) => !r);
   return (
     <span
       role="button"
       tabIndex={0}
-      aria-pressed={revealed}
-      aria-label={revealed ? "다시 가리기" : "가려진 내용 보기"}
-      title={revealed ? "탭하면 다시 가려집니다" : "탭하면 보입니다"}
-      className={revealed ? "revealed" : "masked"}
+      aria-pressed={hidden}
+      aria-label={hidden ? "가려진 내용 보기" : "이 내용 가리기"}
+      title={hidden ? "탭하면 보입니다" : "탭하면 가려집니다"}
+      className={hidden ? "masked" : flipped ? "revealed" : "maskable"}
       onClick={toggle}
       onKeyDown={(e) => {
         if (e.key === "Enter" || e.key === " ") {

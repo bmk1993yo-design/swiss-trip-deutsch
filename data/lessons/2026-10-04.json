@@ -1,8 +1,8 @@
 {
   "schemaVersion": 1,
-  "date": "2026-10-06",
+  "date": "2026-10-04",
   "day": 1,
-  "unlockAt": "2026-10-06T17:00:00+09:00",
+  "unlockAt": "2026-10-04T17:00:00+09:00",
   "theme": {
     "id": "airport",
     "title": "공항",
@@ -36,12 +36,12 @@
       },
       "audio": {
         "aiden": {
-          "normal": "/audio/2026-10-06/word-01-aiden.opus",
-          "slow": "/audio/2026-10-06/word-01-aiden-slow.opus"
+          "normal": "/audio/2026-10-04/word-01-aiden.opus",
+          "slow": "/audio/2026-10-04/word-01-aiden-slow.opus"
         },
         "serena": {
-          "normal": "/audio/2026-10-06/word-01-serena.opus",
-          "slow": "/audio/2026-10-06/word-01-serena-slow.opus"
+          "normal": "/audio/2026-10-04/word-01-serena.opus",
+          "slow": "/audio/2026-10-04/word-01-serena-slow.opus"
         }
       },
       "isSwissExpression": false,
@@ -69,12 +69,12 @@
       },
       "audio": {
         "aiden": {
-          "normal": "/audio/2026-10-06/word-02-aiden.opus",
-          "slow": "/audio/2026-10-06/word-02-aiden-slow.opus"
+          "normal": "/audio/2026-10-04/word-02-aiden.opus",
+          "slow": "/audio/2026-10-04/word-02-aiden-slow.opus"
         },
         "serena": {
-          "normal": "/audio/2026-10-06/word-02-serena.opus",
-          "slow": "/audio/2026-10-06/word-02-serena-slow.opus"
+          "normal": "/audio/2026-10-04/word-02-serena.opus",
+          "slow": "/audio/2026-10-04/word-02-serena-slow.opus"
         }
       },
       "isSwissExpression": false
@@ -101,12 +101,12 @@
       },
       "audio": {
         "aiden": {
-          "normal": "/audio/2026-10-06/word-03-aiden.opus",
-          "slow": "/audio/2026-10-06/word-03-aiden-slow.opus"
+          "normal": "/audio/2026-10-04/word-03-aiden.opus",
+          "slow": "/audio/2026-10-04/word-03-aiden-slow.opus"
         },
         "serena": {
-          "normal": "/audio/2026-10-06/word-03-serena.opus",
-          "slow": "/audio/2026-10-06/word-03-serena-slow.opus"
+          "normal": "/audio/2026-10-04/word-03-serena.opus",
+          "slow": "/audio/2026-10-04/word-03-serena-slow.opus"
         }
       },
       "isSwissExpression": false
@@ -137,12 +137,12 @@
       },
       "audio": {
         "aiden": {
-          "normal": "/audio/2026-10-06/word-04-aiden.opus",
-          "slow": "/audio/2026-10-06/word-04-aiden-slow.opus"
+          "normal": "/audio/2026-10-04/word-04-aiden.opus",
+          "slow": "/audio/2026-10-04/word-04-aiden-slow.opus"
         },
         "serena": {
-          "normal": "/audio/2026-10-06/word-04-serena.opus",
-          "slow": "/audio/2026-10-06/word-04-serena-slow.opus"
+          "normal": "/audio/2026-10-04/word-04-serena.opus",
+          "slow": "/audio/2026-10-04/word-04-serena-slow.opus"
         }
       },
       "isSwissExpression": false
@@ -173,12 +173,12 @@
       },
       "audio": {
         "aiden": {
-          "normal": "/audio/2026-10-06/word-05-aiden.opus",
-          "slow": "/audio/2026-10-06/word-05-aiden-slow.opus"
+          "normal": "/audio/2026-10-04/word-05-aiden.opus",
+          "slow": "/audio/2026-10-04/word-05-aiden-slow.opus"
         },
         "serena": {
-          "normal": "/audio/2026-10-06/word-05-serena.opus",
-          "slow": "/audio/2026-10-06/word-05-serena-slow.opus"
+          "normal": "/audio/2026-10-04/word-05-serena.opus",
+          "slow": "/audio/2026-10-04/word-05-serena-slow.opus"
         }
       },
       "isSwissExpression": false
@@ -205,12 +205,12 @@
       },
       "audio": {
         "aiden": {
-          "normal": "/audio/2026-10-06/word-06-aiden.opus",
-          "slow": "/audio/2026-10-06/word-06-aiden-slow.opus"
+          "normal": "/audio/2026-10-04/word-06-aiden.opus",
+          "slow": "/audio/2026-10-04/word-06-aiden-slow.opus"
         },
         "serena": {
-          "normal": "/audio/2026-10-06/word-06-serena.opus",
-          "slow": "/audio/2026-10-06/word-06-serena-slow.opus"
+          "normal": "/audio/2026-10-04/word-06-serena.opus",
+          "slow": "/audio/2026-10-04/word-06-serena-slow.opus"
         }
       },
       "isSwissExpression": false
@@ -237,12 +237,12 @@
       },
       "audio": {
         "aiden": {
-          "normal": "/audio/2026-10-06/word-07-aiden.opus",
-          "slow": "/audio/2026-10-06/word-07-aiden-slow.opus"
+          "normal": "/audio/2026-10-04/word-07-aiden.opus",
+          "slow": "/audio/2026-10-04/word-07-aiden-slow.opus"
         },
         "serena": {
-          "normal": "/audio/2026-10-06/word-07-serena.opus",
-          "slow": "/audio/2026-10-06/word-07-serena-slow.opus"
+          "normal": "/audio/2026-10-04/word-07-serena.opus",
+          "slow": "/audio/2026-10-04/word-07-serena-slow.opus"
         }
       },
       "isSwissExpression": false
@@ -269,12 +269,12 @@
       },
       "audio": {
         "aiden": {
-          "normal": "/audio/2026-10-06/word-08-aiden.opus",
-          "slow": "/audio/2026-10-06/word-08-aiden-slow.opus"
+          "normal": "/audio/2026-10-04/word-08-aiden.opus",
+          "slow": "/audio/2026-10-04/word-08-aiden-slow.opus"
         },
         "serena": {
-          "normal": "/audio/2026-10-06/word-08-serena.opus",
-          "slow": "/audio/2026-10-06/word-08-serena-slow.opus"
+          "normal": "/audio/2026-10-04/word-08-serena.opus",
+          "slow": "/audio/2026-10-04/word-08-serena-slow.opus"
         }
       },
       "isSwissExpression": false,
@@ -304,12 +304,12 @@
       },
       "audio": {
         "aiden": {
-          "normal": "/audio/2026-10-06/word-09-aiden.opus",
-          "slow": "/audio/2026-10-06/word-09-aiden-slow.opus"
+          "normal": "/audio/2026-10-04/word-09-aiden.opus",
+          "slow": "/audio/2026-10-04/word-09-aiden-slow.opus"
         },
         "serena": {
-          "normal": "/audio/2026-10-06/word-09-serena.opus",
-          "slow": "/audio/2026-10-06/word-09-serena-slow.opus"
+          "normal": "/audio/2026-10-04/word-09-serena.opus",
+          "slow": "/audio/2026-10-04/word-09-serena-slow.opus"
         }
       },
       "isSwissExpression": false
@@ -338,12 +338,12 @@
       },
       "audio": {
         "aiden": {
-          "normal": "/audio/2026-10-06/word-10-aiden.opus",
-          "slow": "/audio/2026-10-06/word-10-aiden-slow.opus"
+          "normal": "/audio/2026-10-04/word-10-aiden.opus",
+          "slow": "/audio/2026-10-04/word-10-aiden-slow.opus"
         },
         "serena": {
-          "normal": "/audio/2026-10-06/word-10-serena.opus",
-          "slow": "/audio/2026-10-06/word-10-serena-slow.opus"
+          "normal": "/audio/2026-10-04/word-10-serena.opus",
+          "slow": "/audio/2026-10-04/word-10-serena-slow.opus"
         }
       },
       "isSwissExpression": true,
@@ -382,12 +382,12 @@
       },
       "audio": {
         "aiden": {
-          "normal": "/audio/2026-10-06/sentence-01-aiden.opus",
-          "slow": "/audio/2026-10-06/sentence-01-aiden-slow.opus"
+          "normal": "/audio/2026-10-04/sentence-01-aiden.opus",
+          "slow": "/audio/2026-10-04/sentence-01-aiden-slow.opus"
         },
         "serena": {
-          "normal": "/audio/2026-10-06/sentence-01-serena.opus",
-          "slow": "/audio/2026-10-06/sentence-01-serena-slow.opus"
+          "normal": "/audio/2026-10-04/sentence-01-serena.opus",
+          "slow": "/audio/2026-10-04/sentence-01-serena-slow.opus"
         }
       },
       "usesWords": [
@@ -426,12 +426,12 @@
       },
       "audio": {
         "aiden": {
-          "normal": "/audio/2026-10-06/sentence-02-aiden.opus",
-          "slow": "/audio/2026-10-06/sentence-02-aiden-slow.opus"
+          "normal": "/audio/2026-10-04/sentence-02-aiden.opus",
+          "slow": "/audio/2026-10-04/sentence-02-aiden-slow.opus"
         },
         "serena": {
-          "normal": "/audio/2026-10-06/sentence-02-serena.opus",
-          "slow": "/audio/2026-10-06/sentence-02-serena-slow.opus"
+          "normal": "/audio/2026-10-04/sentence-02-serena.opus",
+          "slow": "/audio/2026-10-04/sentence-02-serena-slow.opus"
         }
       },
       "usesWords": [
@@ -474,12 +474,12 @@
       },
       "audio": {
         "aiden": {
-          "normal": "/audio/2026-10-06/sentence-03-aiden.opus",
-          "slow": "/audio/2026-10-06/sentence-03-aiden-slow.opus"
+          "normal": "/audio/2026-10-04/sentence-03-aiden.opus",
+          "slow": "/audio/2026-10-04/sentence-03-aiden-slow.opus"
         },
         "serena": {
-          "normal": "/audio/2026-10-06/sentence-03-serena.opus",
-          "slow": "/audio/2026-10-06/sentence-03-serena-slow.opus"
+          "normal": "/audio/2026-10-04/sentence-03-serena.opus",
+          "slow": "/audio/2026-10-04/sentence-03-serena-slow.opus"
         }
       },
       "usesWords": [

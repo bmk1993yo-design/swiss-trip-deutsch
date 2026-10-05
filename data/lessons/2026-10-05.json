@@ -1,8 +1,8 @@
 {
   "schemaVersion": 1,
-  "date": "2026-10-07",
+  "date": "2026-10-05",
   "day": 2,
-  "unlockAt": "2026-10-07T17:00:00+09:00",
+  "unlockAt": "2026-10-05T17:00:00+09:00",
   "theme": {
     "id": "train",
     "title": "기차",
@@ -34,12 +34,12 @@
       "swissNote": "스위스에서는 승차권을 'Fahrkarte' 대신 프랑스어에서 유래한 'Billett'이라고 부릅니다.",
       "audio": {
         "aiden": {
-          "normal": "/audio/2026-10-07/word-01-aiden.opus",
-          "slow": "/audio/2026-10-07/word-01-aiden-slow.opus"
+          "normal": "/audio/2026-10-05/word-01-aiden.opus",
+          "slow": "/audio/2026-10-05/word-01-aiden-slow.opus"
         },
         "serena": {
-          "normal": "/audio/2026-10-07/word-01-serena.opus",
-          "slow": "/audio/2026-10-07/word-01-serena-slow.opus"
+          "normal": "/audio/2026-10-05/word-01-serena.opus",
+          "slow": "/audio/2026-10-05/word-01-serena-slow.opus"
         }
       }
     },
@@ -67,12 +67,12 @@
       "swissNote": "스위스 기차역 표지판과 안내 방송에서는 승강장을 'Gleis' 외에도 프랑스어 유래의 'Perron'으로 자주 표현합니다.",
       "audio": {
         "aiden": {
-          "normal": "/audio/2026-10-07/word-02-aiden.opus",
-          "slow": "/audio/2026-10-07/word-02-aiden-slow.opus"
+          "normal": "/audio/2026-10-05/word-02-aiden.opus",
+          "slow": "/audio/2026-10-05/word-02-aiden-slow.opus"
         },
         "serena": {
-          "normal": "/audio/2026-10-07/word-02-serena.opus",
-          "slow": "/audio/2026-10-07/word-02-serena-slow.opus"
+          "normal": "/audio/2026-10-05/word-02-serena.opus",
+          "slow": "/audio/2026-10-05/word-02-serena-slow.opus"
         }
       }
     },
@@ -100,12 +100,12 @@
       "swissNote": "스위스의 주요 중앙역은 보통 'HB'(Hauptbahnhof)로 표기합니다. 예: Zürich HB",
       "audio": {
         "aiden": {
-          "normal": "/audio/2026-10-07/word-03-aiden.opus",
-          "slow": "/audio/2026-10-07/word-03-aiden-slow.opus"
+          "normal": "/audio/2026-10-05/word-03-aiden.opus",
+          "slow": "/audio/2026-10-05/word-03-aiden-slow.opus"
         },
         "serena": {
-          "normal": "/audio/2026-10-07/word-03-serena.opus",
-          "slow": "/audio/2026-10-07/word-03-serena-slow.opus"
+          "normal": "/audio/2026-10-05/word-03-serena.opus",
+          "slow": "/audio/2026-10-05/word-03-serena-slow.opus"
         }
       }
     },
@@ -128,12 +128,12 @@
       "isSwissExpression": false,
       "audio": {
         "aiden": {
-          "normal": "/audio/2026-10-07/word-04-aiden.opus",
-          "slow": "/audio/2026-10-07/word-04-aiden-slow.opus"
+          "normal": "/audio/2026-10-05/word-04-aiden.opus",
+          "slow": "/audio/2026-10-05/word-04-aiden-slow.opus"
         },
         "serena": {
-          "normal": "/audio/2026-10-07/word-04-serena.opus",
-          "slow": "/audio/2026-10-07/word-04-serena-slow.opus"
+          "normal": "/audio/2026-10-05/word-04-serena.opus",
+          "slow": "/audio/2026-10-05/word-04-serena-slow.opus"
         }
       }
     },
@@ -161,12 +161,12 @@
       "swissNote": "스위스 기차 열차 객차 외벽에는 1등석(1. Klasse)과 2등석(2. Klasse)을 나타내는 숫자 1과 2가 기재되어 있습니다.",
       "audio": {
         "aiden": {
-          "normal": "/audio/2026-10-07/word-05-aiden.opus",
-          "slow": "/audio/2026-10-07/word-05-aiden-slow.opus"
+          "normal": "/audio/2026-10-05/word-05-aiden.opus",
+          "slow": "/audio/2026-10-05/word-05-aiden-slow.opus"
         },
         "serena": {
-          "normal": "/audio/2026-10-07/word-05-serena.opus",
-          "slow": "/audio/2026-10-07/word-05-serena-slow.opus"
+          "normal": "/audio/2026-10-05/word-05-serena.opus",
+          "slow": "/audio/2026-10-05/word-05-serena-slow.opus"
         }
       }
     },
@@ -193,12 +193,12 @@
       "isSwissExpression": false,
       "audio": {
         "aiden": {
-          "normal": "/audio/2026-10-07/word-06-aiden.opus",
-          "slow": "/audio/2026-10-07/word-06-aiden-slow.opus"
+          "normal": "/audio/2026-10-05/word-06-aiden.opus",
+          "slow": "/audio/2026-10-05/word-06-aiden-slow.opus"
         },
         "serena": {
-          "normal": "/audio/2026-10-07/word-06-serena.opus",
-          "slow": "/audio/2026-10-07/word-06-serena-slow.opus"
+          "normal": "/audio/2026-10-05/word-06-serena.opus",
+          "slow": "/audio/2026-10-05/word-06-serena-slow.opus"
         }
       }
     },
@@ -223,12 +223,12 @@
       "isSwissExpression": false,
       "audio": {
         "aiden": {
-          "normal": "/audio/2026-10-07/word-07-aiden.opus",
-          "slow": "/audio/2026-10-07/word-07-aiden-slow.opus"
+          "normal": "/audio/2026-10-05/word-07-aiden.opus",
+          "slow": "/audio/2026-10-05/word-07-aiden-slow.opus"
         },
         "serena": {
-          "normal": "/audio/2026-10-07/word-07-serena.opus",
-          "slow": "/audio/2026-10-07/word-07-serena-slow.opus"
+          "normal": "/audio/2026-10-05/word-07-serena.opus",
+          "slow": "/audio/2026-10-05/word-07-serena-slow.opus"
         }
       }
     },
@@ -249,12 +249,12 @@
       "isSwissExpression": false,
       "audio": {
         "aiden": {
-          "normal": "/audio/2026-10-07/word-08-aiden.opus",
-          "slow": "/audio/2026-10-07/word-08-aiden-slow.opus"
+          "normal": "/audio/2026-10-05/word-08-aiden.opus",
+          "slow": "/audio/2026-10-05/word-08-aiden-slow.opus"
         },
         "serena": {
-          "normal": "/audio/2026-10-07/word-08-serena.opus",
-          "slow": "/audio/2026-10-07/word-08-serena-slow.opus"
+          "normal": "/audio/2026-10-05/word-08-serena.opus",
+          "slow": "/audio/2026-10-05/word-08-serena-slow.opus"
         }
       }
     },
@@ -280,12 +280,12 @@
       "swissNote": "왕복 티켓을 원할 때는 'retour' 또는 'hin und zurück'을 사용합니다.",
       "audio": {
         "aiden": {
-          "normal": "/audio/2026-10-07/word-09-aiden.opus",
-          "slow": "/audio/2026-10-07/word-09-aiden-slow.opus"
+          "normal": "/audio/2026-10-05/word-09-aiden.opus",
+          "slow": "/audio/2026-10-05/word-09-aiden-slow.opus"
         },
         "serena": {
-          "normal": "/audio/2026-10-07/word-09-serena.opus",
-          "slow": "/audio/2026-10-07/word-09-serena-slow.opus"
+          "normal": "/audio/2026-10-05/word-09-serena.opus",
+          "slow": "/audio/2026-10-05/word-09-serena-slow.opus"
         }
       }
     },
@@ -312,12 +312,12 @@
       "isSwissExpression": false,
       "audio": {
         "aiden": {
-          "normal": "/audio/2026-10-07/word-10-aiden.opus",
-          "slow": "/audio/2026-10-07/word-10-aiden-slow.opus"
+          "normal": "/audio/2026-10-05/word-10-aiden.opus",
+          "slow": "/audio/2026-10-05/word-10-aiden-slow.opus"
         },
         "serena": {
-          "normal": "/audio/2026-10-07/word-10-serena.opus",
-          "slow": "/audio/2026-10-07/word-10-serena-slow.opus"
+          "normal": "/audio/2026-10-05/word-10-serena.opus",
+          "slow": "/audio/2026-10-05/word-10-serena-slow.opus"
         }
       }
     }
@@ -362,12 +362,12 @@
       ],
       "audio": {
         "aiden": {
-          "normal": "/audio/2026-10-07/sentence-01-aiden.opus",
-          "slow": "/audio/2026-10-07/sentence-01-aiden-slow.opus"
+          "normal": "/audio/2026-10-05/sentence-01-aiden.opus",
+          "slow": "/audio/2026-10-05/sentence-01-aiden-slow.opus"
         },
         "serena": {
-          "normal": "/audio/2026-10-07/sentence-01-serena.opus",
-          "slow": "/audio/2026-10-07/sentence-01-serena-slow.opus"
+          "normal": "/audio/2026-10-05/sentence-01-serena.opus",
+          "slow": "/audio/2026-10-05/sentence-01-serena-slow.opus"
         }
       }
     },
@@ -415,12 +415,12 @@
       ],
       "audio": {
         "aiden": {
-          "normal": "/audio/2026-10-07/sentence-02-aiden.opus",
-          "slow": "/audio/2026-10-07/sentence-02-aiden-slow.opus"
+          "normal": "/audio/2026-10-05/sentence-02-aiden.opus",
+          "slow": "/audio/2026-10-05/sentence-02-aiden-slow.opus"
         },
         "serena": {
-          "normal": "/audio/2026-10-07/sentence-02-serena.opus",
-          "slow": "/audio/2026-10-07/sentence-02-serena-slow.opus"
+          "normal": "/audio/2026-10-05/sentence-02-serena.opus",
+          "slow": "/audio/2026-10-05/sentence-02-serena-slow.opus"
         }
       }
     },
@@ -459,12 +459,12 @@
       ],
       "audio": {
         "aiden": {
-          "normal": "/audio/2026-10-07/sentence-03-aiden.opus",
-          "slow": "/audio/2026-10-07/sentence-03-aiden-slow.opus"
+          "normal": "/audio/2026-10-05/sentence-03-aiden.opus",
+          "slow": "/audio/2026-10-05/sentence-03-aiden-slow.opus"
         },
         "serena": {
-          "normal": "/audio/2026-10-07/sentence-03-serena.opus",
-          "slow": "/audio/2026-10-07/sentence-03-serena-slow.opus"
+          "normal": "/audio/2026-10-05/sentence-03-serena.opus",
+          "slow": "/audio/2026-10-05/sentence-03-serena-slow.opus"
         }
       },
       "swissNote": "'erster/zweiter Klasse fahren'은 굳어진 표현이라 Klasse 앞에 -er 형태를 씁니다. 스위스 객차 외벽의 숫자 1·2로 등급을 확인하세요."

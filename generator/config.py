@@ -14,7 +14,7 @@ PROMPTS_DIR = Path(__file__).resolve().parent / "prompts"
 PUBLIC_DIR = ROOT / "public"
 
 # 레슨 형식 예시로 프롬프트에 넣는 파일 (검수 완료된 좋은 예시여야 한다)
-EXAMPLE_LESSON = LESSONS_DIR / "2026-10-06.json"
+EXAMPLE_LESSON = LESSONS_DIR / "2026-10-04.json"
 
 GEMINI_API_KEY = os.getenv("GEMINI_API_KEY", "")
 GEMINI_MODEL = os.getenv("GEMINI_MODEL", "gemini-2.5-flash")

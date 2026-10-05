@@ -9,7 +9,7 @@
     "title": "카페",
     "emoji": "☕"
   },
-  "approved": false,
+  "approved": true,
   "words": [
     {
       "id": "word-01",

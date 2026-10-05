@@ -9,7 +9,7 @@
     "title": "호텔 체크인",
     "emoji": "🏨"
   },
-  "approved": false,
+  "approved": true,
   "words": [
     {
       "id": "word-01",

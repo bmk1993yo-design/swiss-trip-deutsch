@@ -9,7 +9,7 @@
     "title": "식당",
     "emoji": "🍽️"
   },
-  "approved": false,
+  "approved": true,
   "words": [
     {
       "id": "word-01",

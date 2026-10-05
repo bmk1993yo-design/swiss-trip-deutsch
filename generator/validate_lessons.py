@@ -43,7 +43,9 @@ def main() -> None:
                 "theme": {k: t[k] for k in ("id", "title", "emoji")},
             }
         errors = check_lesson(lesson, expected)
-        if day in themes and not errors and lesson["grammar"]["id"] != themes[day]["grammarFocus"]["id"]:
+        if day in themes and themes[day]["type"] != lesson.get("type"):
+            errors.append(f"type: themes.json에서는 '{themes[day]['type']}'")
+        if day in themes and not errors and lesson["type"] == "lesson" and lesson["grammar"]["id"] != themes[day]["grammarFocus"]["id"]:
             errors.append(f"[grammar] id는 '{themes[day]['grammarFocus']['id']}' 이어야 함")
 
         mark = "✓" if not errors else "✗"
@@ -55,7 +57,7 @@ def main() -> None:
         if not lesson.get("approved"):
             drafts.append(path.stem)
 
-    dup = check_duplicates([l for l in lessons if "words" in l])
+    dup = check_duplicates(lessons)
     for e in dup:
         print(f"✗ {e}")
     total_errors += len(dup)

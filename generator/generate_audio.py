@@ -10,7 +10,8 @@
 1. Qwen3-TTS로 생성 (최대 길이 제한)
 2. Whisper로 받아 적어 원문과 비교 → 다르면 seed를 바꿔 최대 3번
 3. 앞뒤 무음 + 음량 맞춤 → opus 변환 (느린 버전은 0.75배속)
-결과 보고서: generator/tmp/audio_report.json  (직접 들어 볼 목록 포함)
+결과 보고서: generator/tmp/audio_report.json (전체 기록)
+직접 들어 볼 목록: generator/tmp/listen_report.md (체크리스트)
 """
 import argparse
 import difflib
@@ -21,6 +22,7 @@ from pathlib import Path
 
 sys.path.insert(0, str(Path(__file__).resolve().parent))
 
+import listen_report
 from config import LESSONS_DIR, PUBLIC_DIR, ROOT, VOICES
 from tts.ffmpeg_convert import SLOW_TEMPO, finish, to_opus, write_wav
 from tts.qwen_tts import QwenTTS
@@ -80,6 +82,8 @@ def main() -> None:
     jobs = []
     for path in paths:
         lesson = read_json(path)
+        if lesson.get("type") != "lesson":
+            continue
         for kind, item, swiss in items_of(lesson):
             if args.item and item["id"] != args.item:
                 continue
@@ -147,16 +151,18 @@ def main() -> None:
         flag = f"  ← 들어 보기: {', '.join(reasons)}" if reasons else ""
         print(f"[{n:3d}/{len(jobs)}] {mark} {date} {item['id']:12s} {voice:6s} {score:.2f}  {text!r} → {heard!r}{flag}")
 
-    if REPORT.exists() and (args.dates or args.item or args.voice):
-        # 일부만 다시 만든 경우: 기존 보고서에서 같은 항목을 교체
+    if REPORT.exists():
+        # 기존 기록은 유지하고, 이번에 만든 항목만 새 결과로 교체
         old = read_json(REPORT)
         done = {(e["date"], e["id"], e["voice"]) for e in report["generated"]}
         for key in ("generated", "listen"):
             report[key] = [e for e in old[key] if (e["date"], e["id"], e["voice"]) not in done] + report[key]
     write_json(REPORT, report)
+    listen_report.forget({listen_report.key_of(e) for e in report["generated"]})
+    to_listen = listen_report.build()
     minutes = (time.time() - started) / 60
-    print(f"\n완료 {len(jobs)}건 · {minutes:.1f}분 · 직접 들어 볼 것 {len(report['listen'])}건")
-    print(f"보고서: {REPORT.relative_to(ROOT)}")
+    print(f"\n완료 {len(jobs)}건 · {minutes:.1f}분")
+    print(f"직접 들어 볼 것 {to_listen}건 → {listen_report.LISTEN_MD.relative_to(ROOT)}")
 
 
 if __name__ == "__main__":

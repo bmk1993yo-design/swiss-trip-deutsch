@@ -9,7 +9,8 @@ def check_lesson(lesson: dict, expected: dict | None = None) -> list[str]:
     errors = check_schema(lesson)
     if errors:
         return errors  # 형식이 깨졌으면 내용 검사는 의미가 없다
-    errors += check_german(lesson)
+    if lesson["type"] == "lesson":
+        errors += check_german(lesson)
     if expected:
         for key, value in expected.items():
             if lesson.get(key) != value:

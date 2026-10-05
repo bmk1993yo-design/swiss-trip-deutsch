@@ -12,6 +12,8 @@ def check_duplicates(lessons: list[dict]) -> list[str]:
     seen_words: dict[str, str] = {}
     seen_sentences: dict[str, str] = {}
     for lesson in lessons:
+        if lesson.get("type") != "lesson":
+            continue
         for w in lesson["words"]:
             key = headword_key(w["german"])
             if key in seen_words:

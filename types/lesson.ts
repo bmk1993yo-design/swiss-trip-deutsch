@@ -89,7 +89,9 @@ export interface Grammar {
   tip?: string;
 }
 
+/** 새 레슨 (단어 10 · 문장 3 · 문법 1) */
 export interface Lesson {
+  type: "lesson";
   schemaVersion: 1;
   /** YYYY-MM-DD (KST) */
   date: string;
@@ -102,3 +104,18 @@ export interface Lesson {
   sentences: Sentence[];
   grammar: Grammar;
 }
+
+/** 주간 복습 날. 내용은 reviewOf 레슨들에서 가져온다. */
+export interface ReviewDay {
+  type: "review";
+  schemaVersion: 1;
+  date: string;
+  day: number;
+  unlockAt: string;
+  theme: Theme;
+  approved: boolean;
+  reviewOf: string[];
+}
+
+/** data/lessons/*.json 한 파일 */
+export type DayEntry = Lesson | ReviewDay;

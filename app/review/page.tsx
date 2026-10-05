@@ -5,7 +5,8 @@ import { getLessons } from "@/lib/lessons";
 export const metadata = { title: "복습 | Swiss Trip Deutsch" };
 
 export default function ReviewPage() {
-  const lessons = getLessons().map(({ date, day, unlockAt, theme, approved, words }) => ({
+  const lessons = getLessons().map(({ type, date, day, unlockAt, theme, approved, words }) => ({
+    type,
     date,
     day,
     unlockAt,

@@ -18,5 +18,7 @@ EXAMPLE_LESSON = LESSONS_DIR / "2026-10-04.json"
 
 GEMINI_API_KEY = os.getenv("GEMINI_API_KEY", "")
 GEMINI_MODEL = os.getenv("GEMINI_MODEL", "gemini-2.5-flash")
+# 기본 모델이 계속 503/429이면 그 요청만 이 모델로 넘어간다 (비우면 사용 안 함)
+GEMINI_FALLBACK_MODEL = os.getenv("GEMINI_FALLBACK_MODEL", "")
 
 VOICES = ["aiden", "serena"]

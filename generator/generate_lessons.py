@@ -25,7 +25,7 @@ from validators.duplicate_check import headword_key
 MAX_ATTEMPTS = 3
 
 # LLM이 쓰지 않고 스크립트가 채우는 필드
-FIXED_TOP = ["schemaVersion", "date", "day", "unlockAt", "theme", "approved"]
+FIXED_TOP = ["type", "schemaVersion", "date", "day", "unlockAt", "theme", "approved"]
 # Gemini 구조화 출력이 지원하지 않는 JSON Schema 키워드
 UNSUPPORTED = {"pattern", "not", "allOf", "if", "then", "else", "const", "$schema", "$id", "$defs"}
 
@@ -79,7 +79,7 @@ def generation_schema() -> dict:
             return [resolve(v) for v in node]
         return node
 
-    schema = resolve(full)
+    schema = resolve(defs["lessonDay"])
     for key in FIXED_TOP:
         schema["properties"].pop(key, None)
     schema["required"] = [k for k in schema["required"] if k not in FIXED_TOP]
@@ -95,6 +95,7 @@ def generation_schema() -> dict:
 def complete(raw: dict, date: str, day: int, theme: dict) -> dict:
     """LLM 출력에 고정 필드와 음성 경로를 채운다. 키 순서도 예시 파일과 맞춘다."""
     lesson = {
+        "type": "lesson",
         "schemaVersion": 1,
         "date": date,
         "day": day,
@@ -111,6 +112,25 @@ def complete(raw: dict, date: str, day: int, theme: dict) -> dict:
         base = f"/audio/{date}/{item['id']}"
         item["audio"] = {v: {"normal": f"{base}-{v}.opus", "slow": f"{base}-{v}-slow.opus"} for v in VOICES}
     return lesson
+
+
+def review_day(date: str, day: int, theme: dict, themes: dict, start_date: str) -> dict:
+    """주간 복습 날: 같은 주의 새 레슨 날짜를 묶는다. LLM을 쓰지 않으므로 바로 승인."""
+    review_of = [
+        lesson_date(start_date, d)
+        for d, t in sorted(themes.items())
+        if t["week"] == theme["week"] and t["type"] == "lesson"
+    ]
+    return {
+        "type": "review",
+        "schemaVersion": 1,
+        "date": date,
+        "day": day,
+        "unlockAt": unlock_at(date),
+        "theme": {k: theme[k] for k in ("id", "title", "emoji")},
+        "approved": True,
+        "reviewOf": review_of,
+    }
 
 
 def content_errors(lesson: dict, theme: dict, used: set[str]) -> list[str]:
@@ -191,8 +211,17 @@ def main() -> None:
             print(f"Day {day:02d} {date}: 이미 있음 — 건너뜀 (--overwrite로 다시 생성)")
             continue
 
+        if theme["type"] == "review":
+            review = review_day(date, day, theme, themes, themes_doc["startDate"])
+            errors = check_lesson(review)
+            if errors:
+                raise SystemExit(f"복습 날 생성 오류: {errors}")
+            write_json(path, review)
+            print(f"Day {day:02d} {date} {theme['emoji']} {theme['title']} ✓ (복습: {len(review['reviewOf'])}개 레슨)")
+            continue
+
         # 이번 레슨을 뺀 나머지 레슨의 표제어 (중복 방지)
-        others = [l for l in existing_lessons() if l["date"] != date]
+        others = [l for l in existing_lessons() if l["date"] != date and l.get("type") == "lesson"]
         used = {headword_key(w["german"]) for l in others for w in l["words"]}
         prompt = fill(
             user_tpl,

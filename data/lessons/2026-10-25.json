@@ -267,14 +267,14 @@
     },
     {
       "id": "word-09",
-      "german": "sch زیبا",
-      "meaning": "아름다운",
+      "german": "toll",
+      "meaning": "멋진, 훌륭한",
       "partOfSpeech": "adjective",
       "pronunciation": {
-        "ipa": "/ʃøːn/",
+        "ipa": "/tɔl/",
         "korean": [
           {
-            "text": "쇤",
+            "text": "톨",
             "stress": true
           }
         ]
@@ -413,10 +413,10 @@
     },
     {
       "id": "sentence-03",
-      "german": "Hopp Schwiiz! Das Fest ist sehr schön.",
-      "meaning": "힘내라 스위스! 축제가 아주 아름답습니다.",
+      "german": "Hopp Schwiiz! Das Fest ist wirklich toll.",
+      "meaning": "힘내라 스위스! 축제가 정말 멋집니다.",
       "pronunciation": {
-        "ipa": "/hɔp ˈʃviːt͡s das fɛst ɪst zeːɐ̯ ʃøːn/",
+        "ipa": "/hɔp ˈʃviːt͡s das fɛst ɪst ˈvɪʁklɪç tɔl/",
         "korean": [
           {
             "text": "홉",
@@ -439,11 +439,11 @@
             "stress": false
           },
           {
-            "text": "제어",
+            "text": "비어클리히",
             "stress": false
           },
           {
-            "text": "쇤",
+            "text": "톨",
             "stress": true
           }
         ]

@@ -61,7 +61,7 @@ npm run typecheck  # 타입 검사
 
 ## 오프라인 캐시
 
-`public/sw.js` (캐시 이름 `std-v1`)
+`public/sw.js` (캐시 이름 `std-v2`)
 
 - `/audio/`, `/_next/static/`: 캐시 우선 (한번 받으면 계속 캐시 사용)
 - 그 외 페이지: 네트워크 우선, 실패하면 캐시 (기차·산속 대비)

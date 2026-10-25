@@ -1,0 +1,508 @@
+{
+  "type": "lesson",
+  "schemaVersion": 1,
+  "date": "2026-10-19",
+  "day": 16,
+  "unlockAt": "2026-10-19T17:00:00+09:00",
+  "theme": {
+    "id": "payment",
+    "title": "결제",
+    "emoji": "💳"
+  },
+  "approved": true,
+  "words": [
+    {
+      "id": "word-01",
+      "german": "der Franken",
+      "meaning": "스위스 프랑 (통화 단위)",
+      "partOfSpeech": "noun",
+      "gender": "der",
+      "plural": "die Franken",
+      "pronunciation": {
+        "ipa": "/ˈfʁaŋkən/",
+        "korean": [
+          {
+            "text": "프랑",
+            "stress": true
+          },
+          {
+            "text": "켄",
+            "stress": false
+          }
+        ]
+      },
+      "isSwissExpression": true,
+      "swissNote": "스위스의 통화 단위는 프랑이며 통화 코드는 CHF입니다.",
+      "audio": {
+        "aiden": {
+          "normal": "/audio/2026-10-19/word-01-aiden.opus",
+          "slow": "/audio/2026-10-19/word-01-aiden-slow.opus"
+        },
+        "serena": {
+          "normal": "/audio/2026-10-19/word-01-serena.opus",
+          "slow": "/audio/2026-10-19/word-01-serena-slow.opus"
+        }
+      }
+    },
+    {
+      "id": "word-02",
+      "german": "der Rappen",
+      "meaning": "라펜 (프랑의 보조 단위)",
+      "partOfSpeech": "noun",
+      "gender": "der",
+      "plural": "die Rappen",
+      "pronunciation": {
+        "ipa": "/ˈʁapn̩/",
+        "korean": [
+          {
+            "text": "라",
+            "stress": true
+          },
+          {
+            "text": "펜",
+            "stress": false
+          }
+        ]
+      },
+      "isSwissExpression": true,
+      "swissNote": "100라펜이 1스위스 프랑입니다. 가격표의 소수점 아래 숫자를 읽을 때 알아 두면 좋습니다.",
+      "audio": {
+        "aiden": {
+          "normal": "/audio/2026-10-19/word-02-aiden.opus",
+          "slow": "/audio/2026-10-19/word-02-aiden-slow.opus"
+        },
+        "serena": {
+          "normal": "/audio/2026-10-19/word-02-serena.opus",
+          "slow": "/audio/2026-10-19/word-02-serena-slow.opus"
+        }
+      }
+    },
+    {
+      "id": "word-03",
+      "german": "bar",
+      "meaning": "현금으로",
+      "partOfSpeech": "adverb",
+      "pronunciation": {
+        "ipa": "/baːɐ̯/",
+        "korean": [
+          {
+            "text": "바ː어",
+            "stress": true
+          }
+        ]
+      },
+      "isSwissExpression": false,
+      "audio": {
+        "aiden": {
+          "normal": "/audio/2026-10-19/word-03-aiden.opus",
+          "slow": "/audio/2026-10-19/word-03-aiden-slow.opus"
+        },
+        "serena": {
+          "normal": "/audio/2026-10-19/word-03-serena.opus",
+          "slow": "/audio/2026-10-19/word-03-serena-slow.opus"
+        }
+      }
+    },
+    {
+      "id": "word-04",
+      "german": "die Kreditkarte",
+      "meaning": "신용카드",
+      "partOfSpeech": "noun",
+      "gender": "die",
+      "plural": "die Kreditkarten",
+      "pronunciation": {
+        "ipa": "/kʁeˈdiːtˌkaʁtə/",
+        "korean": [
+          {
+            "text": "크레",
+            "stress": false
+          },
+          {
+            "text": "디ː트",
+            "stress": true
+          },
+          {
+            "text": "카르",
+            "stress": false
+          },
+          {
+            "text": "테",
+            "stress": false
+          }
+        ]
+      },
+      "isSwissExpression": false,
+      "audio": {
+        "aiden": {
+          "normal": "/audio/2026-10-19/word-04-aiden.opus",
+          "slow": "/audio/2026-10-19/word-04-aiden-slow.opus"
+        },
+        "serena": {
+          "normal": "/audio/2026-10-19/word-04-serena.opus",
+          "slow": "/audio/2026-10-19/word-04-serena-slow.opus"
+        }
+      }
+    },
+    {
+      "id": "word-05",
+      "german": "bezahlen",
+      "meaning": "지불하다, 결제하다",
+      "partOfSpeech": "verb",
+      "pronunciation": {
+        "ipa": "/bəˈtsaːlən/",
+        "korean": [
+          {
+            "text": "베",
+            "stress": false
+          },
+          {
+            "text": "차ː",
+            "stress": true
+          },
+          {
+            "text": "렌",
+            "stress": false
+          }
+        ]
+      },
+      "isSwissExpression": false,
+      "audio": {
+        "aiden": {
+          "normal": "/audio/2026-10-19/word-05-aiden.opus",
+          "slow": "/audio/2026-10-19/word-05-aiden-slow.opus"
+        },
+        "serena": {
+          "normal": "/audio/2026-10-19/word-05-serena.opus",
+          "slow": "/audio/2026-10-19/word-05-serena-slow.opus"
+        }
+      }
+    },
+    {
+      "id": "word-06",
+      "german": "das Bargeld",
+      "meaning": "현금",
+      "partOfSpeech": "noun",
+      "gender": "das",
+      "plural": null,
+      "pronunciation": {
+        "ipa": "/ˈbaːɐ̯ˌɡɛlt/",
+        "korean": [
+          {
+            "text": "바ː어",
+            "stress": true
+          },
+          {
+            "text": "겔트",
+            "stress": false
+          }
+        ]
+      },
+      "isSwissExpression": false,
+      "audio": {
+        "aiden": {
+          "normal": "/audio/2026-10-19/word-06-aiden.opus",
+          "slow": "/audio/2026-10-19/word-06-aiden-slow.opus"
+        },
+        "serena": {
+          "normal": "/audio/2026-10-19/word-06-serena.opus",
+          "slow": "/audio/2026-10-19/word-06-serena-slow.opus"
+        }
+      }
+    },
+    {
+      "id": "word-07",
+      "german": "der Euro",
+      "meaning": "유로",
+      "partOfSpeech": "noun",
+      "gender": "der",
+      "plural": "die Euros",
+      "pronunciation": {
+        "ipa": "/ˈɔɪ̯ʁo/",
+        "korean": [
+          {
+            "text": "오이",
+            "stress": true
+          },
+          {
+            "text": "로",
+            "stress": false
+          }
+        ]
+      },
+      "isSwissExpression": false,
+      "audio": {
+        "aiden": {
+          "normal": "/audio/2026-10-19/word-07-aiden.opus",
+          "slow": "/audio/2026-10-19/word-07-aiden-slow.opus"
+        },
+        "serena": {
+          "normal": "/audio/2026-10-19/word-07-serena.opus",
+          "slow": "/audio/2026-10-19/word-07-serena-slow.opus"
+        }
+      }
+    },
+    {
+      "id": "word-08",
+      "german": "das Rückgeld",
+      "meaning": "거스름돈",
+      "partOfSpeech": "noun",
+      "gender": "das",
+      "plural": null,
+      "pronunciation": {
+        "ipa": "/ˈʁʏkˌɡɛlt/",
+        "korean": [
+          {
+            "text": "뤼크",
+            "stress": true
+          },
+          {
+            "text": "겔트",
+            "stress": false
+          }
+        ]
+      },
+      "isSwissExpression": false,
+      "audio": {
+        "aiden": {
+          "normal": "/audio/2026-10-19/word-08-aiden.opus",
+          "slow": "/audio/2026-10-19/word-08-aiden-slow.opus"
+        },
+        "serena": {
+          "normal": "/audio/2026-10-19/word-08-serena.opus",
+          "slow": "/audio/2026-10-19/word-08-serena-slow.opus"
+        }
+      }
+    },
+    {
+      "id": "word-09",
+      "german": "der Beleg",
+      "meaning": "결제 증빙, 영수증",
+      "partOfSpeech": "noun",
+      "gender": "der",
+      "plural": "die Belege",
+      "pronunciation": {
+        "ipa": "/bəˈleːk/",
+        "korean": [
+          {
+            "text": "베",
+            "stress": false
+          },
+          {
+            "text": "레ː크",
+            "stress": true
+          }
+        ]
+      },
+      "isSwissExpression": false,
+      "audio": {
+        "aiden": {
+          "normal": "/audio/2026-10-19/word-09-aiden.opus",
+          "slow": "/audio/2026-10-19/word-09-aiden-slow.opus"
+        },
+        "serena": {
+          "normal": "/audio/2026-10-19/word-09-serena.opus",
+          "slow": "/audio/2026-10-19/word-09-serena-slow.opus"
+        }
+      }
+    },
+    {
+      "id": "word-10",
+      "german": "TWINT",
+      "meaning": "트빈트 (스위스 모바일 결제 서비스)",
+      "partOfSpeech": "phrase",
+      "pronunciation": {
+        "ipa": "/tvɪnt/",
+        "korean": [
+          {
+            "text": "트빈트",
+            "stress": true
+          }
+        ]
+      },
+      "isSwissExpression": false,
+      "swissNote": "스위스의 모바일 결제 서비스 이름입니다. 매장에서 TWINT라는 결제 안내를 볼 수 있습니다.",
+      "audio": {
+        "aiden": {
+          "normal": "/audio/2026-10-19/word-10-aiden.opus",
+          "slow": "/audio/2026-10-19/word-10-aiden-slow.opus"
+        },
+        "serena": {
+          "normal": "/audio/2026-10-19/word-10-serena.opus",
+          "slow": "/audio/2026-10-19/word-10-serena-slow.opus"
+        }
+      }
+    }
+  ],
+  "sentences": [
+    {
+      "id": "sentence-01",
+      "german": "Kann ich mit der Kreditkarte bezahlen?",
+      "meaning": "신용카드로 결제할 수 있나요?",
+      "pronunciation": {
+        "ipa": "/kan ɪç mɪt deːɐ̯ kʁeˈdiːtˌkaʁtə bəˈtsaːlən/",
+        "korean": [
+          {
+            "text": "칸",
+            "stress": false
+          },
+          {
+            "text": "이히",
+            "stress": false
+          },
+          {
+            "text": "미트",
+            "stress": false
+          },
+          {
+            "text": "데어",
+            "stress": false
+          },
+          {
+            "text": "크레디ː트카르테",
+            "stress": true
+          },
+          {
+            "text": "베차ː렌",
+            "stress": true
+          }
+        ]
+      },
+      "usesWords": [
+        "word-04",
+        "word-05"
+      ],
+      "audio": {
+        "aiden": {
+          "normal": "/audio/2026-10-19/sentence-01-aiden.opus",
+          "slow": "/audio/2026-10-19/sentence-01-aiden-slow.opus"
+        },
+        "serena": {
+          "normal": "/audio/2026-10-19/sentence-01-serena.opus",
+          "slow": "/audio/2026-10-19/sentence-01-serena-slow.opus"
+        }
+      }
+    },
+    {
+      "id": "sentence-02",
+      "german": "Kann ich hier mit TWINT bezahlen?",
+      "meaning": "여기서 트빈트로 결제할 수 있나요?",
+      "pronunciation": {
+        "ipa": "/kan ɪç hiːɐ̯ mɪt tvɪnt bəˈtsaːlən/",
+        "korean": [
+          {
+            "text": "칸",
+            "stress": false
+          },
+          {
+            "text": "이히",
+            "stress": false
+          },
+          {
+            "text": "히ː어",
+            "stress": false
+          },
+          {
+            "text": "미트",
+            "stress": false
+          },
+          {
+            "text": "트빈트",
+            "stress": true
+          },
+          {
+            "text": "베차ː렌",
+            "stress": true
+          }
+        ]
+      },
+      "usesWords": [
+        "word-10",
+        "word-05"
+      ],
+      "audio": {
+        "aiden": {
+          "normal": "/audio/2026-10-19/sentence-02-aiden.opus",
+          "slow": "/audio/2026-10-19/sentence-02-aiden-slow.opus"
+        },
+        "serena": {
+          "normal": "/audio/2026-10-19/sentence-02-serena.opus",
+          "slow": "/audio/2026-10-19/sentence-02-serena-slow.opus"
+        }
+      }
+    },
+    {
+      "id": "sentence-03",
+      "german": "Ich zahle bar und brauche einen Beleg.",
+      "meaning": "현금으로 계산하고 영수증이 필요해요.",
+      "pronunciation": {
+        "ipa": "/ɪç ˈtsaːlə baːɐ̯ ʊnt ˈbʁaʊ̯xə ˈaɪ̯nən bəˈleːk/",
+        "korean": [
+          {
+            "text": "이히",
+            "stress": false
+          },
+          {
+            "text": "차ː레",
+            "stress": false
+          },
+          {
+            "text": "바ː어",
+            "stress": true
+          },
+          {
+            "text": "운트",
+            "stress": false
+          },
+          {
+            "text": "브라우헤",
+            "stress": false
+          },
+          {
+            "text": "아이넨",
+            "stress": false
+          },
+          {
+            "text": "베레ː크",
+            "stress": true
+          }
+        ]
+      },
+      "usesWords": [
+        "word-03",
+        "word-09"
+      ],
+      "audio": {
+        "aiden": {
+          "normal": "/audio/2026-10-19/sentence-03-aiden.opus",
+          "slow": "/audio/2026-10-19/sentence-03-aiden-slow.opus"
+        },
+        "serena": {
+          "normal": "/audio/2026-10-19/sentence-03-serena.opus",
+          "slow": "/audio/2026-10-19/sentence-03-serena-slow.opus"
+        }
+      }
+    }
+  ],
+  "grammar": {
+    "id": "mit-dativ",
+    "title": "mit + 3격",
+    "pattern": "mit + 명사(3격): mit der Karte / mit dem Bargeld",
+    "meaning": "~로 (결제 수단)",
+    "explanation": "mit는 결제 수단을 말할 때 '~로'라는 뜻이며 뒤의 명사를 3격으로 씁니다. 여성 명사의 관사 die는 der로, 남성의 der와 중성의 das는 dem으로 바뀝니다. 그래서 die Kreditkarte는 mit der Kreditkarte가 됩니다. 일반적인 결제 방식을 말할 때는 관사 없이 mit Karte라고도 합니다. 서비스 이름을 쓰면 mit TWINT라고 말할 수 있어요.",
+    "examples": [
+      {
+        "german": "Ich bezahle mit der Kreditkarte.",
+        "meaning": "신용카드로 결제해요."
+      },
+      {
+        "german": "Kann ich mit Karte bezahlen?",
+        "meaning": "카드로 결제할 수 있나요?"
+      },
+      {
+        "german": "Ich bezahle mit TWINT.",
+        "meaning": "트빈트로 결제해요."
+      }
+    ],
+    "tip": "'현금으로'는 bar라고 간단히 말할 수 있어요. Ich bezahle bar.는 '현금으로 결제해요'라는 뜻입니다."
+  }
+}

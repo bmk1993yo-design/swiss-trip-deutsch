@@ -1,0 +1,503 @@
+{
+  "type": "lesson",
+  "schemaVersion": 1,
+  "date": "2026-10-16",
+  "day": 13,
+  "unlockAt": "2026-10-16T17:00:00+09:00",
+  "theme": {
+    "id": "directions",
+    "title": "길 묻기",
+    "emoji": "🧭"
+  },
+  "approved": true,
+  "words": [
+    {
+      "id": "word-01",
+      "german": "das Trottoir",
+      "meaning": "보도, 인도",
+      "partOfSpeech": "noun",
+      "gender": "das",
+      "plural": "die Trottoirs",
+      "pronunciation": {
+        "ipa": "/tʁɔˈtwaːʁ/",
+        "korean": [
+          {
+            "text": "트로",
+            "stress": false
+          },
+          {
+            "text": "트",
+            "stress": false
+          },
+          {
+            "text": "와ː르",
+            "stress": true
+          }
+        ]
+      },
+      "isSwissExpression": true,
+      "swissNote": "독일에서는 'der Gehweg' 또는 'der Bürgersteig'라고 하지만, 스위스(그리고 프랑스어권 영토)에서는 프랑스어에서 유래한 'das Trottoir'를 일상적으로 씁니다.",
+      "audio": {
+        "aiden": {
+          "normal": "/audio/2026-10-16/word-01-aiden.opus",
+          "slow": "/audio/2026-10-16/word-01-aiden-slow.opus"
+        },
+        "serena": {
+          "normal": "/audio/2026-10-16/word-01-serena.opus",
+          "slow": "/audio/2026-10-16/word-01-serena-slow.opus"
+        }
+      }
+    },
+    {
+      "id": "word-02",
+      "german": "links",
+      "meaning": "왼쪽에, 왼쪽으로",
+      "partOfSpeech": "adverb",
+      "pronunciation": {
+        "ipa": "/lɪŋks/",
+        "korean": [
+          {
+            "text": "링크스",
+            "stress": true
+          }
+        ]
+      },
+      "isSwissExpression": false,
+      "audio": {
+        "aiden": {
+          "normal": "/audio/2026-10-16/word-02-aiden.opus",
+          "slow": "/audio/2026-10-16/word-02-aiden-slow.opus"
+        },
+        "serena": {
+          "normal": "/audio/2026-10-16/word-02-serena.opus",
+          "slow": "/audio/2026-10-16/word-02-serena-slow.opus"
+        }
+      }
+    },
+    {
+      "id": "word-03",
+      "german": "rechts",
+      "meaning": "오른쪽에, 오른쪽으로",
+      "partOfSpeech": "adverb",
+      "pronunciation": {
+        "ipa": "/ʁɛçts/",
+        "korean": [
+          {
+            "text": "렉히츠",
+            "stress": true
+          }
+        ]
+      },
+      "isSwissExpression": false,
+      "audio": {
+        "aiden": {
+          "normal": "/audio/2026-10-16/word-03-aiden.opus",
+          "slow": "/audio/2026-10-16/word-03-aiden-slow.opus"
+        },
+        "serena": {
+          "normal": "/audio/2026-10-16/word-03-serena.opus",
+          "slow": "/audio/2026-10-16/word-03-serena-slow.opus"
+        }
+      }
+    },
+    {
+      "id": "word-04",
+      "german": "geradeaus",
+      "meaning": "직진으로, 똑바로",
+      "partOfSpeech": "adverb",
+      "pronunciation": {
+        "ipa": "/ɡəʁadəˈaʊ̯s/",
+        "korean": [
+          {
+            "text": "게",
+            "stress": false
+          },
+          {
+            "text": "라",
+            "stress": false
+          },
+          {
+            "text": "데",
+            "stress": false
+          },
+          {
+            "text": "아우스",
+            "stress": true
+          }
+        ]
+      },
+      "isSwissExpression": false,
+      "audio": {
+        "aiden": {
+          "normal": "/audio/2026-10-16/word-04-aiden.opus",
+          "slow": "/audio/2026-10-16/word-04-aiden-slow.opus"
+        },
+        "serena": {
+          "normal": "/audio/2026-10-16/word-04-serena.opus",
+          "slow": "/audio/2026-10-16/word-04-serena-slow.opus"
+        }
+      }
+    },
+    {
+      "id": "word-05",
+      "german": "die Kreuzung",
+      "meaning": "교차로, 사거리",
+      "partOfSpeech": "noun",
+      "gender": "die",
+      "plural": "die Kreuzungen",
+      "pronunciation": {
+        "ipa": "/ˈkʁɔɪ̯tsʊŋ/",
+        "korean": [
+          {
+            "text": "크로이",
+            "stress": true
+          },
+          {
+            "text": "초웅",
+            "stress": false
+          }
+        ]
+      },
+      "isSwissExpression": false,
+      "audio": {
+        "aiden": {
+          "normal": "/audio/2026-10-16/word-05-aiden.opus",
+          "slow": "/audio/2026-10-16/word-05-aiden-slow.opus"
+        },
+        "serena": {
+          "normal": "/audio/2026-10-16/word-05-serena.opus",
+          "slow": "/audio/2026-10-16/word-05-serena-slow.opus"
+        }
+      }
+    },
+    {
+      "id": "word-06",
+      "german": "zu Fuss",
+      "meaning": "걸어서",
+      "partOfSpeech": "phrase",
+      "pronunciation": {
+        "ipa": "/tsuː ˈfʊs/",
+        "korean": [
+          {
+            "text": "추ː",
+            "stress": false
+          },
+          {
+            "text": "푸스",
+            "stress": true
+          }
+        ]
+      },
+      "isSwissExpression": false,
+      "swissNote": "스위스 표준 독일어 표기법에 따라 ss로 적습니다(독일식 표기: zu Fuß).",
+      "audio": {
+        "aiden": {
+          "normal": "/audio/2026-10-16/word-06-aiden.opus",
+          "slow": "/audio/2026-10-16/word-06-aiden-slow.opus"
+        },
+        "serena": {
+          "normal": "/audio/2026-10-16/word-06-serena.opus",
+          "slow": "/audio/2026-10-16/word-06-serena-slow.opus"
+        }
+      }
+    },
+    {
+      "id": "word-07",
+      "german": "die Strasse",
+      "meaning": "길, 도로",
+      "partOfSpeech": "noun",
+      "gender": "die",
+      "plural": "die Strassen",
+      "pronunciation": {
+        "ipa": "/ˈʃtʁasə/",
+        "korean": [
+          {
+            "text": "슈트라",
+            "stress": true
+          },
+          {
+            "text": "세",
+            "stress": false
+          }
+        ]
+      },
+      "isSwissExpression": false,
+      "swissNote": "스위스에서는 에스체트(ß)를 전혀 사용하지 않으므로 항상 'Strasse'로 표기합니다.",
+      "audio": {
+        "aiden": {
+          "normal": "/audio/2026-10-16/word-07-aiden.opus",
+          "slow": "/audio/2026-10-16/word-07-aiden-slow.opus"
+        },
+        "serena": {
+          "normal": "/audio/2026-10-16/word-07-serena.opus",
+          "slow": "/audio/2026-10-16/word-07-serena-slow.opus"
+        }
+      }
+    },
+    {
+      "id": "word-08",
+      "german": "die Ecke",
+      "meaning": "모퉁이, 모서리",
+      "partOfSpeech": "noun",
+      "gender": "die",
+      "plural": "die Ecken",
+      "pronunciation": {
+        "ipa": "/ˈɛkə/",
+        "korean": [
+          {
+            "text": "에",
+            "stress": true
+          },
+          {
+            "text": "케",
+            "stress": false
+          }
+        ]
+      },
+      "isSwissExpression": false,
+      "audio": {
+        "aiden": {
+          "normal": "/audio/2026-10-16/word-08-aiden.opus",
+          "slow": "/audio/2026-10-16/word-08-aiden-slow.opus"
+        },
+        "serena": {
+          "normal": "/audio/2026-10-16/word-08-serena.opus",
+          "slow": "/audio/2026-10-16/word-08-serena-slow.opus"
+        }
+      }
+    },
+    {
+      "id": "word-09",
+      "german": "die Ampel",
+      "meaning": "신호등",
+      "partOfSpeech": "noun",
+      "gender": "die",
+      "plural": "die Ampeln",
+      "pronunciation": {
+        "ipa": "/ˈampəl/",
+        "korean": [
+          {
+            "text": "암",
+            "stress": true
+          },
+          {
+            "text": "펠",
+            "stress": false
+          }
+        ]
+      },
+      "isSwissExpression": false,
+      "audio": {
+        "aiden": {
+          "normal": "/audio/2026-10-16/word-09-aiden.opus",
+          "slow": "/audio/2026-10-16/word-09-aiden-slow.opus"
+        },
+        "serena": {
+          "normal": "/audio/2026-10-16/word-09-serena.opus",
+          "slow": "/audio/2026-10-16/word-09-serena-slow.opus"
+        }
+      }
+    },
+    {
+      "id": "word-10",
+      "german": "finden",
+      "meaning": "찾다, 발견하다",
+      "partOfSpeech": "verb",
+      "pronunciation": {
+        "ipa": "/ˈfɪndn̩/",
+        "korean": [
+          {
+            "text": "핀",
+            "stress": true
+          },
+          {
+            "text": "덴",
+            "stress": false
+          }
+        ]
+      },
+      "isSwissExpression": false,
+      "audio": {
+        "aiden": {
+          "normal": "/audio/2026-10-16/word-10-aiden.opus",
+          "slow": "/audio/2026-10-16/word-10-aiden-slow.opus"
+        },
+        "serena": {
+          "normal": "/audio/2026-10-16/word-10-serena.opus",
+          "slow": "/audio/2026-10-16/word-10-serena-slow.opus"
+        }
+      }
+    }
+  ],
+  "sentences": [
+    {
+      "id": "sentence-01",
+      "german": "Gehen Sie an der Ampel links.",
+      "meaning": "신호등에서 왼쪽으로 가세요.",
+      "pronunciation": {
+        "ipa": "/ˈɡeːən ziː an deːɐ̯ ˈampəl lɪŋks/",
+        "korean": [
+          {
+            "text": "게엔",
+            "stress": true
+          },
+          {
+            "text": "지ː",
+            "stress": false
+          },
+          {
+            "text": "안",
+            "stress": false
+          },
+          {
+            "text": "데어",
+            "stress": false
+          },
+          {
+            "text": "암펠",
+            "stress": true
+          },
+          {
+            "text": "링크스",
+            "stress": true
+          }
+        ]
+      },
+      "usesWords": [
+        "word-02",
+        "word-09"
+      ],
+      "audio": {
+        "aiden": {
+          "normal": "/audio/2026-10-16/sentence-01-aiden.opus",
+          "slow": "/audio/2026-10-16/sentence-01-aiden-slow.opus"
+        },
+        "serena": {
+          "normal": "/audio/2026-10-16/sentence-01-serena.opus",
+          "slow": "/audio/2026-10-16/sentence-01-serena-slow.opus"
+        }
+      }
+    },
+    {
+      "id": "sentence-02",
+      "german": "Gehen Sie hier geradeaus bis zur Kreuzung.",
+      "meaning": "여기서 교차로까지 직진하세요.",
+      "pronunciation": {
+        "ipa": "/ˈɡeːən ziː hiːɐ̯ ɡəʁadəˈaʊ̯s bɪs tsuːɐ̯ ˈkʁɔɪ̯tsʊŋ/",
+        "korean": [
+          {
+            "text": "게엔",
+            "stress": true
+          },
+          {
+            "text": "지ː",
+            "stress": false
+          },
+          {
+            "text": "히어",
+            "stress": false
+          },
+          {
+            "text": "게라데아우스",
+            "stress": true
+          },
+          {
+            "text": "비스",
+            "stress": false
+          },
+          {
+            "text": "추어",
+            "stress": false
+          },
+          {
+            "text": "크로이초웅",
+            "stress": true
+          }
+        ]
+      },
+      "usesWords": [
+        "word-04",
+        "word-05"
+      ],
+      "audio": {
+        "aiden": {
+          "normal": "/audio/2026-10-16/sentence-02-aiden.opus",
+          "slow": "/audio/2026-10-16/sentence-02-aiden-slow.opus"
+        },
+        "serena": {
+          "normal": "/audio/2026-10-16/sentence-02-serena.opus",
+          "slow": "/audio/2026-10-16/sentence-02-serena-slow.opus"
+        }
+      }
+    },
+    {
+      "id": "sentence-03",
+      "german": "Ist das Hotel zu Fuss weit?",
+      "meaning": "호텔이 걸어서 가기에 먼가요?",
+      "pronunciation": {
+        "ipa": "/ɪst das hoˈtɛl tsuː fʊs vaɪ̯t/",
+        "korean": [
+          {
+            "text": "이스트",
+            "stress": false
+          },
+          {
+            "text": "다스",
+            "stress": false
+          },
+          {
+            "text": "호텔",
+            "stress": true
+          },
+          {
+            "text": "추ː",
+            "stress": false
+          },
+          {
+            "text": "푸스",
+            "stress": true
+          },
+          {
+            "text": "와이트",
+            "stress": true
+          }
+        ]
+      },
+      "usesWords": [
+        "word-06"
+      ],
+      "audio": {
+        "aiden": {
+          "normal": "/audio/2026-10-16/sentence-03-aiden.opus",
+          "slow": "/audio/2026-10-16/sentence-03-aiden-slow.opus"
+        },
+        "serena": {
+          "normal": "/audio/2026-10-16/sentence-03-serena.opus",
+          "slow": "/audio/2026-10-16/sentence-03-serena-slow.opus"
+        }
+      }
+    }
+  ],
+  "grammar": {
+    "id": "imperativ-sie",
+    "title": "Sie 명령형: Gehen Sie geradeaus.",
+    "pattern": "동사원형 + Sie + 나머지?",
+    "meaning": "“~하십시오, ~해 주세요”",
+    "explanation": "상대방에게 정중하게 지시나 길 안내를 부탁할 때 쓰는 Sie(존칭) 명령형입니다. 동사원형 뒤에 대명사 Sie를 붙이면 정중한 명령문이 됩니다. 문장 맨 앞에 동사가 오며, 길을 물어볼 때 매우 유용하게 쓰입니다.",
+    "examples": [
+      {
+        "german": "Gehen Sie geradeaus.",
+        "meaning": "직진하세요."
+      },
+      {
+        "german": "Gehen Sie nach links.",
+        "meaning": "왼쪽으로 가세요."
+      },
+      {
+        "german": "Finden Sie den Weg?",
+        "meaning": "길을 찾으시겠어요?"
+      }
+    ],
+    "tip": "스위스 도시들은 걸어서 여행하기 좋으므로 'Gehen Sie geradeaus'와 방향 단어들을 익혀두면 지도를 보며 길을 찾기 훨씬 수월합니다."
+  }
+}

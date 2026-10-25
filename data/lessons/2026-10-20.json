@@ -1,0 +1,534 @@
+{
+  "type": "lesson",
+  "schemaVersion": 1,
+  "date": "2026-10-20",
+  "day": 17,
+  "unlockAt": "2026-10-20T17:00:00+09:00",
+  "theme": {
+    "id": "toilet",
+    "title": "화장실과 기본 용무",
+    "emoji": "🚻"
+  },
+  "approved": true,
+  "words": [
+    {
+      "id": "word-01",
+      "german": "das WC",
+      "meaning": "화장실",
+      "partOfSpeech": "noun",
+      "gender": "das",
+      "plural": "die WCs",
+      "pronunciation": {
+        "ipa": "/veːˈtseː/",
+        "korean": [
+          {
+            "text": "베ː",
+            "stress": false
+          },
+          {
+            "text": "체ː",
+            "stress": true
+          }
+        ]
+      },
+      "isSwissExpression": false,
+      "swissNote": "WC는 스위스 화장실 안내판에서 볼 수 있는 표기입니다. 스위스에서만 쓰는 단어는 아닙니다.",
+      "audio": {
+        "aiden": {
+          "normal": "/audio/2026-10-20/word-01-aiden.opus",
+          "slow": "/audio/2026-10-20/word-01-aiden-slow.opus"
+        },
+        "serena": {
+          "normal": "/audio/2026-10-20/word-01-serena.opus",
+          "slow": "/audio/2026-10-20/word-01-serena-slow.opus"
+        }
+      }
+    },
+    {
+      "id": "word-02",
+      "german": "die Toilette",
+      "meaning": "화장실, 변기",
+      "partOfSpeech": "noun",
+      "gender": "die",
+      "plural": "die Toiletten",
+      "pronunciation": {
+        "ipa": "/to̯aˈlɛtə/",
+        "korean": [
+          {
+            "text": "토아",
+            "stress": false
+          },
+          {
+            "text": "레",
+            "stress": true
+          },
+          {
+            "text": "테",
+            "stress": false
+          }
+        ]
+      },
+      "isSwissExpression": false,
+      "audio": {
+        "aiden": {
+          "normal": "/audio/2026-10-20/word-02-aiden.opus",
+          "slow": "/audio/2026-10-20/word-02-aiden-slow.opus"
+        },
+        "serena": {
+          "normal": "/audio/2026-10-20/word-02-serena.opus",
+          "slow": "/audio/2026-10-20/word-02-serena-slow.opus"
+        }
+      }
+    },
+    {
+      "id": "word-03",
+      "german": "das Toilettenpapier",
+      "meaning": "화장지",
+      "partOfSpeech": "noun",
+      "gender": "das",
+      "plural": null,
+      "pronunciation": {
+        "ipa": "/to̯aˈlɛtn̩paˌpiːɐ̯/",
+        "korean": [
+          {
+            "text": "토아",
+            "stress": false
+          },
+          {
+            "text": "레",
+            "stress": true
+          },
+          {
+            "text": "텐",
+            "stress": false
+          },
+          {
+            "text": "파",
+            "stress": false
+          },
+          {
+            "text": "피ː어",
+            "stress": false
+          }
+        ]
+      },
+      "isSwissExpression": false,
+      "audio": {
+        "aiden": {
+          "normal": "/audio/2026-10-20/word-03-aiden.opus",
+          "slow": "/audio/2026-10-20/word-03-aiden-slow.opus"
+        },
+        "serena": {
+          "normal": "/audio/2026-10-20/word-03-serena.opus",
+          "slow": "/audio/2026-10-20/word-03-serena-slow.opus"
+        }
+      }
+    },
+    {
+      "id": "word-04",
+      "german": "die Seife",
+      "meaning": "비누",
+      "partOfSpeech": "noun",
+      "gender": "die",
+      "plural": "die Seifen",
+      "pronunciation": {
+        "ipa": "/ˈzaɪ̯fə/",
+        "korean": [
+          {
+            "text": "자이",
+            "stress": true
+          },
+          {
+            "text": "페",
+            "stress": false
+          }
+        ]
+      },
+      "isSwissExpression": false,
+      "audio": {
+        "aiden": {
+          "normal": "/audio/2026-10-20/word-04-aiden.opus",
+          "slow": "/audio/2026-10-20/word-04-aiden-slow.opus"
+        },
+        "serena": {
+          "normal": "/audio/2026-10-20/word-04-serena.opus",
+          "slow": "/audio/2026-10-20/word-04-serena-slow.opus"
+        }
+      }
+    },
+    {
+      "id": "word-05",
+      "german": "das Trinkwasser",
+      "meaning": "마실 수 있는 물, 음용수",
+      "partOfSpeech": "noun",
+      "gender": "das",
+      "plural": null,
+      "pronunciation": {
+        "ipa": "/ˈtʁɪŋkˌvasɐ/",
+        "korean": [
+          {
+            "text": "트링크",
+            "stress": true
+          },
+          {
+            "text": "바",
+            "stress": false
+          },
+          {
+            "text": "서",
+            "stress": false
+          }
+        ]
+      },
+      "isSwissExpression": false,
+      "audio": {
+        "aiden": {
+          "normal": "/audio/2026-10-20/word-05-aiden.opus",
+          "slow": "/audio/2026-10-20/word-05-aiden-slow.opus"
+        },
+        "serena": {
+          "normal": "/audio/2026-10-20/word-05-serena.opus",
+          "slow": "/audio/2026-10-20/word-05-serena-slow.opus"
+        }
+      }
+    },
+    {
+      "id": "word-06",
+      "german": "die Steckdose",
+      "meaning": "콘센트",
+      "partOfSpeech": "noun",
+      "gender": "die",
+      "plural": "die Steckdosen",
+      "pronunciation": {
+        "ipa": "/ˈʃtɛkˌdoːzə/",
+        "korean": [
+          {
+            "text": "슈테크",
+            "stress": true
+          },
+          {
+            "text": "도ː",
+            "stress": false
+          },
+          {
+            "text": "제",
+            "stress": false
+          }
+        ]
+      },
+      "isSwissExpression": false,
+      "audio": {
+        "aiden": {
+          "normal": "/audio/2026-10-20/word-06-aiden.opus",
+          "slow": "/audio/2026-10-20/word-06-aiden-slow.opus"
+        },
+        "serena": {
+          "normal": "/audio/2026-10-20/word-06-serena.opus",
+          "slow": "/audio/2026-10-20/word-06-serena-slow.opus"
+        }
+      }
+    },
+    {
+      "id": "word-07",
+      "german": "das Ladegerät",
+      "meaning": "충전기",
+      "partOfSpeech": "noun",
+      "gender": "das",
+      "plural": "die Ladegeräte",
+      "pronunciation": {
+        "ipa": "/ˈlaːdəɡəˌʁɛːt/",
+        "korean": [
+          {
+            "text": "라ː",
+            "stress": true
+          },
+          {
+            "text": "데",
+            "stress": false
+          },
+          {
+            "text": "게",
+            "stress": false
+          },
+          {
+            "text": "레ː트",
+            "stress": false
+          }
+        ]
+      },
+      "isSwissExpression": false,
+      "audio": {
+        "aiden": {
+          "normal": "/audio/2026-10-20/word-07-aiden.opus",
+          "slow": "/audio/2026-10-20/word-07-aiden-slow.opus"
+        },
+        "serena": {
+          "normal": "/audio/2026-10-20/word-07-serena.opus",
+          "slow": "/audio/2026-10-20/word-07-serena-slow.opus"
+        }
+      }
+    },
+    {
+      "id": "word-08",
+      "german": "aufladen",
+      "meaning": "충전하다",
+      "partOfSpeech": "verb",
+      "pronunciation": {
+        "ipa": "/ˈaʊ̯fˌlaːdn̩/",
+        "korean": [
+          {
+            "text": "아우프",
+            "stress": true
+          },
+          {
+            "text": "라ː",
+            "stress": false
+          },
+          {
+            "text": "덴",
+            "stress": false
+          }
+        ]
+      },
+      "isSwissExpression": false,
+      "audio": {
+        "aiden": {
+          "normal": "/audio/2026-10-20/word-08-aiden.opus",
+          "slow": "/audio/2026-10-20/word-08-aiden-slow.opus"
+        },
+        "serena": {
+          "normal": "/audio/2026-10-20/word-08-serena.opus",
+          "slow": "/audio/2026-10-20/word-08-serena-slow.opus"
+        }
+      }
+    },
+    {
+      "id": "word-09",
+      "german": "die Münze",
+      "meaning": "동전",
+      "partOfSpeech": "noun",
+      "gender": "die",
+      "plural": "die Münzen",
+      "pronunciation": {
+        "ipa": "/ˈmʏntsə/",
+        "korean": [
+          {
+            "text": "뮌",
+            "stress": true
+          },
+          {
+            "text": "체",
+            "stress": false
+          }
+        ]
+      },
+      "isSwissExpression": false,
+      "audio": {
+        "aiden": {
+          "normal": "/audio/2026-10-20/word-09-aiden.opus",
+          "slow": "/audio/2026-10-20/word-09-aiden-slow.opus"
+        },
+        "serena": {
+          "normal": "/audio/2026-10-20/word-09-serena.opus",
+          "slow": "/audio/2026-10-20/word-09-serena-slow.opus"
+        }
+      }
+    },
+    {
+      "id": "word-10",
+      "german": "das Natel",
+      "meaning": "휴대전화 (스위스 표현)",
+      "partOfSpeech": "noun",
+      "gender": "das",
+      "plural": "die Natels",
+      "pronunciation": {
+        "ipa": "/ˈnaːtəl/",
+        "korean": [
+          {
+            "text": "나ː",
+            "stress": true
+          },
+          {
+            "text": "텔",
+            "stress": false
+          }
+        ]
+      },
+      "isSwissExpression": true,
+      "swissNote": "스위스에서는 휴대전화를 Natel이라고도 부릅니다. das Handy라고 말해도 통합니다.",
+      "audio": {
+        "aiden": {
+          "normal": "/audio/2026-10-20/word-10-aiden.opus",
+          "slow": "/audio/2026-10-20/word-10-aiden-slow.opus"
+        },
+        "serena": {
+          "normal": "/audio/2026-10-20/word-10-serena.opus",
+          "slow": "/audio/2026-10-20/word-10-serena-slow.opus"
+        }
+      }
+    }
+  ],
+  "sentences": [
+    {
+      "id": "sentence-01",
+      "german": "Ich brauche eine Toilette.",
+      "meaning": "화장실에 가야 해요.",
+      "pronunciation": {
+        "ipa": "/ɪç ˈbʁaʊ̯xə ˈaɪ̯nə to̯aˈlɛtə/",
+        "korean": [
+          {
+            "text": "이히",
+            "stress": false
+          },
+          {
+            "text": "브라우헤",
+            "stress": false
+          },
+          {
+            "text": "아이네",
+            "stress": false
+          },
+          {
+            "text": "토아레테",
+            "stress": true
+          }
+        ]
+      },
+      "usesWords": [
+        "word-02"
+      ],
+      "audio": {
+        "aiden": {
+          "normal": "/audio/2026-10-20/sentence-01-aiden.opus",
+          "slow": "/audio/2026-10-20/sentence-01-aiden-slow.opus"
+        },
+        "serena": {
+          "normal": "/audio/2026-10-20/sentence-01-serena.opus",
+          "slow": "/audio/2026-10-20/sentence-01-serena-slow.opus"
+        }
+      }
+    },
+    {
+      "id": "sentence-02",
+      "german": "Brauche ich eine Münze für das WC?",
+      "meaning": "화장실을 이용하려면 동전이 필요한가요?",
+      "pronunciation": {
+        "ipa": "/ˈbʁaʊ̯xə ɪç ˈaɪ̯nə ˈmʏntsə fyːɐ̯ das veːˈtseː/",
+        "korean": [
+          {
+            "text": "브라우헤",
+            "stress": false
+          },
+          {
+            "text": "이히",
+            "stress": false
+          },
+          {
+            "text": "아이네",
+            "stress": false
+          },
+          {
+            "text": "뮌체",
+            "stress": true
+          },
+          {
+            "text": "퓌ː어",
+            "stress": false
+          },
+          {
+            "text": "다스",
+            "stress": false
+          },
+          {
+            "text": "베ː체ː",
+            "stress": true
+          }
+        ]
+      },
+      "usesWords": [
+        "word-09",
+        "word-01"
+      ],
+      "audio": {
+        "aiden": {
+          "normal": "/audio/2026-10-20/sentence-02-aiden.opus",
+          "slow": "/audio/2026-10-20/sentence-02-aiden-slow.opus"
+        },
+        "serena": {
+          "normal": "/audio/2026-10-20/sentence-02-serena.opus",
+          "slow": "/audio/2026-10-20/sentence-02-serena-slow.opus"
+        }
+      }
+    },
+    {
+      "id": "sentence-03",
+      "german": "Wo kann ich mein Natel aufladen?",
+      "meaning": "어디서 제 휴대전화를 충전할 수 있나요?",
+      "pronunciation": {
+        "ipa": "/voː kan ɪç maɪ̯n ˈnaːtəl ˈaʊ̯fˌlaːdn̩/",
+        "korean": [
+          {
+            "text": "보ː",
+            "stress": false
+          },
+          {
+            "text": "칸",
+            "stress": false
+          },
+          {
+            "text": "이히",
+            "stress": false
+          },
+          {
+            "text": "마인",
+            "stress": false
+          },
+          {
+            "text": "나ː텔",
+            "stress": true
+          },
+          {
+            "text": "아우프라ː덴",
+            "stress": true
+          }
+        ]
+      },
+      "usesWords": [
+        "word-10",
+        "word-08"
+      ],
+      "audio": {
+        "aiden": {
+          "normal": "/audio/2026-10-20/sentence-03-aiden.opus",
+          "slow": "/audio/2026-10-20/sentence-03-aiden-slow.opus"
+        },
+        "serena": {
+          "normal": "/audio/2026-10-20/sentence-03-serena.opus",
+          "slow": "/audio/2026-10-20/sentence-03-serena-slow.opus"
+        }
+      }
+    }
+  ],
+  "grammar": {
+    "id": "ich-brauche",
+    "title": "Ich brauche + 4격",
+    "pattern": "Ich brauche + 명사(4격)",
+    "meaning": "~이/가 필요해요",
+    "explanation": "brauchen은 '~이 필요하다'라는 뜻이고 ich와 함께 쓰면 brauche가 됩니다. 필요한 대상은 4격으로 써요. 부정관사는 남성 ein이 einen으로 바뀌고, 여성 eine와 중성 ein은 그대로입니다. 예를 들어 einen Adapter(어댑터 하나), eine Münze(동전 하나), ein Ladegerät(충전기 하나)라고 합니다.",
+    "examples": [
+      {
+        "german": "Ich brauche eine Münze.",
+        "meaning": "동전 하나가 필요해요."
+      },
+      {
+        "german": "Ich brauche ein Ladegerät.",
+        "meaning": "충전기가 필요해요."
+      },
+      {
+        "german": "Ich brauche einen Adapter.",
+        "meaning": "어댑터가 필요해요."
+      }
+    ],
+    "tip": "화장실을 급히 찾을 때도 Ich brauche eine Toilette.라고 말할 수 있어요. 위치를 물으려면 Wo ist das WC?라고 하세요."
+  }
+}

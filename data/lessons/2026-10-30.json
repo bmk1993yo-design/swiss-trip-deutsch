@@ -1,0 +1,463 @@
+{
+  "type": "lesson",
+  "schemaVersion": 1,
+  "date": "2026-10-30",
+  "day": 27,
+  "unlockAt": "2026-10-30T17:00:00+09:00",
+  "theme": {
+    "id": "swiss-politeness",
+    "title": "스위스식 인사와 예절",
+    "emoji": "🇨🇭"
+  },
+  "approved": true,
+  "words": [
+    {
+      "id": "word-01",
+      "german": "Merci",
+      "meaning": "고마워요 (스위스에서 쓰는 감사 인사)",
+      "partOfSpeech": "interjection",
+      "pronunciation": {
+        "ipa": "/ˈmɛʁsi/",
+        "korean": [
+          {
+            "text": "메르",
+            "stress": true
+          },
+          {
+            "text": "시",
+            "stress": false
+          }
+        ]
+      },
+      "isSwissExpression": true,
+      "swissNote": "프랑스어에서 온 말로, 독일어권 스위스에서도 감사 인사로 씁니다. Danke라고 해도 자연스럽습니다.",
+      "audio": {
+        "aiden": {
+          "normal": "/audio/2026-10-30/word-01-aiden.opus",
+          "slow": "/audio/2026-10-30/word-01-aiden-slow.opus"
+        },
+        "serena": {
+          "normal": "/audio/2026-10-30/word-01-serena.opus",
+          "slow": "/audio/2026-10-30/word-01-serena-slow.opus"
+        }
+      }
+    },
+    {
+      "id": "word-02",
+      "german": "Ade",
+      "meaning": "안녕히 가세요, 안녕히 계세요 (스위스식 작별 인사)",
+      "partOfSpeech": "interjection",
+      "pronunciation": {
+        "ipa": "/aˈdeː/",
+        "korean": [
+          {
+            "text": "아",
+            "stress": false
+          },
+          {
+            "text": "데ː",
+            "stress": true
+          }
+        ]
+      },
+      "isSwissExpression": true,
+      "swissNote": "스위스에서 작별할 때 쓰는 인사입니다. 다른 독일어권의 일부 지역에서도 쓰이는 말입니다.",
+      "audio": {
+        "aiden": {
+          "normal": "/audio/2026-10-30/word-02-aiden.opus",
+          "slow": "/audio/2026-10-30/word-02-aiden-slow.opus"
+        },
+        "serena": {
+          "normal": "/audio/2026-10-30/word-02-serena.opus",
+          "slow": "/audio/2026-10-30/word-02-serena-slow.opus"
+        }
+      }
+    },
+    {
+      "id": "word-03",
+      "german": "Sie",
+      "meaning": "당신, 여러분 (존칭)",
+      "partOfSpeech": "pronoun",
+      "pronunciation": {
+        "ipa": "/ziː/",
+        "korean": [
+          {
+            "text": "지ː",
+            "stress": true
+          }
+        ]
+      },
+      "isSwissExpression": false,
+      "audio": {
+        "aiden": {
+          "normal": "/audio/2026-10-30/word-03-aiden.opus",
+          "slow": "/audio/2026-10-30/word-03-aiden-slow.opus"
+        },
+        "serena": {
+          "normal": "/audio/2026-10-30/word-03-serena.opus",
+          "slow": "/audio/2026-10-30/word-03-serena-slow.opus"
+        }
+      }
+    },
+    {
+      "id": "word-04",
+      "german": "du",
+      "meaning": "너, 당신 (친칭)",
+      "partOfSpeech": "pronoun",
+      "pronunciation": {
+        "ipa": "/duː/",
+        "korean": [
+          {
+            "text": "두ː",
+            "stress": true
+          }
+        ]
+      },
+      "isSwissExpression": false,
+      "audio": {
+        "aiden": {
+          "normal": "/audio/2026-10-30/word-04-aiden.opus",
+          "slow": "/audio/2026-10-30/word-04-aiden-slow.opus"
+        },
+        "serena": {
+          "normal": "/audio/2026-10-30/word-04-serena.opus",
+          "slow": "/audio/2026-10-30/word-04-serena-slow.opus"
+        }
+      }
+    },
+    {
+      "id": "word-05",
+      "german": "die Entschuldigung",
+      "meaning": "사과, 양해를 구하는 말",
+      "partOfSpeech": "noun",
+      "gender": "die",
+      "plural": "die Entschuldigungen",
+      "pronunciation": {
+        "ipa": "/ɛntˈʃʊldɪɡʊŋ/",
+        "korean": [
+          {
+            "text": "엔트",
+            "stress": false
+          },
+          {
+            "text": "슐",
+            "stress": true
+          },
+          {
+            "text": "디",
+            "stress": false
+          },
+          {
+            "text": "궁",
+            "stress": false
+          }
+        ]
+      },
+      "isSwissExpression": false,
+      "audio": {
+        "aiden": {
+          "normal": "/audio/2026-10-30/word-05-aiden.opus",
+          "slow": "/audio/2026-10-30/word-05-aiden-slow.opus"
+        },
+        "serena": {
+          "normal": "/audio/2026-10-30/word-05-serena.opus",
+          "slow": "/audio/2026-10-30/word-05-serena-slow.opus"
+        }
+      }
+    },
+    {
+      "id": "word-06",
+      "german": "danke",
+      "meaning": "감사합니다, 고마워요",
+      "partOfSpeech": "interjection",
+      "pronunciation": {
+        "ipa": "/ˈdaŋkə/",
+        "korean": [
+          {
+            "text": "당",
+            "stress": true
+          },
+          {
+            "text": "케",
+            "stress": false
+          }
+        ]
+      },
+      "isSwissExpression": false,
+      "audio": {
+        "aiden": {
+          "normal": "/audio/2026-10-30/word-06-aiden.opus",
+          "slow": "/audio/2026-10-30/word-06-aiden-slow.opus"
+        },
+        "serena": {
+          "normal": "/audio/2026-10-30/word-06-serena.opus",
+          "slow": "/audio/2026-10-30/word-06-serena-slow.opus"
+        }
+      }
+    },
+    {
+      "id": "word-07",
+      "german": "entschuldigen",
+      "meaning": "용서하다, 양해하다",
+      "partOfSpeech": "verb",
+      "pronunciation": {
+        "ipa": "/ɛntˈʃʊldɪɡən/",
+        "korean": [
+          {
+            "text": "엔트",
+            "stress": false
+          },
+          {
+            "text": "슐",
+            "stress": true
+          },
+          {
+            "text": "디",
+            "stress": false
+          },
+          {
+            "text": "겐",
+            "stress": false
+          }
+        ]
+      },
+      "isSwissExpression": false,
+      "audio": {
+        "aiden": {
+          "normal": "/audio/2026-10-30/word-07-aiden.opus",
+          "slow": "/audio/2026-10-30/word-07-aiden-slow.opus"
+        },
+        "serena": {
+          "normal": "/audio/2026-10-30/word-07-serena.opus",
+          "slow": "/audio/2026-10-30/word-07-serena-slow.opus"
+        }
+      }
+    },
+    {
+      "id": "word-08",
+      "german": "höflich",
+      "meaning": "예의 바른, 정중한",
+      "partOfSpeech": "adjective",
+      "pronunciation": {
+        "ipa": "/ˈhøːflɪç/",
+        "korean": [
+          {
+            "text": "회ː프",
+            "stress": true
+          },
+          {
+            "text": "리히",
+            "stress": false
+          }
+        ]
+      },
+      "isSwissExpression": false,
+      "audio": {
+        "aiden": {
+          "normal": "/audio/2026-10-30/word-08-aiden.opus",
+          "slow": "/audio/2026-10-30/word-08-aiden-slow.opus"
+        },
+        "serena": {
+          "normal": "/audio/2026-10-30/word-08-serena.opus",
+          "slow": "/audio/2026-10-30/word-08-serena-slow.opus"
+        }
+      }
+    },
+    {
+      "id": "word-09",
+      "german": "grüssen",
+      "meaning": "인사하다",
+      "partOfSpeech": "verb",
+      "pronunciation": {
+        "ipa": "/ˈɡʁyːsn̩/",
+        "korean": [
+          {
+            "text": "그뤼ː",
+            "stress": true
+          },
+          {
+            "text": "센",
+            "stress": false
+          }
+        ]
+      },
+      "isSwissExpression": false,
+      "audio": {
+        "aiden": {
+          "normal": "/audio/2026-10-30/word-09-aiden.opus",
+          "slow": "/audio/2026-10-30/word-09-aiden-slow.opus"
+        },
+        "serena": {
+          "normal": "/audio/2026-10-30/word-09-serena.opus",
+          "slow": "/audio/2026-10-30/word-09-serena-slow.opus"
+        }
+      }
+    },
+    {
+      "id": "word-10",
+      "german": "heissen",
+      "meaning": "~라는 이름이다",
+      "partOfSpeech": "verb",
+      "pronunciation": {
+        "ipa": "/ˈhaɪ̯sn̩/",
+        "korean": [
+          {
+            "text": "하이",
+            "stress": true
+          },
+          {
+            "text": "센",
+            "stress": false
+          }
+        ]
+      },
+      "isSwissExpression": false,
+      "audio": {
+        "aiden": {
+          "normal": "/audio/2026-10-30/word-10-aiden.opus",
+          "slow": "/audio/2026-10-30/word-10-aiden-slow.opus"
+        },
+        "serena": {
+          "normal": "/audio/2026-10-30/word-10-serena.opus",
+          "slow": "/audio/2026-10-30/word-10-serena-slow.opus"
+        }
+      }
+    }
+  ],
+  "sentences": [
+    {
+      "id": "sentence-01",
+      "german": "Wie heissen Sie?",
+      "meaning": "성함이 어떻게 되세요?",
+      "pronunciation": {
+        "ipa": "/viː ˈhaɪ̯sn̩ ziː/",
+        "korean": [
+          {
+            "text": "비ː",
+            "stress": false
+          },
+          {
+            "text": "하이센",
+            "stress": true
+          },
+          {
+            "text": "지ː",
+            "stress": false
+          }
+        ]
+      },
+      "usesWords": [
+        "word-10",
+        "word-03"
+      ],
+      "audio": {
+        "aiden": {
+          "normal": "/audio/2026-10-30/sentence-01-aiden.opus",
+          "slow": "/audio/2026-10-30/sentence-01-aiden-slow.opus"
+        },
+        "serena": {
+          "normal": "/audio/2026-10-30/sentence-01-serena.opus",
+          "slow": "/audio/2026-10-30/sentence-01-serena-slow.opus"
+        }
+      }
+    },
+    {
+      "id": "sentence-02",
+      "german": "Wie heisst du?",
+      "meaning": "이름이 뭐야?",
+      "pronunciation": {
+        "ipa": "/viː haɪ̯st duː/",
+        "korean": [
+          {
+            "text": "비ː",
+            "stress": false
+          },
+          {
+            "text": "하이스트",
+            "stress": true
+          },
+          {
+            "text": "두ː",
+            "stress": false
+          }
+        ]
+      },
+      "usesWords": [
+        "word-10",
+        "word-04"
+      ],
+      "audio": {
+        "aiden": {
+          "normal": "/audio/2026-10-30/sentence-02-aiden.opus",
+          "slow": "/audio/2026-10-30/sentence-02-aiden-slow.opus"
+        },
+        "serena": {
+          "normal": "/audio/2026-10-30/sentence-02-serena.opus",
+          "slow": "/audio/2026-10-30/sentence-02-serena-slow.opus"
+        }
+      }
+    },
+    {
+      "id": "sentence-03",
+      "german": "Merci und Ade!",
+      "meaning": "고마워요, 안녕히 계세요!",
+      "pronunciation": {
+        "ipa": "/ˈmɛʁsi ʊnt aˈdeː/",
+        "korean": [
+          {
+            "text": "메르시",
+            "stress": true
+          },
+          {
+            "text": "운트",
+            "stress": false
+          },
+          {
+            "text": "아데ː",
+            "stress": true
+          }
+        ]
+      },
+      "usesWords": [
+        "word-01",
+        "word-02"
+      ],
+      "audio": {
+        "aiden": {
+          "normal": "/audio/2026-10-30/sentence-03-aiden.opus",
+          "slow": "/audio/2026-10-30/sentence-03-aiden-slow.opus"
+        },
+        "serena": {
+          "normal": "/audio/2026-10-30/sentence-03-serena.opus",
+          "slow": "/audio/2026-10-30/sentence-03-serena-slow.opus"
+        }
+      }
+    }
+  ],
+  "grammar": {
+    "id": "sie-du",
+    "title": "존칭 Sie와 친칭 du",
+    "pattern": "Wie heissen Sie? ↔ Wie heisst du? / Sie kommen ↔ du kommst",
+    "meaning": "정중하게 말하기와 친근하게 말하기",
+    "explanation": "처음 만난 성인이나 직원에게는 보통 존칭 Sie를 사용하며, 문장 중간에서도 첫 글자를 대문자로 씁니다. du는 가족이나 친구처럼 가까운 사이에서 쓰는 친칭입니다. Sie에는 heissen, kommen처럼 원형과 같은 형태의 동사를 쓰고, du에는 heisst, kommst처럼 변화한 형태를 씁니다. Sie는 한 사람과 여러 사람 모두에게 사용할 수 있습니다. 처음에는 Sie로 시작하고 서로 du를 쓰기로 하면 친칭으로 바꾸면 됩니다.",
+    "examples": [
+      {
+        "german": "Wie heissen Sie?",
+        "meaning": "성함이 어떻게 되세요?"
+      },
+      {
+        "german": "Wie heisst du?",
+        "meaning": "이름이 뭐야?"
+      },
+      {
+        "german": "Woher kommen Sie?",
+        "meaning": "어디에서 오셨어요?"
+      },
+      {
+        "german": "Woher kommst du?",
+        "meaning": "어디에서 왔어?"
+      }
+    ],
+    "tip": "정중하게 사과하거나 양해를 구할 때는 Entschuldigen Sie bitte.라고 말해 보세요."
+  }
+}

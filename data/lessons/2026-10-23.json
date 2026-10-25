@@ -1,0 +1,529 @@
+{
+  "type": "lesson",
+  "schemaVersion": 1,
+  "date": "2026-10-23",
+  "day": 20,
+  "unlockAt": "2026-10-23T17:00:00+09:00",
+  "theme": {
+    "id": "museum",
+    "title": "박물관",
+    "emoji": "🏛️"
+  },
+  "approved": true,
+  "words": [
+    {
+      "id": "word-01",
+      "german": "das Museum",
+      "meaning": "박물관, 미술관",
+      "partOfSpeech": "noun",
+      "gender": "das",
+      "plural": "die Museen",
+      "pronunciation": {
+        "ipa": "/muˈzeːʊm/",
+        "korean": [
+          {
+            "text": "무",
+            "stress": false
+          },
+          {
+            "text": "제ː",
+            "stress": true
+          },
+          {
+            "text": "움",
+            "stress": false
+          }
+        ]
+      },
+      "isSwissExpression": false,
+      "audio": {
+        "aiden": {
+          "normal": "/audio/2026-10-23/word-01-aiden.opus",
+          "slow": "/audio/2026-10-23/word-01-aiden-slow.opus"
+        },
+        "serena": {
+          "normal": "/audio/2026-10-23/word-01-serena.opus",
+          "slow": "/audio/2026-10-23/word-01-serena-slow.opus"
+        }
+      }
+    },
+    {
+      "id": "word-02",
+      "german": "der Eintritt",
+      "meaning": "입장, 입장료",
+      "partOfSpeech": "noun",
+      "gender": "der",
+      "plural": "die Eintritte",
+      "pronunciation": {
+        "ipa": "/ˈaɪ̯nˌtʁɪt/",
+        "korean": [
+          {
+            "text": "아인",
+            "stress": true
+          },
+          {
+            "text": "트리트",
+            "stress": false
+          }
+        ]
+      },
+      "isSwissExpression": false,
+      "audio": {
+        "aiden": {
+          "normal": "/audio/2026-10-23/word-02-aiden.opus",
+          "slow": "/audio/2026-10-23/word-02-aiden-slow.opus"
+        },
+        "serena": {
+          "normal": "/audio/2026-10-23/word-02-serena.opus",
+          "slow": "/audio/2026-10-23/word-02-serena-slow.opus"
+        }
+      }
+    },
+    {
+      "id": "word-03",
+      "german": "die Öffnungszeit",
+      "meaning": "운영 시간, 개관 시간",
+      "partOfSpeech": "noun",
+      "gender": "die",
+      "plural": "die Öffnungszeiten",
+      "pronunciation": {
+        "ipa": "/ˈœfnʊŋsˌtsaɪ̯t/",
+        "korean": [
+          {
+            "text": "외프",
+            "stress": true
+          },
+          {
+            "text": "눙스",
+            "stress": false
+          },
+          {
+            "text": "차이트",
+            "stress": false
+          }
+        ]
+      },
+      "isSwissExpression": false,
+      "audio": {
+        "aiden": {
+          "normal": "/audio/2026-10-23/word-03-aiden.opus",
+          "slow": "/audio/2026-10-23/word-03-aiden-slow.opus"
+        },
+        "serena": {
+          "normal": "/audio/2026-10-23/word-03-serena.opus",
+          "slow": "/audio/2026-10-23/word-03-serena-slow.opus"
+        }
+      }
+    },
+    {
+      "id": "word-04",
+      "german": "öffnen",
+      "meaning": "열다, 문을 열다",
+      "partOfSpeech": "verb",
+      "pronunciation": {
+        "ipa": "/ˈœfnən/",
+        "korean": [
+          {
+            "text": "외프",
+            "stress": true
+          },
+          {
+            "text": "넨",
+            "stress": false
+          }
+        ]
+      },
+      "isSwissExpression": false,
+      "audio": {
+        "aiden": {
+          "normal": "/audio/2026-10-23/word-04-aiden.opus",
+          "slow": "/audio/2026-10-23/word-04-aiden-slow.opus"
+        },
+        "serena": {
+          "normal": "/audio/2026-10-23/word-04-serena.opus",
+          "slow": "/audio/2026-10-23/word-04-serena-slow.opus"
+        }
+      }
+    },
+    {
+      "id": "word-05",
+      "german": "schliessen",
+      "meaning": "닫다, 문을 닫다",
+      "partOfSpeech": "verb",
+      "pronunciation": {
+        "ipa": "/ˈʃliːsn̩/",
+        "korean": [
+          {
+            "text": "슐리ː",
+            "stress": true
+          },
+          {
+            "text": "센",
+            "stress": false
+          }
+        ]
+      },
+      "isSwissExpression": false,
+      "audio": {
+        "aiden": {
+          "normal": "/audio/2026-10-23/word-05-aiden.opus",
+          "slow": "/audio/2026-10-23/word-05-aiden-slow.opus"
+        },
+        "serena": {
+          "normal": "/audio/2026-10-23/word-05-serena.opus",
+          "slow": "/audio/2026-10-23/word-05-serena-slow.opus"
+        }
+      }
+    },
+    {
+      "id": "word-06",
+      "german": "der Audioguide",
+      "meaning": "오디오 가이드, 음성 안내 기기",
+      "partOfSpeech": "noun",
+      "gender": "der",
+      "plural": "die Audioguides",
+      "pronunciation": {
+        "ipa": "/ˈaʊ̯di̯oˌɡaɪ̯t/",
+        "korean": [
+          {
+            "text": "아우",
+            "stress": true
+          },
+          {
+            "text": "디오",
+            "stress": false
+          },
+          {
+            "text": "가이트",
+            "stress": false
+          }
+        ]
+      },
+      "isSwissExpression": false,
+      "audio": {
+        "aiden": {
+          "normal": "/audio/2026-10-23/word-06-aiden.opus",
+          "slow": "/audio/2026-10-23/word-06-aiden-slow.opus"
+        },
+        "serena": {
+          "normal": "/audio/2026-10-23/word-06-serena.opus",
+          "slow": "/audio/2026-10-23/word-06-serena-slow.opus"
+        }
+      }
+    },
+    {
+      "id": "word-07",
+      "german": "die Ausstellung",
+      "meaning": "전시, 전시회",
+      "partOfSpeech": "noun",
+      "gender": "die",
+      "plural": "die Ausstellungen",
+      "pronunciation": {
+        "ipa": "/ˈaʊ̯sˌʃtɛlʊŋ/",
+        "korean": [
+          {
+            "text": "아우스",
+            "stress": true
+          },
+          {
+            "text": "슈텔",
+            "stress": false
+          },
+          {
+            "text": "룽",
+            "stress": false
+          }
+        ]
+      },
+      "isSwissExpression": false,
+      "audio": {
+        "aiden": {
+          "normal": "/audio/2026-10-23/word-07-aiden.opus",
+          "slow": "/audio/2026-10-23/word-07-aiden-slow.opus"
+        },
+        "serena": {
+          "normal": "/audio/2026-10-23/word-07-serena.opus",
+          "slow": "/audio/2026-10-23/word-07-serena-slow.opus"
+        }
+      }
+    },
+    {
+      "id": "word-08",
+      "german": "erlaubt",
+      "meaning": "허용된",
+      "partOfSpeech": "adjective",
+      "pronunciation": {
+        "ipa": "/ɛɐ̯ˈlaʊ̯pt/",
+        "korean": [
+          {
+            "text": "에어",
+            "stress": false
+          },
+          {
+            "text": "라웁트",
+            "stress": true
+          }
+        ]
+      },
+      "isSwissExpression": false,
+      "audio": {
+        "aiden": {
+          "normal": "/audio/2026-10-23/word-08-aiden.opus",
+          "slow": "/audio/2026-10-23/word-08-aiden-slow.opus"
+        },
+        "serena": {
+          "normal": "/audio/2026-10-23/word-08-serena.opus",
+          "slow": "/audio/2026-10-23/word-08-serena-slow.opus"
+        }
+      }
+    },
+    {
+      "id": "word-09",
+      "german": "der Blitz",
+      "meaning": "플래시 (카메라), 번개",
+      "partOfSpeech": "noun",
+      "gender": "der",
+      "plural": "die Blitze",
+      "pronunciation": {
+        "ipa": "/blɪts/",
+        "korean": [
+          {
+            "text": "블리츠",
+            "stress": true
+          }
+        ]
+      },
+      "isSwissExpression": false,
+      "audio": {
+        "aiden": {
+          "normal": "/audio/2026-10-23/word-09-aiden.opus",
+          "slow": "/audio/2026-10-23/word-09-aiden-slow.opus"
+        },
+        "serena": {
+          "normal": "/audio/2026-10-23/word-09-serena.opus",
+          "slow": "/audio/2026-10-23/word-09-serena-slow.opus"
+        }
+      }
+    },
+    {
+      "id": "word-10",
+      "german": "das Eintrittsbillett",
+      "meaning": "입장권 (스위스 표현)",
+      "partOfSpeech": "noun",
+      "gender": "das",
+      "plural": "die Eintrittsbillette",
+      "pronunciation": {
+        "ipa": "/ˈaɪ̯ntʁɪtsbiˌjɛt/",
+        "korean": [
+          {
+            "text": "아인",
+            "stress": true
+          },
+          {
+            "text": "트리츠",
+            "stress": false
+          },
+          {
+            "text": "비",
+            "stress": false
+          },
+          {
+            "text": "예트",
+            "stress": false
+          }
+        ]
+      },
+      "isSwissExpression": true,
+      "swissNote": "스위스에서는 표를 Billett라고 하며, 박물관 등의 입장권은 Eintrittsbillett라고 합니다. Eintrittskarte라는 말도 통합니다.",
+      "audio": {
+        "aiden": {
+          "normal": "/audio/2026-10-23/word-10-aiden.opus",
+          "slow": "/audio/2026-10-23/word-10-aiden-slow.opus"
+        },
+        "serena": {
+          "normal": "/audio/2026-10-23/word-10-serena.opus",
+          "slow": "/audio/2026-10-23/word-10-serena-slow.opus"
+        }
+      }
+    }
+  ],
+  "sentences": [
+    {
+      "id": "sentence-01",
+      "german": "Das Museum ist von zehn bis siebzehn Uhr geöffnet.",
+      "meaning": "박물관은 오전 10시부터 오후 5시까지 열어요.",
+      "pronunciation": {
+        "ipa": "/das muˈzeːʊm ɪst fɔn tseːn bɪs ˈziːpˌtseːn uːɐ̯ ɡəˈœfnət/",
+        "korean": [
+          {
+            "text": "다스",
+            "stress": false
+          },
+          {
+            "text": "무제ː움",
+            "stress": true
+          },
+          {
+            "text": "이스트",
+            "stress": false
+          },
+          {
+            "text": "폰",
+            "stress": false
+          },
+          {
+            "text": "첸ː",
+            "stress": true
+          },
+          {
+            "text": "비스",
+            "stress": false
+          },
+          {
+            "text": "지ː프첸ː",
+            "stress": true
+          },
+          {
+            "text": "우ː어",
+            "stress": false
+          },
+          {
+            "text": "게외프네트",
+            "stress": false
+          }
+        ]
+      },
+      "usesWords": [
+        "word-01",
+        "word-04"
+      ],
+      "audio": {
+        "aiden": {
+          "normal": "/audio/2026-10-23/sentence-01-aiden.opus",
+          "slow": "/audio/2026-10-23/sentence-01-aiden-slow.opus"
+        },
+        "serena": {
+          "normal": "/audio/2026-10-23/sentence-01-serena.opus",
+          "slow": "/audio/2026-10-23/sentence-01-serena-slow.opus"
+        }
+      }
+    },
+    {
+      "id": "sentence-02",
+      "german": "Gibt es einen Audioguide und eine Ermässigung?",
+      "meaning": "오디오 가이드와 할인 혜택이 있나요?",
+      "pronunciation": {
+        "ipa": "/ɡiːpt ɛs ˈaɪ̯nən ˈaʊ̯di̯oˌɡaɪ̯t ʊnt ˈaɪ̯nə ɛɐ̯ˈmɛːsɪɡʊŋ/",
+        "korean": [
+          {
+            "text": "기ː프트",
+            "stress": false
+          },
+          {
+            "text": "에스",
+            "stress": false
+          },
+          {
+            "text": "아이넨",
+            "stress": false
+          },
+          {
+            "text": "아우디오가이트",
+            "stress": true
+          },
+          {
+            "text": "운트",
+            "stress": false
+          },
+          {
+            "text": "아이네",
+            "stress": false
+          },
+          {
+            "text": "에어메ː지궁",
+            "stress": true
+          }
+        ]
+      },
+      "usesWords": [
+        "word-06"
+      ],
+      "audio": {
+        "aiden": {
+          "normal": "/audio/2026-10-23/sentence-02-aiden.opus",
+          "slow": "/audio/2026-10-23/sentence-02-aiden-slow.opus"
+        },
+        "serena": {
+          "normal": "/audio/2026-10-23/sentence-02-serena.opus",
+          "slow": "/audio/2026-10-23/sentence-02-serena-slow.opus"
+        }
+      }
+    },
+    {
+      "id": "sentence-03",
+      "german": "Ist Fotografieren ohne Blitz erlaubt?",
+      "meaning": "플래시 없이 사진을 찍어도 되나요?",
+      "pronunciation": {
+        "ipa": "/ɪst fotoɡʁaˈfiːʁən ˈoːnə blɪts ɛɐ̯ˈlaʊ̯pt/",
+        "korean": [
+          {
+            "text": "이스트",
+            "stress": false
+          },
+          {
+            "text": "포토그라피ː렌",
+            "stress": true
+          },
+          {
+            "text": "오ː네",
+            "stress": false
+          },
+          {
+            "text": "블리츠",
+            "stress": true
+          },
+          {
+            "text": "에어라웁트",
+            "stress": true
+          }
+        ]
+      },
+      "usesWords": [
+        "word-09",
+        "word-08"
+      ],
+      "audio": {
+        "aiden": {
+          "normal": "/audio/2026-10-23/sentence-03-aiden.opus",
+          "slow": "/audio/2026-10-23/sentence-03-aiden-slow.opus"
+        },
+        "serena": {
+          "normal": "/audio/2026-10-23/sentence-03-serena.opus",
+          "slow": "/audio/2026-10-23/sentence-03-serena-slow.opus"
+        }
+      }
+    }
+  ],
+  "grammar": {
+    "id": "von-bis",
+    "title": "Wann öffnet …? / von … bis …",
+    "pattern": "Wann öffnet + 주어? / 주어 + ist von + 시작 시각 + bis + 종료 시각 + geöffnet.",
+    "meaning": "언제 문을 여나요? / ~시부터 ~시까지 열어요.",
+    "explanation": "문을 여는 시간을 물을 때는 Wann öffnet das Museum?이라고 합니다. wann은 '언제'이고, öffnet은 öffnen의 3인칭 단수형입니다. 운영 시간의 시작과 끝은 von … bis …(~부터 ~까지)로 말합니다. 예를 들어 von zehn bis siebzehn Uhr는 오전 10시부터 오후 5시까지라는 뜻입니다. ist … geöffnet는 '문이 열려 있다'라는 상태를 나타냅니다.",
+    "examples": [
+      {
+        "german": "Wann öffnet das Museum?",
+        "meaning": "박물관은 언제 문을 여나요?"
+      },
+      {
+        "german": "Das Museum ist von zehn bis siebzehn Uhr geöffnet.",
+        "meaning": "박물관은 오전 10시부터 오후 5시까지 열어요."
+      },
+      {
+        "german": "Wann schliesst das Museum?",
+        "meaning": "박물관은 언제 문을 닫나요?"
+      }
+    ],
+    "tip": "운영 시간의 숫자는 연습용 예시입니다. 실제 방문할 박물관의 Öffnungszeiten을 확인해 주세요."
+  }
+}

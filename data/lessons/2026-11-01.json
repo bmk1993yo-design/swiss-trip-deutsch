@@ -1,0 +1,481 @@
+{
+  "type": "lesson",
+  "schemaVersion": 1,
+  "date": "2026-11-01",
+  "day": 29,
+  "unlockAt": "2026-11-01T17:00:00+09:00",
+  "theme": {
+    "id": "winter-sports",
+    "title": "스키와 겨울 스포츠",
+    "emoji": "⛷️"
+  },
+  "approved": true,
+  "words": [
+    {
+      "id": "word-01",
+      "german": "der Skipass",
+      "meaning": "스키 리프트권",
+      "partOfSpeech": "noun",
+      "gender": "der",
+      "plural": "die Skipässe",
+      "pronunciation": {
+        "ipa": "/ˈskiːˌpas/",
+        "korean": [
+          {
+            "text": "스키",
+            "stress": true
+          },
+          {
+            "text": "파스",
+            "stress": false
+          }
+        ]
+      },
+      "isSwissExpression": true,
+      "swissNote": "스위스의 거대한 스키 리조트에서는 지역 통합 스키패스를 구매하면 다양한 리프트와 곤돌라를 편리하게 이용할 수 있습니다.",
+      "audio": {
+        "aiden": {
+          "normal": "/audio/2026-11-01/word-01-aiden.opus",
+          "slow": "/audio/2026-11-01/word-01-aiden-slow.opus"
+        },
+        "serena": {
+          "normal": "/audio/2026-11-01/word-01-serena.opus",
+          "slow": "/audio/2026-11-01/word-01-serena-slow.opus"
+        }
+      }
+    },
+    {
+      "id": "word-02",
+      "german": "die Piste",
+      "meaning": "스키 슬로프",
+      "partOfSpeech": "noun",
+      "gender": "die",
+      "plural": "die Pisten",
+      "pronunciation": {
+        "ipa": "/ˈpɪstə/",
+        "korean": [
+          {
+            "text": "피스",
+            "stress": true
+          },
+          {
+            "text": "테",
+            "stress": false
+          }
+        ]
+      },
+      "isSwissExpression": true,
+      "swissNote": "슬로프 난이도는 색상으로 구분됩니다. 파란색은 초급, 빨간색은 중급, 검은색은 상급 코스입니다.",
+      "audio": {
+        "aiden": {
+          "normal": "/audio/2026-11-01/word-02-aiden.opus",
+          "slow": "/audio/2026-11-01/word-02-aiden-slow.opus"
+        },
+        "serena": {
+          "normal": "/audio/2026-11-01/word-02-serena.opus",
+          "slow": "/audio/2026-11-01/word-02-serena-slow.opus"
+        }
+      }
+    },
+    {
+      "id": "word-03",
+      "german": "der Ski",
+      "meaning": "스키 (장비)",
+      "partOfSpeech": "noun",
+      "gender": "der",
+      "plural": "die Skier",
+      "pronunciation": {
+        "ipa": "/ˈskiː/",
+        "korean": [
+          {
+            "text": "스키",
+            "stress": true
+          }
+        ]
+      },
+      "isSwissExpression": false,
+      "audio": {
+        "aiden": {
+          "normal": "/audio/2026-11-01/word-03-aiden.opus",
+          "slow": "/audio/2026-11-01/word-03-aiden-slow.opus"
+        },
+        "serena": {
+          "normal": "/audio/2026-11-01/word-03-serena.opus",
+          "slow": "/audio/2026-11-01/word-03-serena-slow.opus"
+        }
+      }
+    },
+    {
+      "id": "word-04",
+      "german": "der Helm",
+      "meaning": "헬멧",
+      "partOfSpeech": "noun",
+      "gender": "der",
+      "plural": "die Helme",
+      "pronunciation": {
+        "ipa": "/hɛlm/",
+        "korean": [
+          {
+            "text": "헬름",
+            "stress": true
+          }
+        ]
+      },
+      "isSwissExpression": false,
+      "audio": {
+        "aiden": {
+          "normal": "/audio/2026-11-01/word-04-aiden.opus",
+          "slow": "/audio/2026-11-01/word-04-aiden-slow.opus"
+        },
+        "serena": {
+          "normal": "/audio/2026-11-01/word-04-serena.opus",
+          "slow": "/audio/2026-11-01/word-04-serena-slow.opus"
+        }
+      }
+    },
+    {
+      "id": "word-05",
+      "german": "die Skischuhe",
+      "meaning": "스키 부츠",
+      "partOfSpeech": "noun",
+      "gender": "die",
+      "plural": "die Skischuhe",
+      "pronunciation": {
+        "ipa": "/ˈskiːˌʃuːə/",
+        "korean": [
+          {
+            "text": "스키",
+            "stress": true
+          },
+          {
+            "text": "슈",
+            "stress": false
+          },
+          {
+            "text": "어",
+            "stress": false
+          }
+        ]
+      },
+      "isSwissExpression": false,
+      "audio": {
+        "aiden": {
+          "normal": "/audio/2026-11-01/word-05-aiden.opus",
+          "slow": "/audio/2026-11-01/word-05-aiden-slow.opus"
+        },
+        "serena": {
+          "normal": "/audio/2026-11-01/word-05-serena.opus",
+          "slow": "/audio/2026-11-01/word-05-serena-slow.opus"
+        }
+      }
+    },
+    {
+      "id": "word-06",
+      "german": "die Skischule",
+      "meaning": "스키 학교",
+      "partOfSpeech": "noun",
+      "gender": "die",
+      "plural": "die Skischulen",
+      "pronunciation": {
+        "ipa": "/ˈskiːˌʃuːlə/",
+        "korean": [
+          {
+            "text": "스키",
+            "stress": true
+          },
+          {
+            "text": "슐",
+            "stress": false
+          },
+          {
+            "text": "레",
+            "stress": false
+          }
+        ]
+      },
+      "isSwissExpression": false,
+      "audio": {
+        "aiden": {
+          "normal": "/audio/2026-11-01/word-06-aiden.opus",
+          "slow": "/audio/2026-11-01/word-06-aiden-slow.opus"
+        },
+        "serena": {
+          "normal": "/audio/2026-11-01/word-06-serena.opus",
+          "slow": "/audio/2026-11-01/word-06-serena-slow.opus"
+        }
+      }
+    },
+    {
+      "id": "word-07",
+      "german": "können",
+      "meaning": "~할 수 있다 (능력)",
+      "partOfSpeech": "verb",
+      "pronunciation": {
+        "ipa": "/ˈkœnən/",
+        "korean": [
+          {
+            "text": "외",
+            "stress": true
+          },
+          {
+            "text": "넨",
+            "stress": false
+          }
+        ]
+      },
+      "isSwissExpression": false,
+      "audio": {
+        "aiden": {
+          "normal": "/audio/2026-11-01/word-07-aiden.opus",
+          "slow": "/audio/2026-11-01/word-07-aiden-slow.opus"
+        },
+        "serena": {
+          "normal": "/audio/2026-11-01/word-07-serena.opus",
+          "slow": "/audio/2026-11-01/word-07-serena-slow.opus"
+        }
+      }
+    },
+    {
+      "id": "word-08",
+      "german": "leicht",
+      "meaning": "쉬운, 초급의",
+      "partOfSpeech": "adjective",
+      "pronunciation": {
+        "ipa": "/laɪ̯çt/",
+        "korean": [
+          {
+            "text": "라이히트",
+            "stress": true
+          }
+        ]
+      },
+      "isSwissExpression": false,
+      "audio": {
+        "aiden": {
+          "normal": "/audio/2026-11-01/word-08-aiden.opus",
+          "slow": "/audio/2026-11-01/word-08-aiden-slow.opus"
+        },
+        "serena": {
+          "normal": "/audio/2026-11-01/word-08-serena.opus",
+          "slow": "/audio/2026-11-01/word-08-serena-slow.opus"
+        }
+      }
+    },
+    {
+      "id": "word-09",
+      "german": "schwierig",
+      "meaning": "어려운, 상급의",
+      "partOfSpeech": "adjective",
+      "pronunciation": {
+        "ipa": "/ˈʃviːʁɪç/",
+        "korean": [
+          {
+            "text": "슈비",
+            "stress": true
+          },
+          {
+            "text": "리히",
+            "stress": false
+          }
+        ]
+      },
+      "isSwissExpression": false,
+      "audio": {
+        "aiden": {
+          "normal": "/audio/2026-11-01/word-09-aiden.opus",
+          "slow": "/audio/2026-11-01/word-09-aiden-slow.opus"
+        },
+        "serena": {
+          "normal": "/audio/2026-11-01/word-09-serena.opus",
+          "slow": "/audio/2026-11-01/word-09-serena-slow.opus"
+        }
+      }
+    },
+    {
+      "id": "word-10",
+      "german": "leihen",
+      "meaning": "대여하다, 빌리다",
+      "partOfSpeech": "verb",
+      "pronunciation": {
+        "ipa": "/ˈlaɪ̯ən/",
+        "korean": [
+          {
+            "text": "라이",
+            "stress": true
+          },
+          {
+            "text": "언",
+            "stress": false
+          }
+        ]
+      },
+      "isSwissExpression": false,
+      "audio": {
+        "aiden": {
+          "normal": "/audio/2026-11-01/word-10-aiden.opus",
+          "slow": "/audio/2026-11-01/word-10-aiden-slow.opus"
+        },
+        "serena": {
+          "normal": "/audio/2026-11-01/word-10-serena.opus",
+          "slow": "/audio/2026-11-01/word-10-serena-slow.opus"
+        }
+      }
+    }
+  ],
+  "sentences": [
+    {
+      "id": "sentence-01",
+      "german": "Ich kann nicht Ski fahren.",
+      "meaning": "저는 스기를 탈 줄 몰라요.",
+      "pronunciation": {
+        "ipa": "/ɪç kan nɪçt ˈskiː ˈfaːʁən/",
+        "korean": [
+          {
+            "text": "이히",
+            "stress": false
+          },
+          {
+            "text": "칸",
+            "stress": true
+          },
+          {
+            "text": "니히트",
+            "stress": false
+          },
+          {
+            "text": "스키",
+            "stress": true
+          },
+          {
+            "text": "파렌",
+            "stress": false
+          }
+        ]
+      },
+      "usesWords": [
+        "word-03",
+        "word-07"
+      ],
+      "audio": {
+        "aiden": {
+          "normal": "/audio/2026-11-01/sentence-01-aiden.opus",
+          "slow": "/audio/2026-11-01/sentence-01-aiden-slow.opus"
+        },
+        "serena": {
+          "normal": "/audio/2026-11-01/sentence-01-serena.opus",
+          "slow": "/audio/2026-11-01/sentence-01-serena-slow.opus"
+        }
+      }
+    },
+    {
+      "id": "sentence-02",
+      "german": "Wo kann ich einen Skipass kaufen?",
+      "meaning": "스키패스는 어디서 살 수 있나요?",
+      "pronunciation": {
+        "ipa": "/voː kan ɪç ˈaɪ̯nən ˈskiːˌpas ˈkaʊ̯fən/",
+        "korean": [
+          {
+            "text": "보ː",
+            "stress": false
+          },
+          {
+            "text": "칸",
+            "stress": true
+          },
+          {
+            "text": "이히",
+            "stress": false
+          },
+          {
+            "text": "아이넨",
+            "stress": false
+          },
+          {
+            "text": "스키파스",
+            "stress": true
+          },
+          {
+            "text": "카우펜",
+            "stress": false
+          }
+        ]
+      },
+      "usesWords": [
+        "word-01",
+        "word-07"
+      ],
+      "audio": {
+        "aiden": {
+          "normal": "/audio/2026-11-01/sentence-02-aiden.opus",
+          "slow": "/audio/2026-11-01/sentence-02-aiden-slow.opus"
+        },
+        "serena": {
+          "normal": "/audio/2026-11-01/sentence-02-serena.opus",
+          "slow": "/audio/2026-11-01/sentence-02-serena-slow.opus"
+        }
+      }
+    },
+    {
+      "id": "sentence-03",
+      "german": "Diese Piste ist sehr schwierig.",
+      "meaning": "이 슬로프는 아주 어려워요.",
+      "pronunciation": {
+        "ipa": "/ˈdiːzə ˈpɪstə ɪst zeːɐ̯ ˈʃviːʁɪç/",
+        "korean": [
+          {
+            "text": "디제",
+            "stress": false
+          },
+          {
+            "text": "피스테",
+            "stress": true
+          },
+          {
+            "text": "이스트",
+            "stress": false
+          },
+          {
+            "text": "제어",
+            "stress": false
+          },
+          {
+            "text": "슈비리히",
+            "stress": true
+          }
+        ]
+      },
+      "usesWords": [
+        "word-02",
+        "word-09"
+      ],
+      "audio": {
+        "aiden": {
+          "normal": "/audio/2026-11-01/sentence-03-aiden.opus",
+          "slow": "/audio/2026-11-01/sentence-03-aiden-slow.opus"
+        },
+        "serena": {
+          "normal": "/audio/2026-11-01/sentence-03-serena.opus",
+          "slow": "/audio/2026-11-01/sentence-03-serena-slow.opus"
+        }
+      }
+    }
+  ],
+  "grammar": {
+    "id": "koennen-faehigkeit",
+    "title": "können(능력): Ich kann (nicht) Ski fahren.",
+    "pattern": "주어 + können(변형) + … + 동사원형",
+    "meaning": "“~할 수 있다 / ~할 줄 안다”",
+    "explanation": "조동사 können은 능력이나 가능성을 나타낼 때 씁니다. 주어에 따라 형태가 변하며, 문장 맨 끝에는 기본형(동사원형)이 옵니다. 부정할 때는 'nicht'를 붙입니다.",
+    "examples": [
+      {
+        "german": "Ich kann gut Ski fahren.",
+        "meaning": "저는 스기를 잘 탈 수 있어요."
+      },
+      {
+        "german": "Kannst du mir helfen?",
+        "meaning": "저를 도와줄 수 있나요?"
+      }
+    ],
+    "tip": "주어가 'ich'(나)일 때는 'kann', 'du'(너)일 때는 'kannst'가 됩니다."
+  }
+}

@@ -1,0 +1,479 @@
+{
+  "type": "lesson",
+  "schemaVersion": 1,
+  "date": "2026-10-28",
+  "day": 25,
+  "unlockAt": "2026-10-28T17:00:00+09:00",
+  "theme": {
+    "id": "chocolate-cheese",
+    "title": "초콜릿과 치즈",
+    "emoji": "🧀"
+  },
+  "approved": true,
+  "words": [
+    {
+      "id": "word-01",
+      "german": "das Fondue",
+      "meaning": "퐁뒤",
+      "partOfSpeech": "noun",
+      "gender": "das",
+      "plural": "die Fondues",
+      "pronunciation": {
+        "ipa": "/fɔ̃ˈdyː/",
+        "korean": [
+          {
+            "text": "폰",
+            "stress": false
+          },
+          {
+            "text": "뒤ː",
+            "stress": true
+          }
+        ]
+      },
+      "isSwissExpression": true,
+      "swissNote": "녹인 치즈에 빵 조각을 적셔 먹는 스위스의 대표적인 전통 치즈 요리입니다.",
+      "audio": {
+        "aiden": {
+          "normal": "/audio/2026-10-28/word-01-aiden.opus",
+          "slow": "/audio/2026-10-28/word-01-aiden-slow.opus"
+        },
+        "serena": {
+          "normal": "/audio/2026-10-28/word-01-serena.opus",
+          "slow": "/audio/2026-10-28/word-01-serena-slow.opus"
+        }
+      }
+    },
+    {
+      "id": "word-02",
+      "german": "das Raclette",
+      "meaning": "라클렛",
+      "partOfSpeech": "noun",
+      "gender": "das",
+      "plural": "die Raclettes",
+      "pronunciation": {
+        "ipa": "/raˈklɛt/",
+        "korean": [
+          {
+            "text": "라",
+            "stress": false
+          },
+          {
+            "text": "클렛",
+            "stress": true
+          }
+        ]
+      },
+      "isSwissExpression": true,
+      "swissNote": "녹인 치즈를 감자나 피클 위에 긁어 얹어 먹는 인기 스위스 요리입니다.",
+      "audio": {
+        "aiden": {
+          "normal": "/audio/2026-10-28/word-02-aiden.opus",
+          "slow": "/audio/2026-10-28/word-02-aiden-slow.opus"
+        },
+        "serena": {
+          "normal": "/audio/2026-10-28/word-02-serena.opus",
+          "slow": "/audio/2026-10-28/word-02-serena-slow.opus"
+        }
+      }
+    },
+    {
+      "id": "word-03",
+      "german": "die Schokolade",
+      "meaning": "초콜릿",
+      "partOfSpeech": "noun",
+      "gender": "die",
+      "plural": "die Schokoladen",
+      "pronunciation": {
+        "ipa": "/ʃokoˈlaːdə/",
+        "korean": [
+          {
+            "text": "쇼",
+            "stress": false
+          },
+          {
+            "text": "코",
+            "stress": false
+          },
+          {
+            "text": "라ː",
+            "stress": true
+          },
+          {
+            "text": "데",
+            "stress": false
+          }
+        ]
+      },
+      "isSwissExpression": false,
+      "swissNote": "스위스는 1인당 초콜릿 소비량이 세계 최고 수준인 초콜릿 강국입니다.",
+      "audio": {
+        "aiden": {
+          "normal": "/audio/2026-10-28/word-03-aiden.opus",
+          "slow": "/audio/2026-10-28/word-03-aiden-slow.opus"
+        },
+        "serena": {
+          "normal": "/audio/2026-10-28/word-03-serena.opus",
+          "slow": "/audio/2026-10-28/word-03-serena-slow.opus"
+        }
+      }
+    },
+    {
+      "id": "word-04",
+      "german": "die Sorte",
+      "meaning": "종류, 품종",
+      "partOfSpeech": "noun",
+      "gender": "die",
+      "plural": "die Sorten",
+      "pronunciation": {
+        "ipa": "/ˈzɔʁtə/",
+        "korean": [
+          {
+            "text": "조르",
+            "stress": true
+          },
+          {
+            "text": "테",
+            "stress": false
+          }
+        ]
+      },
+      "isSwissExpression": false,
+      "audio": {
+        "aiden": {
+          "normal": "/audio/2026-10-28/word-04-aiden.opus",
+          "slow": "/audio/2026-10-28/word-04-aiden-slow.opus"
+        },
+        "serena": {
+          "normal": "/audio/2026-10-28/word-04-serena.opus",
+          "slow": "/audio/2026-10-28/word-04-serena-slow.opus"
+        }
+      }
+    },
+    {
+      "id": "word-05",
+      "german": "süss",
+      "meaning": "달콤한",
+      "partOfSpeech": "adjective",
+      "pronunciation": {
+        "ipa": "/zyːs/",
+        "korean": [
+          {
+            "text": "쥐ː스",
+            "stress": true
+          }
+        ]
+      },
+      "isSwissExpression": false,
+      "audio": {
+        "aiden": {
+          "normal": "/audio/2026-10-28/word-05-aiden.opus",
+          "slow": "/audio/2026-10-28/word-05-aiden-slow.opus"
+        },
+        "serena": {
+          "normal": "/audio/2026-10-28/word-05-serena.opus",
+          "slow": "/audio/2026-10-28/word-05-serena-slow.opus"
+        }
+      }
+    },
+    {
+      "id": "word-06",
+      "german": "würzig",
+      "meaning": "풍미가 강한, 짭짤하고 고소한",
+      "partOfSpeech": "adjective",
+      "pronunciation": {
+        "ipa": "/ˈvʏʁtsɪç/",
+        "korean": [
+          {
+            "text": "뷔르",
+            "stress": true
+          },
+          {
+            "text": "치히",
+            "stress": false
+          }
+        ]
+      },
+      "isSwissExpression": false,
+      "audio": {
+        "aiden": {
+          "normal": "/audio/2026-10-28/word-06-aiden.opus",
+          "slow": "/audio/2026-10-28/word-06-aiden-slow.opus"
+        },
+        "serena": {
+          "normal": "/audio/2026-10-28/word-06-serena.opus",
+          "slow": "/audio/2026-10-28/word-06-serena-slow.opus"
+        }
+      }
+    },
+    {
+      "id": "word-07",
+      "german": "probieren",
+      "meaning": "맛보다, 시식하다",
+      "partOfSpeech": "verb",
+      "pronunciation": {
+        "ipa": "/pʁoˈbiːʁən/",
+        "korean": [
+          {
+            "text": "프로",
+            "stress": false
+          },
+          {
+            "text": "비ː",
+            "stress": true
+          },
+          {
+            "text": "런",
+            "stress": false
+          }
+        ]
+      },
+      "isSwissExpression": false,
+      "audio": {
+        "aiden": {
+          "normal": "/audio/2026-10-28/word-07-aiden.opus",
+          "slow": "/audio/2026-10-28/word-07-aiden-slow.opus"
+        },
+        "serena": {
+          "normal": "/audio/2026-10-28/word-07-serena.opus",
+          "slow": "/audio/2026-10-28/word-07-serena-slow.opus"
+        }
+      }
+    },
+    {
+      "id": "word-08",
+      "german": "schmecken",
+      "meaning": "맛이 나다, 입에 맞다",
+      "partOfSpeech": "verb",
+      "pronunciation": {
+        "ipa": "/ˈʃmɛkn̩/",
+        "korean": [
+          {
+            "text": "슈멕",
+            "stress": true
+          },
+          {
+            "text": "켄",
+            "stress": false
+          }
+        ]
+      },
+      "isSwissExpression": false,
+      "audio": {
+        "aiden": {
+          "normal": "/audio/2026-10-28/word-08-aiden.opus",
+          "slow": "/audio/2026-10-28/word-08-aiden-slow.opus"
+        },
+        "serena": {
+          "normal": "/audio/2026-10-28/word-08-serena.opus",
+          "slow": "/audio/2026-10-28/word-08-serena-slow.opus"
+        }
+      }
+    },
+    {
+      "id": "word-09",
+      "german": "mögen",
+      "meaning": "좋아하다",
+      "partOfSpeech": "verb",
+      "pronunciation": {
+        "ipa": "/ˈmøːɡn̩/",
+        "korean": [
+          {
+            "text": "뫼ː",
+            "stress": true
+          },
+          {
+            "text": "겐",
+            "stress": false
+          }
+        ]
+      },
+      "isSwissExpression": false,
+      "audio": {
+        "aiden": {
+          "normal": "/audio/2026-10-28/word-09-aiden.opus",
+          "slow": "/audio/2026-10-28/word-09-aiden-slow.opus"
+        },
+        "serena": {
+          "normal": "/audio/2026-10-28/word-09-serena.opus",
+          "slow": "/audio/2026-10-28/word-09-serena-slow.opus"
+        }
+      }
+    },
+    {
+      "id": "word-10",
+      "german": "gern",
+      "meaning": "즐겨, 기꺼이",
+      "partOfSpeech": "adverb",
+      "pronunciation": {
+        "ipa": "/ɡɛʁn/",
+        "korean": [
+          {
+            "text": "게른",
+            "stress": true
+          }
+        ]
+      },
+      "isSwissExpression": false,
+      "audio": {
+        "aiden": {
+          "normal": "/audio/2026-10-28/word-10-aiden.opus",
+          "slow": "/audio/2026-10-28/word-10-aiden-slow.opus"
+        },
+        "serena": {
+          "normal": "/audio/2026-10-28/word-10-serena.opus",
+          "slow": "/audio/2026-10-28/word-10-serena-slow.opus"
+        }
+      }
+    }
+  ],
+  "sentences": [
+    {
+      "id": "sentence-01",
+      "german": "Ich esse gern Schokolade.",
+      "meaning": "저는 초콜릿을 즐겨 먹어요.",
+      "pronunciation": {
+        "ipa": "/ɪç ˈɛsə ɡɛʁn ʃokoˈlaːdə/",
+        "korean": [
+          {
+            "text": "이히",
+            "stress": false
+          },
+          {
+            "text": "에세",
+            "stress": true
+          },
+          {
+            "text": "게른",
+            "stress": false
+          },
+          {
+            "text": "쇼콜라ː데",
+            "stress": true
+          }
+        ]
+      },
+      "usesWords": [
+        "word-03",
+        "word-10"
+      ],
+      "audio": {
+        "aiden": {
+          "normal": "/audio/2026-10-28/sentence-01-aiden.opus",
+          "slow": "/audio/2026-10-28/sentence-01-aiden-slow.opus"
+        },
+        "serena": {
+          "normal": "/audio/2026-10-28/sentence-01-serena.opus",
+          "slow": "/audio/2026-10-28/sentence-01-serena-slow.opus"
+        }
+      }
+    },
+    {
+      "id": "sentence-02",
+      "german": "Kann ich das Fondue probieren?",
+      "meaning": "퐁뒤를 시식해 볼 수 있나요?",
+      "pronunciation": {
+        "ipa": "/kan ɪç das fɔ̃ˈdyː pʁoˈbiːʁən/",
+        "korean": [
+          {
+            "text": "칸",
+            "stress": true
+          },
+          {
+            "text": "이히",
+            "stress": false
+          },
+          {
+            "text": "다스",
+            "stress": false
+          },
+          {
+            "text": "폰뒤ː",
+            "stress": true
+          },
+          {
+            "text": "프로비ː런",
+            "stress": true
+          }
+        ]
+      },
+      "usesWords": [
+        "word-01",
+        "word-07"
+      ],
+      "swissNote": "치즈 상점이나 상점에서 시식을 원할 때 정중하게 물어볼 수 있는 표현입니다.",
+      "audio": {
+        "aiden": {
+          "normal": "/audio/2026-10-28/sentence-02-aiden.opus",
+          "slow": "/audio/2026-10-28/sentence-02-aiden-slow.opus"
+        },
+        "serena": {
+          "normal": "/audio/2026-10-28/sentence-02-serena.opus",
+          "slow": "/audio/2026-10-28/sentence-02-serena-slow.opus"
+        }
+      }
+    },
+    {
+      "id": "sentence-03",
+      "german": "Das Raclette schmeckt sehr gut.",
+      "meaning": "라클렛 맛이 정말 좋아요.",
+      "pronunciation": {
+        "ipa": "/das raˈklɛt ʃmɛkt zeːɐ̯ ɡuːt/",
+        "korean": [
+          {
+            "text": "다스",
+            "stress": false
+          },
+          {
+            "text": "라클렛",
+            "stress": true
+          },
+          {
+            "text": "슈멕트",
+            "stress": true
+          },
+          {
+            "text": "제어",
+            "stress": false
+          },
+          {
+            "text": "구ː트",
+            "stress": true
+          }
+        ]
+      },
+      "usesWords": [
+        "word-02",
+        "word-08"
+      ],
+      "audio": {
+        "aiden": {
+          "normal": "/audio/2026-10-28/sentence-03-aiden.opus",
+          "slow": "/audio/2026-10-28/sentence-03-aiden-slow.opus"
+        },
+        "serena": {
+          "normal": "/audio/2026-10-28/sentence-03-serena.opus",
+          "slow": "/audio/2026-10-28/sentence-03-serena-slow.opus"
+        }
+      }
+    }
+  ],
+  "grammar": {
+    "id": "gern",
+    "title": "gern: Ich esse gern Käse. / Ich mag …",
+    "pattern": "동사 + gern / mag + 명사",
+    "meaning": "“~하는 것을 좋아해요 / ~을 좋아해요”",
+    "explanation": "독일어에서 어떤 행동을 즐겨 하거나 좋아한다고 표현할 때는 동사 뒤에 'gern'을 붙입니다. 예를 들어 'essen gern'은 '즐겨 먹다'라는 의미가 됩니다. 또한 명사 자체를 좋아하는 경우에는 'mögen' 동사(1인칭 Ich mag)를 써서 직접 선호를 나타낼 수도 있습니다.",
+    "examples": [
+      {
+        "german": "Ich esse gern Schokolade.",
+        "meaning": "저는 초콜릿을 즐겨 먹어요."
+      },
+      {
+        "german": "Ich mag Raclette.",
+        "meaning": "저는 라클렛을 좋아해요."
+      }
+    ],
+    "tip": "식당이나 가게에서 선호를 밝히거나 시식을 청할 때 매우 유용하게 쓰입니다."
+  }
+}

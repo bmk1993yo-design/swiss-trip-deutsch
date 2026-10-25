@@ -1,0 +1,530 @@
+{
+  "type": "lesson",
+  "schemaVersion": 1,
+  "date": "2026-10-21",
+  "day": 18,
+  "unlockAt": "2026-10-21T17:00:00+09:00",
+  "theme": {
+    "id": "pharmacy",
+    "title": "약국",
+    "emoji": "💊"
+  },
+  "approved": true,
+  "words": [
+    {
+      "id": "word-01",
+      "german": "die Apotheke",
+      "meaning": "약국",
+      "partOfSpeech": "noun",
+      "gender": "die",
+      "plural": "die Apotheken",
+      "pronunciation": {
+        "ipa": "/apoˈteːkə/",
+        "korean": [
+          {
+            "text": "아",
+            "stress": false
+          },
+          {
+            "text": "포",
+            "stress": false
+          },
+          {
+            "text": "테ː",
+            "stress": true
+          },
+          {
+            "text": "케",
+            "stress": false
+          }
+        ]
+      },
+      "isSwissExpression": false,
+      "swissNote": "스위스 약국 표지판에는 녹색 십자가 마크와 함께 'Apotheke' 또는 프랑스어 'Pharmacie'가 적혀 있습니다.",
+      "audio": {
+        "aiden": {
+          "normal": "/audio/2026-10-21/word-01-aiden.opus",
+          "slow": "/audio/2026-10-21/word-01-aiden-slow.opus"
+        },
+        "serena": {
+          "normal": "/audio/2026-10-21/word-01-serena.opus",
+          "slow": "/audio/2026-10-21/word-01-serena-slow.opus"
+        }
+      }
+    },
+    {
+      "id": "word-02",
+      "german": "die Drogerie",
+      "meaning": "드라구리 (건강·생필품 전문점)",
+      "partOfSpeech": "noun",
+      "gender": "die",
+      "plural": "die Drogerien",
+      "pronunciation": {
+        "ipa": "/droɡəˈʁiː/",
+        "korean": [
+          {
+            "text": "드로",
+            "stress": false
+          },
+          {
+            "text": "게",
+            "stress": false
+          },
+          {
+            "text": "리ː",
+            "stress": true
+          }
+        ]
+      },
+      "isSwissExpression": true,
+      "swissNote": "스위스의 Drogerie는 처방약 대신 비타민, 천연 상비약, 화장품, 차 등을 판매하는 매장입니다. 일반 약을 사려면 Apotheke로 가야 합니다.",
+      "audio": {
+        "aiden": {
+          "normal": "/audio/2026-10-21/word-02-aiden.opus",
+          "slow": "/audio/2026-10-21/word-02-aiden-slow.opus"
+        },
+        "serena": {
+          "normal": "/audio/2026-10-21/word-02-serena.opus",
+          "slow": "/audio/2026-10-21/word-02-serena-slow.opus"
+        }
+      }
+    },
+    {
+      "id": "word-03",
+      "german": "das Medikament",
+      "meaning": "약, 의약품",
+      "partOfSpeech": "noun",
+      "gender": "das",
+      "plural": "die Medikamente",
+      "pronunciation": {
+        "ipa": "/medikaˈmɛnt/",
+        "korean": [
+          {
+            "text": "메",
+            "stress": false
+          },
+          {
+            "text": "디",
+            "stress": false
+          },
+          {
+            "text": "카",
+            "stress": false
+          },
+          {
+            "text": "멘트",
+            "stress": true
+          }
+        ]
+      },
+      "isSwissExpression": false,
+      "audio": {
+        "aiden": {
+          "normal": "/audio/2026-10-21/word-03-aiden.opus",
+          "slow": "/audio/2026-10-21/word-03-aiden-slow.opus"
+        },
+        "serena": {
+          "normal": "/audio/2026-10-21/word-03-serena.opus",
+          "slow": "/audio/2026-10-21/word-03-serena-slow.opus"
+        }
+      }
+    },
+    {
+      "id": "word-04",
+      "german": "der Kopfschmerz",
+      "meaning": "두통",
+      "partOfSpeech": "noun",
+      "gender": "der",
+      "plural": "die Kopfschmerzen",
+      "pronunciation": {
+        "ipa": "/ˈkɔp͡fˌʃmɛʁt͡s/",
+        "korean": [
+          {
+            "text": "콥프",
+            "stress": true
+          },
+          {
+            "text": "슈메르츠",
+            "stress": false
+          }
+        ]
+      },
+      "isSwissExpression": false,
+      "audio": {
+        "aiden": {
+          "normal": "/audio/2026-10-21/word-04-aiden.opus",
+          "slow": "/audio/2026-10-21/word-04-aiden-slow.opus"
+        },
+        "serena": {
+          "normal": "/audio/2026-10-21/word-04-serena.opus",
+          "slow": "/audio/2026-10-21/word-04-serena-slow.opus"
+        }
+      }
+    },
+    {
+      "id": "word-05",
+      "german": "das Fieber",
+      "meaning": "열",
+      "partOfSpeech": "noun",
+      "gender": "das",
+      "plural": null,
+      "pronunciation": {
+        "ipa": "/ˈfiːbɐ/",
+        "korean": [
+          {
+            "text": "피ː",
+            "stress": true
+          },
+          {
+            "text": "버",
+            "stress": false
+          }
+        ]
+      },
+      "isSwissExpression": false,
+      "audio": {
+        "aiden": {
+          "normal": "/audio/2026-10-21/word-05-aiden.opus",
+          "slow": "/audio/2026-10-21/word-05-aiden-slow.opus"
+        },
+        "serena": {
+          "normal": "/audio/2026-10-21/word-05-serena.opus",
+          "slow": "/audio/2026-10-21/word-05-serena-slow.opus"
+        }
+      }
+    },
+    {
+      "id": "word-06",
+      "german": "der Husten",
+      "meaning": "기침",
+      "partOfSpeech": "noun",
+      "gender": "der",
+      "plural": null,
+      "pronunciation": {
+        "ipa": "/ˈhuːstn̩/",
+        "korean": [
+          {
+            "text": "후ː",
+            "stress": true
+          },
+          {
+            "text": "스텐",
+            "stress": false
+          }
+        ]
+      },
+      "isSwissExpression": false,
+      "audio": {
+        "aiden": {
+          "normal": "/audio/2026-10-21/word-06-aiden.opus",
+          "slow": "/audio/2026-10-21/word-06-aiden-slow.opus"
+        },
+        "serena": {
+          "normal": "/audio/2026-10-21/word-06-serena.opus",
+          "slow": "/audio/2026-10-21/word-06-serena-slow.opus"
+        }
+      }
+    },
+    {
+      "id": "word-07",
+      "german": "schlecht",
+      "meaning": "안 좋은, 메스꺼운",
+      "partOfSpeech": "adjective",
+      "pronunciation": {
+        "ipa": "/ʃlɛçt/",
+        "korean": [
+          {
+            "text": "슈레히트",
+            "stress": true
+          }
+        ]
+      },
+      "isSwissExpression": false,
+      "audio": {
+        "aiden": {
+          "normal": "/audio/2026-10-21/word-07-aiden.opus",
+          "slow": "/audio/2026-10-21/word-07-aiden-slow.opus"
+        },
+        "serena": {
+          "normal": "/audio/2026-10-21/word-07-serena.opus",
+          "slow": "/audio/2026-10-21/word-07-serena-slow.opus"
+        }
+      }
+    },
+    {
+      "id": "word-08",
+      "german": "rezeptfrei",
+      "meaning": "처방전이 필요 없는",
+      "partOfSpeech": "adjective",
+      "pronunciation": {
+        "ipa": "/ʁeˈt͡spɛtfʁaɪ̯/",
+        "korean": [
+          {
+            "text": "레",
+            "stress": false
+          },
+          {
+            "text": "쳅트",
+            "stress": false
+          },
+          {
+            "text": "프라이",
+            "stress": true
+          }
+        ]
+      },
+      "isSwissExpression": false,
+      "audio": {
+        "aiden": {
+          "normal": "/audio/2026-10-21/word-08-aiden.opus",
+          "slow": "/audio/2026-10-21/word-08-aiden-slow.opus"
+        },
+        "serena": {
+          "normal": "/audio/2026-10-21/word-08-serena.opus",
+          "slow": "/audio/2026-10-21/word-08-serena-slow.opus"
+        }
+      }
+    },
+    {
+      "id": "word-09",
+      "german": "gegen",
+      "meaning": "~에 대한, ~용 (약 등)",
+      "partOfSpeech": "preposition",
+      "pronunciation": {
+        "ipa": "/ˈɡeːɡn̩/",
+        "korean": [
+          {
+            "text": "게ː",
+            "stress": true
+          },
+          {
+            "text": "겐",
+            "stress": false
+          }
+        ]
+      },
+      "isSwissExpression": false,
+      "audio": {
+        "aiden": {
+          "normal": "/audio/2026-10-21/word-09-aiden.opus",
+          "slow": "/audio/2026-10-21/word-09-aiden-slow.opus"
+        },
+        "serena": {
+          "normal": "/audio/2026-10-21/word-09-serena.opus",
+          "slow": "/audio/2026-10-21/word-09-serena-slow.opus"
+        }
+      }
+    },
+    {
+      "id": "word-10",
+      "german": "der Schmerz",
+      "meaning": "통증, 아픔",
+      "partOfSpeech": "noun",
+      "gender": "der",
+      "plural": "die Schmerzen",
+      "pronunciation": {
+        "ipa": "/ʃmɛʁt͡s/",
+        "korean": [
+          {
+            "text": "슈메르츠",
+            "stress": true
+          }
+        ]
+      },
+      "isSwissExpression": false,
+      "audio": {
+        "aiden": {
+          "normal": "/audio/2026-10-21/word-10-aiden.opus",
+          "slow": "/audio/2026-10-21/word-10-aiden-slow.opus"
+        },
+        "serena": {
+          "normal": "/audio/2026-10-21/word-10-serena.opus",
+          "slow": "/audio/2026-10-21/word-10-serena-slow.opus"
+        }
+      }
+    }
+  ],
+  "sentences": [
+    {
+      "id": "sentence-01",
+      "german": "Ich habe Kopfschmerzen und Fieber.",
+      "meaning": "저는 두통과 열이 있어요.",
+      "pronunciation": {
+        "ipa": "/ɪç ˈhaːbə ˈkɔp͡fˌʃmɛʁt͡sn̩ ʊnt ˈfiːbɐ/",
+        "korean": [
+          {
+            "text": "이히",
+            "stress": false
+          },
+          {
+            "text": "하ː베",
+            "stress": false
+          },
+          {
+            "text": "콥프슈메르첸",
+            "stress": true
+          },
+          {
+            "text": "운트",
+            "stress": false
+          },
+          {
+            "text": "피ː버",
+            "stress": true
+          }
+        ]
+      },
+      "usesWords": [
+        "word-04",
+        "word-05"
+      ],
+      "audio": {
+        "aiden": {
+          "normal": "/audio/2026-10-21/sentence-01-aiden.opus",
+          "slow": "/audio/2026-10-21/sentence-01-aiden-slow.opus"
+        },
+        "serena": {
+          "normal": "/audio/2026-10-21/sentence-01-serena.opus",
+          "slow": "/audio/2026-10-21/sentence-01-serena-slow.opus"
+        }
+      }
+    },
+    {
+      "id": "sentence-02",
+      "german": "Mir ist schlecht. Haben Sie ein Medikament gegen Husten?",
+      "meaning": "속이 안 좋아요. 기침 약이 있나요?",
+      "pronunciation": {
+        "ipa": "/miːɐ̯ ɪst ʃlɛçt ˈhaːbn̩ ziː aɪ̯n medikaˈmɛnt ˈɡeːɡn̩ ˈhuːstn̩/",
+        "korean": [
+          {
+            "text": "미어",
+            "stress": false
+          },
+          {
+            "text": "이스트",
+            "stress": false
+          },
+          {
+            "text": "슈레히트",
+            "stress": true
+          },
+          {
+            "text": "하ː벤",
+            "stress": false
+          },
+          {
+            "text": "지ː",
+            "stress": false
+          },
+          {
+            "text": "아인",
+            "stress": false
+          },
+          {
+            "text": "메디카멘트",
+            "stress": true
+          },
+          {
+            "text": "게ː겐",
+            "stress": false
+          },
+          {
+            "text": "후ː스텐",
+            "stress": true
+          }
+        ]
+      },
+      "usesWords": [
+        "word-03",
+        "word-06",
+        "word-07",
+        "word-09"
+      ],
+      "audio": {
+        "aiden": {
+          "normal": "/audio/2026-10-21/sentence-02-aiden.opus",
+          "slow": "/audio/2026-10-21/sentence-02-aiden-slow.opus"
+        },
+        "serena": {
+          "normal": "/audio/2026-10-21/sentence-02-serena.opus",
+          "slow": "/audio/2026-10-21/sentence-02-serena-slow.opus"
+        }
+      }
+    },
+    {
+      "id": "sentence-03",
+      "german": "Ist das Medikament in der Apotheke rezeptfrei?",
+      "meaning": "이 약은 약국에서 처방전 없이 살 수 있나요?",
+      "pronunciation": {
+        "ipa": "/ɪst das medikaˈmɛnt ɪn deːɐ̯ apoˈteːkə ʁeˈt͡spɛtfʁaɪ̯/",
+        "korean": [
+          {
+            "text": "이스트",
+            "stress": false
+          },
+          {
+            "text": "다스",
+            "stress": false
+          },
+          {
+            "text": "메디카멘트",
+            "stress": false
+          },
+          {
+            "text": "인",
+            "stress": false
+          },
+          {
+            "text": "데어",
+            "stress": false
+          },
+          {
+            "text": "아포테ː케",
+            "stress": false
+          },
+          {
+            "text": "레쳅트프라이",
+            "stress": true
+          }
+        ]
+      },
+      "usesWords": [
+        "word-01",
+        "word-03",
+        "word-08"
+      ],
+      "audio": {
+        "aiden": {
+          "normal": "/audio/2026-10-21/sentence-03-aiden.opus",
+          "slow": "/audio/2026-10-21/sentence-03-aiden-slow.opus"
+        },
+        "serena": {
+          "normal": "/audio/2026-10-21/sentence-03-serena.opus",
+          "slow": "/audio/2026-10-21/sentence-03-serena-slow.opus"
+        }
+      }
+    }
+  ],
+  "grammar": {
+    "id": "ich-habe-schmerzen",
+    "title": "Ich habe Kopfschmerzen. / Mir ist schlecht.",
+    "pattern": "Ich habe + 증상 명사 / Mir ist + 상태",
+    "meaning": "“~이/가 아파요. / 속이 안 좋아요.”",
+    "explanation": "독일어로 신체적 증상을 말할 때 자주 쓰이는 두 가지 기본 표현입니다.\n1. 'Ich habe + 증상' 구문은 특정 부위의 통증이나 증상을 말할 때 씁니다. (예: Kopfschmerzen 두통, Fieber 열, Husten 기침)\n2. 'Mir ist + 상태' 구문은 전반적인 몸 상태나 기분을 나타냅니다. 'Mir ist schlecht'는 속이 안 좋거나 메스꺼울 때 사용하는 대표적인 표현입니다.",
+    "examples": [
+      {
+        "german": "Ich habe Kopfschmerzen.",
+        "meaning": "저는 두통이 있어요."
+      },
+      {
+        "german": "Mir ist schlecht.",
+        "meaning": "저는 속이 안 좋아요."
+      },
+      {
+        "german": "Ich habe Fieber.",
+        "meaning": "저는 열이 있어요."
+      }
+    ],
+    "tip": "스위스 약국(Apotheke)에서 약사에게 'Ich habe...' 또는 'Mir ist...'로 증상을 말하면 적절한 상비약을 추천받을 수 있습니다."
+  }
+}

@@ -1,0 +1,491 @@
+{
+  "type": "lesson",
+  "schemaVersion": 1,
+  "date": "2026-10-22",
+  "day": 19,
+  "unlockAt": "2026-10-22T17:00:00+09:00",
+  "theme": {
+    "id": "emergency",
+    "title": "응급 상황",
+    "emoji": "🚑"
+  },
+  "approved": true,
+  "words": [
+    {
+      "id": "word-01",
+      "german": "das Spital",
+      "meaning": "병원",
+      "partOfSpeech": "noun",
+      "gender": "das",
+      "plural": "die Spitäler",
+      "pronunciation": {
+        "ipa": "/ʃpiˈtaːl/",
+        "korean": [
+          {
+            "text": "슈피",
+            "stress": false
+          },
+          {
+            "text": "탈",
+            "stress": true
+          }
+        ]
+      },
+      "isSwissExpression": true,
+      "swissNote": "독일에서는 주로 'das Krankenhaus' 또는 'die Klinik'을 쓰지만, 스위스에서는 'das Spital'을 표준어로 일상적으로 씁니다.",
+      "audio": {
+        "aiden": {
+          "normal": "/audio/2026-10-22/word-01-aiden.opus",
+          "slow": "/audio/2026-10-22/word-01-aiden-slow.opus"
+        },
+        "serena": {
+          "normal": "/audio/2026-10-22/word-01-serena.opus",
+          "slow": "/audio/2026-10-22/word-01-serena-slow.opus"
+        }
+      }
+    },
+    {
+      "id": "word-02",
+      "german": "die Polizei",
+      "meaning": "경찰",
+      "partOfSpeech": "noun",
+      "gender": "die",
+      "plural": null,
+      "pronunciation": {
+        "ipa": "/poliˈt͡saɪ̯/",
+        "korean": [
+          {
+            "text": "폴리",
+            "stress": false
+          },
+          {
+            "text": "차이",
+            "stress": true
+          }
+        ]
+      },
+      "isSwissExpression": false,
+      "swissNote": "스위스의 긴급 경찰 전화번호는 117번입니다.",
+      "audio": {
+        "aiden": {
+          "normal": "/audio/2026-10-22/word-02-aiden.opus",
+          "slow": "/audio/2026-10-22/word-02-aiden-slow.opus"
+        },
+        "serena": {
+          "normal": "/audio/2026-10-22/word-02-serena.opus",
+          "slow": "/audio/2026-10-22/word-02-serena-slow.opus"
+        }
+      }
+    },
+    {
+      "id": "word-03",
+      "german": "die Ambulanz",
+      "meaning": "구급차",
+      "partOfSpeech": "noun",
+      "gender": "die",
+      "plural": "die Ambulanzen",
+      "pronunciation": {
+        "ipa": "/ambuˈlant͡s/",
+        "korean": [
+          {
+            "text": "암부",
+            "stress": false
+          },
+          {
+            "text": "란츠",
+            "stress": true
+          }
+        ]
+      },
+      "isSwissExpression": false,
+      "swissNote": "스위스에서 응급 구급차를 부를 때는 144번을 누릅니다.",
+      "audio": {
+        "aiden": {
+          "normal": "/audio/2026-10-22/word-03-aiden.opus",
+          "slow": "/audio/2026-10-22/word-03-aiden-slow.opus"
+        },
+        "serena": {
+          "normal": "/audio/2026-10-22/word-03-serena.opus",
+          "slow": "/audio/2026-10-22/word-03-serena-slow.opus"
+        }
+      }
+    },
+    {
+      "id": "word-04",
+      "german": "die Hilfe",
+      "meaning": "도움",
+      "partOfSpeech": "noun",
+      "gender": "die",
+      "plural": null,
+      "pronunciation": {
+        "ipa": "/ˈhɪlfə/",
+        "korean": [
+          {
+            "text": "힐",
+            "stress": true
+          },
+          {
+            "text": "페",
+            "stress": false
+          }
+        ]
+      },
+      "isSwissExpression": false,
+      "audio": {
+        "aiden": {
+          "normal": "/audio/2026-10-22/word-04-aiden.opus",
+          "slow": "/audio/2026-10-22/word-04-aiden-slow.opus"
+        },
+        "serena": {
+          "normal": "/audio/2026-10-22/word-04-serena.opus",
+          "slow": "/audio/2026-10-22/word-04-serena-slow.opus"
+        }
+      }
+    },
+    {
+      "id": "word-05",
+      "german": "verlieren",
+      "meaning": "잃어버리다",
+      "partOfSpeech": "verb",
+      "pronunciation": {
+        "ipa": "/fɛɐ̯ˈliːʁən/",
+        "korean": [
+          {
+            "text": "페어",
+            "stress": false
+          },
+          {
+            "text": "리",
+            "stress": true
+          },
+          {
+            "text": "런",
+            "stress": false
+          }
+        ]
+      },
+      "isSwissExpression": false,
+      "audio": {
+        "aiden": {
+          "normal": "/audio/2026-10-22/word-05-aiden.opus",
+          "slow": "/audio/2026-10-22/word-05-aiden-slow.opus"
+        },
+        "serena": {
+          "normal": "/audio/2026-10-22/word-05-serena.opus",
+          "slow": "/audio/2026-10-22/word-05-serena-slow.opus"
+        }
+      }
+    },
+    {
+      "id": "word-06",
+      "german": "der Diebstahl",
+      "meaning": "도난, 절도",
+      "partOfSpeech": "noun",
+      "gender": "der",
+      "plural": "die Diebstähle",
+      "pronunciation": {
+        "ipa": "/ˈdiːpˌʃtaːl/",
+        "korean": [
+          {
+            "text": "딥",
+            "stress": true
+          },
+          {
+            "text": "슈탈",
+            "stress": false
+          }
+        ]
+      },
+      "isSwissExpression": false,
+      "audio": {
+        "aiden": {
+          "normal": "/audio/2026-10-22/word-06-aiden.opus",
+          "slow": "/audio/2026-10-22/word-06-aiden-slow.opus"
+        },
+        "serena": {
+          "normal": "/audio/2026-10-22/word-06-serena.opus",
+          "slow": "/audio/2026-10-22/word-06-serena-slow.opus"
+        }
+      }
+    },
+    {
+      "id": "word-07",
+      "german": "die Notrufnummer",
+      "meaning": "긴급 전화번호",
+      "partOfSpeech": "noun",
+      "gender": "die",
+      "plural": "die Notrufnummern",
+      "pronunciation": {
+        "ipa": "/ˈnoːtʁuːfˌnʊmɐ/",
+        "korean": [
+          {
+            "text": "노트",
+            "stress": true
+          },
+          {
+            "text": "루프",
+            "stress": false
+          },
+          {
+            "text": "누머",
+            "stress": false
+          }
+        ]
+      },
+      "isSwissExpression": false,
+      "audio": {
+        "aiden": {
+          "normal": "/audio/2026-10-22/word-07-aiden.opus",
+          "slow": "/audio/2026-10-22/word-07-aiden-slow.opus"
+        },
+        "serena": {
+          "normal": "/audio/2026-10-22/word-07-serena.opus",
+          "slow": "/audio/2026-10-22/word-07-serena-slow.opus"
+        }
+      }
+    },
+    {
+      "id": "word-08",
+      "german": "krank",
+      "meaning": "아픈",
+      "partOfSpeech": "adjective",
+      "pronunciation": {
+        "ipa": "/kʁaŋk/",
+        "korean": [
+          {
+            "text": "크랑크",
+            "stress": true
+          }
+        ]
+      },
+      "isSwissExpression": false,
+      "audio": {
+        "aiden": {
+          "normal": "/audio/2026-10-22/word-08-aiden.opus",
+          "slow": "/audio/2026-10-22/word-08-aiden-slow.opus"
+        },
+        "serena": {
+          "normal": "/audio/2026-10-22/word-08-serena.opus",
+          "slow": "/audio/2026-10-22/word-08-serena-slow.opus"
+        }
+      }
+    },
+    {
+      "id": "word-09",
+      "german": "Exgüsi",
+      "meaning": "실례합니다, 죄송합니다",
+      "partOfSpeech": "interjection",
+      "pronunciation": {
+        "ipa": "/ɛksˈɡyːzi/",
+        "korean": [
+          {
+            "text": "엑스",
+            "stress": false
+          },
+          {
+            "text": "귀",
+            "stress": true
+          },
+          {
+            "text": "지",
+            "stress": false
+          }
+        ]
+      },
+      "isSwissExpression": true,
+      "swissNote": "독일의 'Entschuldigung' 대신 스위스에서 친근하게 쓰는 사과 및 주의 환기 표현입니다.",
+      "audio": {
+        "aiden": {
+          "normal": "/audio/2026-10-22/word-09-aiden.opus",
+          "slow": "/audio/2026-10-22/word-09-aiden-slow.opus"
+        },
+        "serena": {
+          "normal": "/audio/2026-10-22/word-09-serena.opus",
+          "slow": "/audio/2026-10-22/word-09-serena-slow.opus"
+        }
+      }
+    },
+    {
+      "id": "word-10",
+      "german": "schnell",
+      "meaning": "빠른, 빨리",
+      "partOfSpeech": "adjective",
+      "pronunciation": {
+        "ipa": "/ʃnɛl/",
+        "korean": [
+          {
+            "text": "슈넬",
+            "stress": true
+          }
+        ]
+      },
+      "isSwissExpression": false,
+      "audio": {
+        "aiden": {
+          "normal": "/audio/2026-10-22/word-10-aiden.opus",
+          "slow": "/audio/2026-10-22/word-10-aiden-slow.opus"
+        },
+        "serena": {
+          "normal": "/audio/2026-10-22/word-10-serena.opus",
+          "slow": "/audio/2026-10-22/word-10-serena-slow.opus"
+        }
+      }
+    }
+  ],
+  "sentences": [
+    {
+      "id": "sentence-01",
+      "german": "Exgüsi, ich habe meine Tasche verloren.",
+      "meaning": "실례합니다, 제 가방을 잃어버렸어요.",
+      "pronunciation": {
+        "ipa": "/ɛksˈɡyːzi ɪx ˈhaːbə ˈmaɪ̯nə ˈtaʃə fɛɐ̯ˈloːʁən/",
+        "korean": [
+          {
+            "text": "엑스귀지",
+            "stress": true
+          },
+          {
+            "text": "이히",
+            "stress": false
+          },
+          {
+            "text": "하ː베",
+            "stress": false
+          },
+          {
+            "text": "마이네",
+            "stress": false
+          },
+          {
+            "text": "타셰",
+            "stress": false
+          },
+          {
+            "text": "페어로ː런",
+            "stress": true
+          }
+        ]
+      },
+      "usesWords": [
+        "word-05",
+        "word-09"
+      ],
+      "audio": {
+        "aiden": {
+          "normal": "/audio/2026-10-22/sentence-01-aiden.opus",
+          "slow": "/audio/2026-10-22/sentence-01-aiden-slow.opus"
+        },
+        "serena": {
+          "normal": "/audio/2026-10-22/sentence-01-serena.opus",
+          "slow": "/audio/2026-10-22/sentence-01-serena-slow.opus"
+        }
+      }
+    },
+    {
+      "id": "sentence-02",
+      "german": "Wir brauchen schnell eine Ambulanz.",
+      "meaning": "우리는 빨리 구급차가 필요해요.",
+      "pronunciation": {
+        "ipa": "/viːɐ̯ ˈbʁaʊ̯xn̩ ʃnɛl ˈaɪ̯nə ambuˈlant͡s/",
+        "korean": [
+          {
+            "text": "비어",
+            "stress": false
+          },
+          {
+            "text": "브라우흐언",
+            "stress": true
+          },
+          {
+            "text": "슈넬",
+            "stress": false
+          },
+          {
+            "text": "아이네",
+            "stress": false
+          },
+          {
+            "text": "암불란츠",
+            "stress": true
+          }
+        ]
+      },
+      "usesWords": [
+        "word-03",
+        "word-10"
+      ],
+      "audio": {
+        "aiden": {
+          "normal": "/audio/2026-10-22/sentence-02-aiden.opus",
+          "slow": "/audio/2026-10-22/sentence-02-aiden-slow.opus"
+        },
+        "serena": {
+          "normal": "/audio/2026-10-22/sentence-02-serena.opus",
+          "slow": "/audio/2026-10-22/sentence-02-serena-slow.opus"
+        }
+      }
+    },
+    {
+      "id": "sentence-03",
+      "german": "Wo ist das nächste Spital?",
+      "meaning": "가장 가까운 병원이 어디에 있나요?",
+      "pronunciation": {
+        "ipa": "/voː ɪst das ˈnɛːkstə ʃpiˈtaːl/",
+        "korean": [
+          {
+            "text": "보ː",
+            "stress": true
+          },
+          {
+            "text": "이스트",
+            "stress": false
+          },
+          {
+            "text": "다스",
+            "stress": false
+          },
+          {
+            "text": "넥스테",
+            "stress": false
+          },
+          {
+            "text": "슈피탈",
+            "stress": true
+          }
+        ]
+      },
+      "usesWords": [
+        "word-01"
+      ],
+      "swissNote": "스위스에서는 응급실을 'Notfall'이라고 부르며, 병원의 응급 창구(Notfallstation)로 직접 가거나 144에 연락할 수 있습니다.",
+      "audio": {
+        "aiden": {
+          "normal": "/audio/2026-10-22/sentence-03-aiden.opus",
+          "slow": "/audio/2026-10-22/sentence-03-aiden-slow.opus"
+        },
+        "serena": {
+          "normal": "/audio/2026-10-22/sentence-03-serena.opus",
+          "slow": "/audio/2026-10-22/sentence-03-serena-slow.opus"
+        }
+      }
+    }
+  ],
+  "grammar": {
+    "id": "perfekt-verloren",
+    "title": "현재완료 맛보기: Ich habe … verloren.",
+    "pattern": "haben(인칭 변화) + 명사(4격) + verloren",
+    "meaning": "“나는 ~을 잃어버렸다.”",
+    "explanation": "독일어의 현재완료 시제는 과거의 일을 말할 때 자주 씁니다. 조동사 haben을 주어에 맞게 변화시키고, 잃어버렸다는 뜻의 과거분사 verloren을 문장 맨 뒤에 놓습니다. 물건을 잃어버렸을 때 경찰서나 분실물 센터에서 유용하게 쓸 수 있는 표현입니다.",
+    "examples": [
+      {
+        "german": "Ich habe meinen Pass verloren.",
+        "meaning": "저는 여권을 잃어버렸습니다."
+      },
+      {
+        "german": "Ich habe meine Tasche verloren.",
+        "meaning": "저는 가방을 잃어버렸습니다."
+      }
+    ],
+    "tip": "남성 명사(der Pass)의 목적어는 'meinen'으로 바뀌고, 여성/중성 명사는 'meine'를 그대로 씁니다."
+  }
+}

@@ -1,0 +1,534 @@
+{
+  "type": "lesson",
+  "schemaVersion": 1,
+  "date": "2026-11-02",
+  "day": 30,
+  "unlockAt": "2026-11-02T17:00:00+09:00",
+  "theme": {
+    "id": "sightseeing",
+    "title": "관광과 사진",
+    "emoji": "📸"
+  },
+  "approved": true,
+  "words": [
+    {
+      "id": "word-01",
+      "german": "die Altstadt",
+      "meaning": "구시가지",
+      "partOfSpeech": "noun",
+      "gender": "die",
+      "plural": "die Altstädte",
+      "pronunciation": {
+        "ipa": "/ˈaltˌʃtat/",
+        "korean": [
+          {
+            "text": "알트",
+            "stress": true
+          },
+          {
+            "text": "슈탓",
+            "stress": false
+          }
+        ]
+      },
+      "isSwissExpression": true,
+      "swissNote": "스위스의 도시들은 중세 모습을 잘 간직한 알트슈타트(Altstadt)가 매력적입니다. 취리히, 베른 등의 구시리지는 도보 여행하기에 아주 좋습니다.",
+      "audio": {
+        "aiden": {
+          "normal": "/audio/2026-11-02/word-01-aiden.opus",
+          "slow": "/audio/2026-11-02/word-01-aiden-slow.opus"
+        },
+        "serena": {
+          "normal": "/audio/2026-11-02/word-01-serena.opus",
+          "slow": "/audio/2026-11-02/word-01-serena-slow.opus"
+        }
+      }
+    },
+    {
+      "id": "word-02",
+      "german": "das Foto",
+      "meaning": "사진",
+      "partOfSpeech": "noun",
+      "gender": "das",
+      "plural": "die Fotos",
+      "pronunciation": {
+        "ipa": "/ˈfoːto/",
+        "korean": [
+          {
+            "text": "포ː",
+            "stress": true
+          },
+          {
+            "text": "토",
+            "stress": false
+          }
+        ]
+      },
+      "isSwissExpression": false,
+      "audio": {
+        "aiden": {
+          "normal": "/audio/2026-11-02/word-02-aiden.opus",
+          "slow": "/audio/2026-11-02/word-02-aiden-slow.opus"
+        },
+        "serena": {
+          "normal": "/audio/2026-11-02/word-02-serena.opus",
+          "slow": "/audio/2026-11-02/word-02-serena-slow.opus"
+        }
+      }
+    },
+    {
+      "id": "word-03",
+      "german": "die Kamera",
+      "meaning": "카메라",
+      "partOfSpeech": "noun",
+      "gender": "die",
+      "plural": "die Kameras",
+      "pronunciation": {
+        "ipa": "/ˈkaməʁa/",
+        "korean": [
+          {
+            "text": "카",
+            "stress": true
+          },
+          {
+            "text": "메",
+            "stress": false
+          },
+          {
+            "text": "라",
+            "stress": false
+          }
+        ]
+      },
+      "isSwissExpression": false,
+      "audio": {
+        "aiden": {
+          "normal": "/audio/2026-11-02/word-03-aiden.opus",
+          "slow": "/audio/2026-11-02/word-03-aiden-slow.opus"
+        },
+        "serena": {
+          "normal": "/audio/2026-11-02/word-03-serena.opus",
+          "slow": "/audio/2026-11-02/word-03-serena-slow.opus"
+        }
+      }
+    },
+    {
+      "id": "word-04",
+      "german": "machen",
+      "meaning": "하다, 만들다",
+      "partOfSpeech": "verb",
+      "pronunciation": {
+        "ipa": "/ˈmaxn̩/",
+        "korean": [
+          {
+            "text": "마",
+            "stress": true
+          },
+          {
+            "text": "헨",
+            "stress": false
+          }
+        ]
+      },
+      "isSwissExpression": false,
+      "swissNote": "독일어에서 사진을 찍는다는 표현은 'ein Foto machen'이라고 합니다.",
+      "audio": {
+        "aiden": {
+          "normal": "/audio/2026-11-02/word-04-aiden.opus",
+          "slow": "/audio/2026-11-02/word-04-aiden-slow.opus"
+        },
+        "serena": {
+          "normal": "/audio/2026-11-02/word-04-serena.opus",
+          "slow": "/audio/2026-11-02/word-04-serena-slow.opus"
+        }
+      }
+    },
+    {
+      "id": "word-05",
+      "german": "das Panorama",
+      "meaning": "파노라마, 전경",
+      "partOfSpeech": "noun",
+      "gender": "das",
+      "plural": "die Panoramen",
+      "pronunciation": {
+        "ipa": "/panoˈʁaːma/",
+        "korean": [
+          {
+            "text": "파",
+            "stress": false
+          },
+          {
+            "text": "노",
+            "stress": false
+          },
+          {
+            "text": "라ː",
+            "stress": true
+          },
+          {
+            "text": "마",
+            "stress": false
+          }
+        ]
+      },
+      "isSwissExpression": false,
+      "audio": {
+        "aiden": {
+          "normal": "/audio/2026-11-02/word-05-aiden.opus",
+          "slow": "/audio/2026-11-02/word-05-aiden-slow.opus"
+        },
+        "serena": {
+          "normal": "/audio/2026-11-02/word-05-serena.opus",
+          "slow": "/audio/2026-11-02/word-05-serena-slow.opus"
+        }
+      }
+    },
+    {
+      "id": "word-06",
+      "german": "die Aussichtsplattform",
+      "meaning": "전망대",
+      "partOfSpeech": "noun",
+      "gender": "die",
+      "plural": "die Aussichtsplattformen",
+      "pronunciation": {
+        "ipa": "/ˈaʊ̯sɪçt͡sˌplatfɔʁm/",
+        "korean": [
+          {
+            "text": "아우스이흐츠",
+            "stress": true
+          },
+          {
+            "text": "플랏",
+            "stress": false
+          },
+          {
+            "text": "포름",
+            "stress": false
+          }
+        ]
+      },
+      "isSwissExpression": false,
+      "audio": {
+        "aiden": {
+          "normal": "/audio/2026-11-02/word-06-aiden.opus",
+          "slow": "/audio/2026-11-02/word-06-aiden-slow.opus"
+        },
+        "serena": {
+          "normal": "/audio/2026-11-02/word-06-serena.opus",
+          "slow": "/audio/2026-11-02/word-06-serena-slow.opus"
+        }
+      }
+    },
+    {
+      "id": "word-07",
+      "german": "die Führung",
+      "meaning": "가이드 투어, 안내",
+      "partOfSpeech": "noun",
+      "gender": "die",
+      "plural": "die Führungen",
+      "pronunciation": {
+        "ipa": "/ˈfyːʁʊŋ/",
+        "korean": [
+          {
+            "text": "퓌ː",
+            "stress": true
+          },
+          {
+            "text": "룽",
+            "stress": false
+          }
+        ]
+      },
+      "isSwissExpression": false,
+      "audio": {
+        "aiden": {
+          "normal": "/audio/2026-11-02/word-07-aiden.opus",
+          "slow": "/audio/2026-11-02/word-07-aiden-slow.opus"
+        },
+        "serena": {
+          "normal": "/audio/2026-11-02/word-07-serena.opus",
+          "slow": "/audio/2026-11-02/word-07-serena-slow.opus"
+        }
+      }
+    },
+    {
+      "id": "word-08",
+      "german": "zeigen",
+      "meaning": "보여주다",
+      "partOfSpeech": "verb",
+      "pronunciation": {
+        "ipa": "/ˈt͡saɪ̯ɡən/",
+        "korean": [
+          {
+            "text": "차이",
+            "stress": true
+          },
+          {
+            "text": "겐",
+            "stress": false
+          }
+        ]
+      },
+      "isSwissExpression": false,
+      "audio": {
+        "aiden": {
+          "normal": "/audio/2026-11-02/word-08-aiden.opus",
+          "slow": "/audio/2026-11-02/word-08-aiden-slow.opus"
+        },
+        "serena": {
+          "normal": "/audio/2026-11-02/word-08-serena.opus",
+          "slow": "/audio/2026-11-02/word-08-serena-slow.opus"
+        }
+      }
+    },
+    {
+      "id": "word-09",
+      "german": "fotografieren",
+      "meaning": "사진을 찍다",
+      "partOfSpeech": "verb",
+      "pronunciation": {
+        "ipa": "/fotoɡʁaˈfiːʁən/",
+        "korean": [
+          {
+            "text": "포",
+            "stress": false
+          },
+          {
+            "text": "토",
+            "stress": false
+          },
+          {
+            "text": "그라",
+            "stress": false
+          },
+          {
+            "text": "피ː",
+            "stress": true
+          },
+          {
+            "text": "렌",
+            "stress": false
+          }
+        ]
+      },
+      "isSwissExpression": false,
+      "audio": {
+        "aiden": {
+          "normal": "/audio/2026-11-02/word-09-aiden.opus",
+          "slow": "/audio/2026-11-02/word-09-aiden-slow.opus"
+        },
+        "serena": {
+          "normal": "/audio/2026-11-02/word-09-serena.opus",
+          "slow": "/audio/2026-11-02/word-09-serena-slow.opus"
+        }
+      }
+    },
+    {
+      "id": "word-10",
+      "german": "die Sehenswürdigkeit",
+      "meaning": "관광명소",
+      "partOfSpeech": "noun",
+      "gender": "die",
+      "plural": "die Sehenswürdigkeiten",
+      "pronunciation": {
+        "ipa": "/ˈzeːənsvʏʁdɪçkaɪ̯t/",
+        "korean": [
+          {
+            "text": "제",
+            "stress": true
+          },
+          {
+            "text": "언스",
+            "stress": false
+          },
+          {
+            "text": "뷔르디히",
+            "stress": false
+          },
+          {
+            "text": "카이트",
+            "stress": false
+          }
+        ]
+      },
+      "isSwissExpression": false,
+      "audio": {
+        "aiden": {
+          "normal": "/audio/2026-11-02/word-10-aiden.opus",
+          "slow": "/audio/2026-11-02/word-10-aiden-slow.opus"
+        },
+        "serena": {
+          "normal": "/audio/2026-11-02/word-10-serena.opus",
+          "slow": "/audio/2026-11-02/word-10-serena-slow.opus"
+        }
+      }
+    }
+  ],
+  "sentences": [
+    {
+      "id": "sentence-01",
+      "german": "Darf ich hier ein Foto machen?",
+      "meaning": "여기서 사진을 찍어도 되나요?",
+      "pronunciation": {
+        "ipa": "/daʁf ɪç hiːɐ̯ aɪ̯n ˈfoːto ˈmaxn̩/",
+        "korean": [
+          {
+            "text": "다르프",
+            "stress": true
+          },
+          {
+            "text": "이히",
+            "stress": false
+          },
+          {
+            "text": "히어",
+            "stress": false
+          },
+          {
+            "text": "아인",
+            "stress": false
+          },
+          {
+            "text": "포ː토",
+            "stress": true
+          },
+          {
+            "text": "마헨",
+            "stress": false
+          }
+        ]
+      },
+      "usesWords": [
+        "word-02",
+        "word-04"
+      ],
+      "audio": {
+        "aiden": {
+          "normal": "/audio/2026-11-02/sentence-01-aiden.opus",
+          "slow": "/audio/2026-11-02/sentence-01-aiden-slow.opus"
+        },
+        "serena": {
+          "normal": "/audio/2026-11-02/sentence-01-serena.opus",
+          "slow": "/audio/2026-11-02/sentence-01-serena-slow.opus"
+        }
+      }
+    },
+    {
+      "id": "sentence-02",
+      "german": "Darf ich Sie in der Altstadt fotografieren?",
+      "meaning": "구시가지에서 사진을 찍어드려도 될까요?",
+      "pronunciation": {
+        "ipa": "/daʁf ɪç ziː ɪn deːɐ̯ ˈaltˌʃtat fotoɡʁaˈfiːʁən/",
+        "korean": [
+          {
+            "text": "다르프",
+            "stress": true
+          },
+          {
+            "text": "이히",
+            "stress": false
+          },
+          {
+            "text": "지ː",
+            "stress": false
+          },
+          {
+            "text": "인",
+            "stress": false
+          },
+          {
+            "text": "데어",
+            "stress": false
+          },
+          {
+            "text": "알트슈탓",
+            "stress": true
+          },
+          {
+            "text": "포토그라피ː렌",
+            "stress": true
+          }
+        ]
+      },
+      "usesWords": [
+        "word-01",
+        "word-09"
+      ],
+      "audio": {
+        "aiden": {
+          "normal": "/audio/2026-11-02/sentence-02-aiden.opus",
+          "slow": "/audio/2026-11-02/sentence-02-aiden-slow.opus"
+        },
+        "serena": {
+          "normal": "/audio/2026-11-02/sentence-02-serena.opus",
+          "slow": "/audio/2026-11-02/sentence-02-serena-slow.opus"
+        }
+      }
+    },
+    {
+      "id": "sentence-03",
+      "german": "Darf ich auf die Aussichtsplattform gehen?",
+      "meaning": "전망대에 올라가도 되나요?",
+      "pronunciation": {
+        "ipa": "/daʁf ɪç aʊ̯f diː ˈaʊ̯sɪçt͡sˌplatfɔʁm ˈɡeːən/",
+        "korean": [
+          {
+            "text": "다르프",
+            "stress": true
+          },
+          {
+            "text": "이히",
+            "stress": false
+          },
+          {
+            "text": "아우프",
+            "stress": false
+          },
+          {
+            "text": "디ː",
+            "stress": false
+          },
+          {
+            "text": "아우스이흐츠플랏포름",
+            "stress": true
+          },
+          {
+            "text": "게ː언",
+            "stress": false
+          }
+        ]
+      },
+      "usesWords": [
+        "word-06"
+      ],
+      "audio": {
+        "aiden": {
+          "normal": "/audio/2026-11-02/sentence-03-aiden.opus",
+          "slow": "/audio/2026-11-02/sentence-03-aiden-slow.opus"
+        },
+        "serena": {
+          "normal": "/audio/2026-11-02/sentence-03-serena.opus",
+          "slow": "/audio/2026-11-02/sentence-03-serena-slow.opus"
+        }
+      }
+    }
+  ],
+  "grammar": {
+    "id": "darf-ich",
+    "title": "Darf ich …? (허락 구하기)",
+    "pattern": "Darf ich + 동사 원형...?",
+    "meaning": "“제가 ~해도 되나요?”",
+    "explanation": "화법조동사 dürfen(허락을 구하다)의 1인칭 단수 형태인 'darf'를 사용하여 상대방에게 정중하게 허락을 구하는 문장 패턴입니다. 문장 맨 앞에 오며, 실제 행동을 나타내는 본동사는 문장 맨 끝에 원형으로 위치합니다.",
+    "examples": [
+      {
+        "german": "Darf ich hier ein Foto machen?",
+        "meaning": "여기서 사진을 찍어도 되나요?"
+      },
+      {
+        "german": "Darf ich das Fenster öffnen?",
+        "meaning": "창문을 열어도 되나요?"
+      }
+    ],
+    "tip": "스위스 관광지나 박물관에서는 사진 촬영이 제한되는 구역이 있으니 입장 전에 'Darf ich…?'로 물어보면 유용합니다."
+  }
+}

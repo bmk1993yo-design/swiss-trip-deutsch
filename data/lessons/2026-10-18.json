@@ -1,0 +1,502 @@
+{
+  "type": "lesson",
+  "schemaVersion": 1,
+  "date": "2026-10-18",
+  "day": 15,
+  "unlockAt": "2026-10-18T17:00:00+09:00",
+  "theme": {
+    "id": "shopping",
+    "title": "쇼핑",
+    "emoji": "🛍️"
+  },
+  "approved": true,
+  "words": [
+    {
+      "id": "word-01",
+      "german": "die Grösse",
+      "meaning": "크기, 옷 사이즈",
+      "partOfSpeech": "noun",
+      "gender": "die",
+      "plural": "die Grössen",
+      "pronunciation": {
+        "ipa": "/ˈɡʁøːsə/",
+        "korean": [
+          {
+            "text": "그뢰ː",
+            "stress": true
+          },
+          {
+            "text": "세",
+            "stress": false
+          }
+        ]
+      },
+      "isSwissExpression": false,
+      "swissNote": "스위스에서는 에스체트 대신 ss를 써서 Grösse라고 적습니다. 사이즈를 물을 때 쓰는 말입니다.",
+      "audio": {
+        "aiden": {
+          "normal": "/audio/2026-10-18/word-01-aiden.opus",
+          "slow": "/audio/2026-10-18/word-01-aiden-slow.opus"
+        },
+        "serena": {
+          "normal": "/audio/2026-10-18/word-01-serena.opus",
+          "slow": "/audio/2026-10-18/word-01-serena-slow.opus"
+        }
+      }
+    },
+    {
+      "id": "word-02",
+      "german": "gross",
+      "meaning": "큰",
+      "partOfSpeech": "adjective",
+      "pronunciation": {
+        "ipa": "/ɡʁoːs/",
+        "korean": [
+          {
+            "text": "그로ː스",
+            "stress": true
+          }
+        ]
+      },
+      "isSwissExpression": false,
+      "audio": {
+        "aiden": {
+          "normal": "/audio/2026-10-18/word-02-aiden.opus",
+          "slow": "/audio/2026-10-18/word-02-aiden-slow.opus"
+        },
+        "serena": {
+          "normal": "/audio/2026-10-18/word-02-serena.opus",
+          "slow": "/audio/2026-10-18/word-02-serena-slow.opus"
+        }
+      }
+    },
+    {
+      "id": "word-03",
+      "german": "klein",
+      "meaning": "작은",
+      "partOfSpeech": "adjective",
+      "pronunciation": {
+        "ipa": "/klaɪ̯n/",
+        "korean": [
+          {
+            "text": "클라인",
+            "stress": true
+          }
+        ]
+      },
+      "isSwissExpression": false,
+      "audio": {
+        "aiden": {
+          "normal": "/audio/2026-10-18/word-03-aiden.opus",
+          "slow": "/audio/2026-10-18/word-03-aiden-slow.opus"
+        },
+        "serena": {
+          "normal": "/audio/2026-10-18/word-03-serena.opus",
+          "slow": "/audio/2026-10-18/word-03-serena-slow.opus"
+        }
+      }
+    },
+    {
+      "id": "word-04",
+      "german": "anprobieren",
+      "meaning": "입어 보다, 신어 보다",
+      "partOfSpeech": "verb",
+      "pronunciation": {
+        "ipa": "/ˈanpʁoˌbiːʁən/",
+        "korean": [
+          {
+            "text": "안",
+            "stress": true
+          },
+          {
+            "text": "프로",
+            "stress": false
+          },
+          {
+            "text": "비ː",
+            "stress": false
+          },
+          {
+            "text": "렌",
+            "stress": false
+          }
+        ]
+      },
+      "isSwissExpression": false,
+      "audio": {
+        "aiden": {
+          "normal": "/audio/2026-10-18/word-04-aiden.opus",
+          "slow": "/audio/2026-10-18/word-04-aiden-slow.opus"
+        },
+        "serena": {
+          "normal": "/audio/2026-10-18/word-04-serena.opus",
+          "slow": "/audio/2026-10-18/word-04-serena-slow.opus"
+        }
+      }
+    },
+    {
+      "id": "word-05",
+      "german": "die Umkleidekabine",
+      "meaning": "탈의실",
+      "partOfSpeech": "noun",
+      "gender": "die",
+      "plural": "die Umkleidekabinen",
+      "pronunciation": {
+        "ipa": "/ˈʊmˌklaɪ̯dəkabiːnə/",
+        "korean": [
+          {
+            "text": "움",
+            "stress": true
+          },
+          {
+            "text": "클라이",
+            "stress": false
+          },
+          {
+            "text": "데",
+            "stress": false
+          },
+          {
+            "text": "카",
+            "stress": false
+          },
+          {
+            "text": "비ː",
+            "stress": false
+          },
+          {
+            "text": "네",
+            "stress": false
+          }
+        ]
+      },
+      "isSwissExpression": false,
+      "audio": {
+        "aiden": {
+          "normal": "/audio/2026-10-18/word-05-aiden.opus",
+          "slow": "/audio/2026-10-18/word-05-aiden-slow.opus"
+        },
+        "serena": {
+          "normal": "/audio/2026-10-18/word-05-serena.opus",
+          "slow": "/audio/2026-10-18/word-05-serena-slow.opus"
+        }
+      }
+    },
+    {
+      "id": "word-06",
+      "german": "die Farbe",
+      "meaning": "색",
+      "partOfSpeech": "noun",
+      "gender": "die",
+      "plural": "die Farben",
+      "pronunciation": {
+        "ipa": "/ˈfaʁbə/",
+        "korean": [
+          {
+            "text": "파르",
+            "stress": true
+          },
+          {
+            "text": "베",
+            "stress": false
+          }
+        ]
+      },
+      "isSwissExpression": false,
+      "audio": {
+        "aiden": {
+          "normal": "/audio/2026-10-18/word-06-aiden.opus",
+          "slow": "/audio/2026-10-18/word-06-aiden-slow.opus"
+        },
+        "serena": {
+          "normal": "/audio/2026-10-18/word-06-serena.opus",
+          "slow": "/audio/2026-10-18/word-06-serena-slow.opus"
+        }
+      }
+    },
+    {
+      "id": "word-07",
+      "german": "blau",
+      "meaning": "파란색의",
+      "partOfSpeech": "adjective",
+      "pronunciation": {
+        "ipa": "/blaʊ̯/",
+        "korean": [
+          {
+            "text": "블라우",
+            "stress": true
+          }
+        ]
+      },
+      "isSwissExpression": false,
+      "audio": {
+        "aiden": {
+          "normal": "/audio/2026-10-18/word-07-aiden.opus",
+          "slow": "/audio/2026-10-18/word-07-aiden-slow.opus"
+        },
+        "serena": {
+          "normal": "/audio/2026-10-18/word-07-serena.opus",
+          "slow": "/audio/2026-10-18/word-07-serena-slow.opus"
+        }
+      }
+    },
+    {
+      "id": "word-08",
+      "german": "das Souvenir",
+      "meaning": "기념품",
+      "partOfSpeech": "noun",
+      "gender": "das",
+      "plural": "die Souvenirs",
+      "pronunciation": {
+        "ipa": "/zuvəˈniːɐ̯/",
+        "korean": [
+          {
+            "text": "주",
+            "stress": false
+          },
+          {
+            "text": "베",
+            "stress": false
+          },
+          {
+            "text": "니ː어",
+            "stress": true
+          }
+        ]
+      },
+      "isSwissExpression": false,
+      "audio": {
+        "aiden": {
+          "normal": "/audio/2026-10-18/word-08-aiden.opus",
+          "slow": "/audio/2026-10-18/word-08-aiden-slow.opus"
+        },
+        "serena": {
+          "normal": "/audio/2026-10-18/word-08-serena.opus",
+          "slow": "/audio/2026-10-18/word-08-serena-slow.opus"
+        }
+      }
+    },
+    {
+      "id": "word-09",
+      "german": "passen",
+      "meaning": "크기가 맞다, 어울리다",
+      "partOfSpeech": "verb",
+      "pronunciation": {
+        "ipa": "/ˈpasn̩/",
+        "korean": [
+          {
+            "text": "파",
+            "stress": true
+          },
+          {
+            "text": "센",
+            "stress": false
+          }
+        ]
+      },
+      "isSwissExpression": false,
+      "audio": {
+        "aiden": {
+          "normal": "/audio/2026-10-18/word-09-aiden.opus",
+          "slow": "/audio/2026-10-18/word-09-aiden-slow.opus"
+        },
+        "serena": {
+          "normal": "/audio/2026-10-18/word-09-serena.opus",
+          "slow": "/audio/2026-10-18/word-09-serena-slow.opus"
+        }
+      }
+    },
+    {
+      "id": "word-10",
+      "german": "der Jupe",
+      "meaning": "치마 (스위스 표현)",
+      "partOfSpeech": "noun",
+      "gender": "der",
+      "plural": "die Jupes",
+      "pronunciation": {
+        "ipa": "/ʒyp/",
+        "korean": [
+          {
+            "text": "쥡",
+            "stress": true
+          }
+        ]
+      },
+      "isSwissExpression": true,
+      "swissNote": "스위스에서는 치마를 Jupe라고도 합니다. 일반적인 독일어 단어인 der Rock도 통합니다.",
+      "audio": {
+        "aiden": {
+          "normal": "/audio/2026-10-18/word-10-aiden.opus",
+          "slow": "/audio/2026-10-18/word-10-aiden-slow.opus"
+        },
+        "serena": {
+          "normal": "/audio/2026-10-18/word-10-serena.opus",
+          "slow": "/audio/2026-10-18/word-10-serena-slow.opus"
+        }
+      }
+    }
+  ],
+  "sentences": [
+    {
+      "id": "sentence-01",
+      "german": "Der Jupe ist zu gross.",
+      "meaning": "이 치마는 너무 커요.",
+      "pronunciation": {
+        "ipa": "/deːɐ̯ ʒyp ɪst tsuː ɡʁoːs/",
+        "korean": [
+          {
+            "text": "데어",
+            "stress": false
+          },
+          {
+            "text": "쥡",
+            "stress": true
+          },
+          {
+            "text": "이스트",
+            "stress": false
+          },
+          {
+            "text": "추ː",
+            "stress": false
+          },
+          {
+            "text": "그로ː스",
+            "stress": true
+          }
+        ]
+      },
+      "usesWords": [
+        "word-10",
+        "word-02"
+      ],
+      "audio": {
+        "aiden": {
+          "normal": "/audio/2026-10-18/sentence-01-aiden.opus",
+          "slow": "/audio/2026-10-18/sentence-01-aiden-slow.opus"
+        },
+        "serena": {
+          "normal": "/audio/2026-10-18/sentence-01-serena.opus",
+          "slow": "/audio/2026-10-18/sentence-01-serena-slow.opus"
+        }
+      }
+    },
+    {
+      "id": "sentence-02",
+      "german": "Kann ich das bitte anprobieren?",
+      "meaning": "이것을 입어 봐도 될까요?",
+      "pronunciation": {
+        "ipa": "/kan ɪç das ˈbɪtə ˈanpʁoˌbiːʁən/",
+        "korean": [
+          {
+            "text": "칸",
+            "stress": false
+          },
+          {
+            "text": "이히",
+            "stress": false
+          },
+          {
+            "text": "다스",
+            "stress": false
+          },
+          {
+            "text": "비테",
+            "stress": false
+          },
+          {
+            "text": "안프로비ː렌",
+            "stress": true
+          }
+        ]
+      },
+      "usesWords": [
+        "word-04"
+      ],
+      "audio": {
+        "aiden": {
+          "normal": "/audio/2026-10-18/sentence-02-aiden.opus",
+          "slow": "/audio/2026-10-18/sentence-02-aiden-slow.opus"
+        },
+        "serena": {
+          "normal": "/audio/2026-10-18/sentence-02-serena.opus",
+          "slow": "/audio/2026-10-18/sentence-02-serena-slow.opus"
+        }
+      }
+    },
+    {
+      "id": "sentence-03",
+      "german": "Haben Sie diese Grösse auch in Blau?",
+      "meaning": "이 사이즈가 파란색으로도 있나요?",
+      "pronunciation": {
+        "ipa": "/ˈhaːbn̩ ziː ˈdiːzə ˈɡʁøːsə aʊ̯x ɪn blaʊ̯/",
+        "korean": [
+          {
+            "text": "하ː벤",
+            "stress": false
+          },
+          {
+            "text": "지ː",
+            "stress": false
+          },
+          {
+            "text": "디ː제",
+            "stress": false
+          },
+          {
+            "text": "그뢰ː세",
+            "stress": true
+          },
+          {
+            "text": "아우흐",
+            "stress": false
+          },
+          {
+            "text": "인",
+            "stress": false
+          },
+          {
+            "text": "블라우",
+            "stress": true
+          }
+        ]
+      },
+      "usesWords": [
+        "word-01",
+        "word-07"
+      ],
+      "audio": {
+        "aiden": {
+          "normal": "/audio/2026-10-18/sentence-03-aiden.opus",
+          "slow": "/audio/2026-10-18/sentence-03-aiden-slow.opus"
+        },
+        "serena": {
+          "normal": "/audio/2026-10-18/sentence-03-serena.opus",
+          "slow": "/audio/2026-10-18/sentence-03-serena-slow.opus"
+        }
+      }
+    }
+  ],
+  "grammar": {
+    "id": "zu-adjektiv",
+    "title": "zu + 형용사",
+    "pattern": "주어 + sein + zu + 형용사",
+    "meaning": "너무 ~해요",
+    "explanation": "형용사 앞에 zu를 붙이면 적당한 정도를 넘어 '너무 ~하다'라는 뜻이 됩니다. 크기가 맞지 않을 때 zu gross(너무 큰), zu klein(너무 작은)이라고 말할 수 있어요. ist 뒤에서 상태를 설명하는 형용사는 어미를 바꾸지 않습니다. 이때 zu는 '~쪽으로'라는 방향이 아니라 정도를 나타냅니다.",
+    "examples": [
+      {
+        "german": "Der Jupe ist zu gross.",
+        "meaning": "이 치마는 너무 커요."
+      },
+      {
+        "german": "Das ist zu klein.",
+        "meaning": "이것은 너무 작아요."
+      },
+      {
+        "german": "Das Souvenir ist zu teuer.",
+        "meaning": "이 기념품은 너무 비싸요."
+      }
+    ],
+    "tip": "사이즈가 맞지 않으면 Das ist zu gross/klein.이라고 말한 뒤 다른 사이즈를 요청해 보세요."
+  }
+}

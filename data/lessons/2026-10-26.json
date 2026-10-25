@@ -1,0 +1,480 @@
+{
+  "type": "lesson",
+  "schemaVersion": 1,
+  "date": "2026-10-26",
+  "day": 23,
+  "unlockAt": "2026-10-26T17:00:00+09:00",
+  "theme": {
+    "id": "christmas-market",
+    "title": "크리스마스 마켓",
+    "emoji": "🎄"
+  },
+  "approved": true,
+  "words": [
+    {
+      "id": "word-01",
+      "german": "der Glühwein",
+      "meaning": "글루바인, 뱅쇼",
+      "partOfSpeech": "noun",
+      "gender": "der",
+      "plural": "die Glühweine",
+      "pronunciation": {
+        "ipa": "/ˈɡlyːvaɪ̯n/",
+        "korean": [
+          {
+            "text": "글뤼",
+            "stress": true
+          },
+          {
+            "text": "바인",
+            "stress": false
+          }
+        ]
+      },
+      "isSwissExpression": true,
+      "swissNote": "스위스의 크리스마스 마켓(Weihnachtsmarkt)에서 추위를 녹이기 위해 즐겨 마시는 따뜻한 와인입니다.",
+      "audio": {
+        "aiden": {
+          "normal": "/audio/2026-10-26/word-01-aiden.opus",
+          "slow": "/audio/2026-10-26/word-01-aiden-slow.opus"
+        },
+        "serena": {
+          "normal": "/audio/2026-10-26/word-01-serena.opus",
+          "slow": "/audio/2026-10-26/word-01-serena-slow.opus"
+        }
+      }
+    },
+    {
+      "id": "word-02",
+      "german": "das Depot",
+      "meaning": "보증금, 보관료",
+      "partOfSpeech": "noun",
+      "gender": "das",
+      "plural": "die Depots",
+      "pronunciation": {
+        "ipa": "/deˈpoː/",
+        "korean": [
+          {
+            "text": "데",
+            "stress": false
+          },
+          {
+            "text": "포ː",
+            "stress": true
+          }
+        ]
+      },
+      "isSwissExpression": true,
+      "swissNote": "독일에서는 주로 'Pfand'라고 하는 보증금을 스위스 크리스마스 마켓과 축제에서는 'Depot'이라고 부릅니다.",
+      "audio": {
+        "aiden": {
+          "normal": "/audio/2026-10-26/word-02-aiden.opus",
+          "slow": "/audio/2026-10-26/word-02-aiden-slow.opus"
+        },
+        "serena": {
+          "normal": "/audio/2026-10-26/word-02-serena.opus",
+          "slow": "/audio/2026-10-26/word-02-serena-slow.opus"
+        }
+      }
+    },
+    {
+      "id": "word-03",
+      "german": "der Becher",
+      "meaning": "컵, 머그잔",
+      "partOfSpeech": "noun",
+      "gender": "der",
+      "plural": "die Becher",
+      "pronunciation": {
+        "ipa": "/ˈbɛçɐ/",
+        "korean": [
+          {
+            "text": "베",
+            "stress": true
+          },
+          {
+            "text": "허",
+            "stress": false
+          }
+        ]
+      },
+      "isSwissExpression": false,
+      "audio": {
+        "aiden": {
+          "normal": "/audio/2026-10-26/word-03-aiden.opus",
+          "slow": "/audio/2026-10-26/word-03-aiden-slow.opus"
+        },
+        "serena": {
+          "normal": "/audio/2026-10-26/word-03-serena.opus",
+          "slow": "/audio/2026-10-26/word-03-serena-slow.opus"
+        }
+      }
+    },
+    {
+      "id": "word-04",
+      "german": "die Tasse",
+      "meaning": "잔, 찻잔",
+      "partOfSpeech": "noun",
+      "gender": "die",
+      "plural": "die Tassen",
+      "pronunciation": {
+        "ipa": "/ˈtasə/",
+        "korean": [
+          {
+            "text": "타",
+            "stress": true
+          },
+          {
+            "text": "세",
+            "stress": false
+          }
+        ]
+      },
+      "isSwissExpression": false,
+      "audio": {
+        "aiden": {
+          "normal": "/audio/2026-10-26/word-04-aiden.opus",
+          "slow": "/audio/2026-10-26/word-04-aiden-slow.opus"
+        },
+        "serena": {
+          "normal": "/audio/2026-10-26/word-04-serena.opus",
+          "slow": "/audio/2026-10-26/word-04-serena-slow.opus"
+        }
+      }
+    },
+    {
+      "id": "word-05",
+      "german": "der Punsch",
+      "meaning": "펀치 (무알코올 따뜻한 음료)",
+      "partOfSpeech": "noun",
+      "gender": "der",
+      "plural": "die Punsche",
+      "pronunciation": {
+        "ipa": "/pʊnʃ/",
+        "korean": [
+          {
+            "text": "푼쉬",
+            "stress": true
+          }
+        ]
+      },
+      "isSwissExpression": false,
+      "audio": {
+        "aiden": {
+          "normal": "/audio/2026-10-26/word-05-aiden.opus",
+          "slow": "/audio/2026-10-26/word-05-aiden-slow.opus"
+        },
+        "serena": {
+          "normal": "/audio/2026-10-26/word-05-serena.opus",
+          "slow": "/audio/2026-10-26/word-05-serena-slow.opus"
+        }
+      }
+    },
+    {
+      "id": "word-06",
+      "german": "das Geschenk",
+      "meaning": "선물",
+      "partOfSpeech": "noun",
+      "gender": "das",
+      "plural": "die Geschenke",
+      "pronunciation": {
+        "ipa": "/ɡəˈʃɛŋk/",
+        "korean": [
+          {
+            "text": "게",
+            "stress": false
+          },
+          {
+            "text": "쉥크",
+            "stress": true
+          }
+        ]
+      },
+      "isSwissExpression": false,
+      "audio": {
+        "aiden": {
+          "normal": "/audio/2026-10-26/word-06-aiden.opus",
+          "slow": "/audio/2026-10-26/word-06-aiden-slow.opus"
+        },
+        "serena": {
+          "normal": "/audio/2026-10-26/word-06-serena.opus",
+          "slow": "/audio/2026-10-26/word-06-serena-slow.opus"
+        }
+      }
+    },
+    {
+      "id": "word-07",
+      "german": "kaufen",
+      "meaning": "사다, 구입하다",
+      "partOfSpeech": "verb",
+      "pronunciation": {
+        "ipa": "/ˈkaʊ̯fn̩/",
+        "korean": [
+          {
+            "text": "카우",
+            "stress": true
+          },
+          {
+            "text": "펜",
+            "stress": false
+          }
+        ]
+      },
+      "isSwissExpression": false,
+      "audio": {
+        "aiden": {
+          "normal": "/audio/2026-10-26/word-07-aiden.opus",
+          "slow": "/audio/2026-10-26/word-07-aiden-slow.opus"
+        },
+        "serena": {
+          "normal": "/audio/2026-10-26/word-07-serena.opus",
+          "slow": "/audio/2026-10-26/word-07-serena-slow.opus"
+        }
+      }
+    },
+    {
+      "id": "word-08",
+      "german": "teuer",
+      "meaning": "비싼",
+      "partOfSpeech": "adjective",
+      "pronunciation": {
+        "ipa": "/ˈtɔɪ̯ɐ/",
+        "korean": [
+          {
+            "text": "토이",
+            "stress": true
+          },
+          {
+            "text": "어",
+            "stress": false
+          }
+        ]
+      },
+      "isSwissExpression": false,
+      "audio": {
+        "aiden": {
+          "normal": "/audio/2026-10-26/word-08-aiden.opus",
+          "slow": "/audio/2026-10-26/word-08-aiden-slow.opus"
+        },
+        "serena": {
+          "normal": "/audio/2026-10-26/word-08-serena.opus",
+          "slow": "/audio/2026-10-26/word-08-serena-slow.opus"
+        }
+      }
+    },
+    {
+      "id": "word-09",
+      "german": "billig",
+      "meaning": "값싼, 저렴한",
+      "partOfSpeech": "adjective",
+      "pronunciation": {
+        "ipa": "/ˈbɪlɪç/",
+        "korean": [
+          {
+            "text": "빌",
+            "stress": true
+          },
+          {
+            "text": "히",
+            "stress": false
+          }
+        ]
+      },
+      "isSwissExpression": false,
+      "audio": {
+        "aiden": {
+          "normal": "/audio/2026-10-26/word-09-aiden.opus",
+          "slow": "/audio/2026-10-26/word-09-aiden-slow.opus"
+        },
+        "serena": {
+          "normal": "/audio/2026-10-26/word-09-serena.opus",
+          "slow": "/audio/2026-10-26/word-09-serena-slow.opus"
+        }
+      }
+    },
+    {
+      "id": "word-10",
+      "german": "schön",
+      "meaning": "아름다운, 멋진",
+      "partOfSpeech": "adjective",
+      "pronunciation": {
+        "ipa": "/ʃøːn/",
+        "korean": [
+          {
+            "text": "쇼ːㄴ",
+            "stress": true
+          }
+        ]
+      },
+      "isSwissExpression": false,
+      "audio": {
+        "aiden": {
+          "normal": "/audio/2026-10-26/word-10-aiden.opus",
+          "slow": "/audio/2026-10-26/word-10-aiden-slow.opus"
+        },
+        "serena": {
+          "normal": "/audio/2026-10-26/word-10-serena.opus",
+          "slow": "/audio/2026-10-26/word-10-serena-slow.opus"
+        }
+      }
+    }
+  ],
+  "sentences": [
+    {
+      "id": "sentence-01",
+      "german": "Ich hätte gern einen Glühwein.",
+      "meaning": "글루바인 한 잔 주세요.",
+      "pronunciation": {
+        "ipa": "/ɪç ˈhɛtə ɡɛʁn ˈaɪ̯nən ˈɡlyːvaɪ̯n/",
+        "korean": [
+          {
+            "text": "이히",
+            "stress": false
+          },
+          {
+            "text": "헤테",
+            "stress": true
+          },
+          {
+            "text": "게른",
+            "stress": false
+          },
+          {
+            "text": "아이넨",
+            "stress": false
+          },
+          {
+            "text": "글뤼바인",
+            "stress": true
+          }
+        ]
+      },
+      "usesWords": [
+        "word-01"
+      ],
+      "audio": {
+        "aiden": {
+          "normal": "/audio/2026-10-26/sentence-01-aiden.opus",
+          "slow": "/audio/2026-10-26/sentence-01-aiden-slow.opus"
+        },
+        "serena": {
+          "normal": "/audio/2026-10-26/sentence-01-serena.opus",
+          "slow": "/audio/2026-10-26/sentence-01-serena-slow.opus"
+        }
+      }
+    },
+    {
+      "id": "sentence-02",
+      "german": "Wo bekomme ich das Depot zurück?",
+      "meaning": "보증금은 어디서 돌려받나요?",
+      "pronunciation": {
+        "ipa": "/voː bəˈkɔmə ɪç das deˈpoː t͡suˈʁʏk/",
+        "korean": [
+          {
+            "text": "보ː",
+            "stress": false
+          },
+          {
+            "text": "베코메",
+            "stress": true
+          },
+          {
+            "text": "이히",
+            "stress": false
+          },
+          {
+            "text": "다스",
+            "stress": false
+          },
+          {
+            "text": "데포ː",
+            "stress": true
+          },
+          {
+            "text": "추뤼크",
+            "stress": true
+          }
+        ]
+      },
+      "usesWords": [
+        "word-02"
+      ],
+      "swissNote": "마신 컵을 반납하면서 이 문장을 말하면 보증금(Depot)을 현금으로 돌려줍니다.",
+      "audio": {
+        "aiden": {
+          "normal": "/audio/2026-10-26/sentence-02-aiden.opus",
+          "slow": "/audio/2026-10-26/sentence-02-aiden-slow.opus"
+        },
+        "serena": {
+          "normal": "/audio/2026-10-26/sentence-02-serena.opus",
+          "slow": "/audio/2026-10-26/sentence-02-serena-slow.opus"
+        }
+      }
+    },
+    {
+      "id": "sentence-03",
+      "german": "Ich hätte gern ein schönes Geschenk.",
+      "meaning": "멋진 선물 하나를 사고 싶어요.",
+      "pronunciation": {
+        "ipa": "/ɪç ˈhɛtə ɡɛʁn aɪ̯n ˈʃøːnəs ɡəˈʃɛŋk/",
+        "korean": [
+          {
+            "text": "이히",
+            "stress": false
+          },
+          {
+            "text": "헤테",
+            "stress": true
+          },
+          {
+            "text": "게른",
+            "stress": false
+          },
+          {
+            "text": "라인",
+            "stress": false
+          },
+          {
+            "text": "쇼ː네스",
+            "stress": true
+          },
+          {
+            "text": "게쉥크",
+            "stress": true
+          }
+        ]
+      },
+      "usesWords": [
+        "word-06",
+        "word-10"
+      ],
+      "audio": {
+        "aiden": {
+          "normal": "/audio/2026-10-26/sentence-03-aiden.opus",
+          "slow": "/audio/2026-10-26/sentence-03-aiden-slow.opus"
+        },
+        "serena": {
+          "normal": "/audio/2026-10-26/sentence-03-serena.opus",
+          "slow": "/audio/2026-10-26/sentence-03-serena-slow.opus"
+        }
+      }
+    }
+  ],
+  "grammar": {
+    "id": "ich-haette-gern",
+    "title": "Ich hätte gern …",
+    "pattern": "Ich hätte gern + 명사(4격)",
+    "meaning": "“~을(를) 받고 싶어요 / 주세요.”",
+    "explanation": "‘hätte gern’은 원하다(haben)의 접속법 과거형으로, 무언가를 정중하게 주문하거나 요청할 때 쓰는 필수 표현입니다. 식당이나 상점, 크리스마스 마켓에서 원하시는 물건이나 음료를 말할 때 유용하게 쓰입니다. 남성 명사의 경우 'einen'을, 여성은 'eine', 중성은 'ein'을 씁니다.",
+    "examples": [
+      {
+        "german": "Ich hätte gern einen Glühwein.",
+        "meaning": "글루바인 한 잔 주세요."
+      },
+      {
+        "german": "Ich hätte gern ein Geschenk.",
+        "meaning": "선물을 사고 싶어요."
+      }
+    ],
+    "tip": "‘Bitte’(부탁합니다)를 문장 끝에 붙이면 한층 더 부드럽고 정중한 요청이 됩니다."
+  }
+}

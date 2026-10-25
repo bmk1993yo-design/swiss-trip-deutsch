@@ -1,0 +1,486 @@
+{
+  "type": "lesson",
+  "schemaVersion": 1,
+  "date": "2026-10-25",
+  "day": 22,
+  "unlockAt": "2026-10-25T17:00:00+09:00",
+  "theme": {
+    "id": "festival",
+    "title": "축제와 문화",
+    "emoji": "🎉"
+  },
+  "approved": true,
+  "words": [
+    {
+      "id": "word-01",
+      "german": "das Fest",
+      "meaning": "축제, 페스티벌",
+      "partOfSpeech": "noun",
+      "gender": "das",
+      "plural": "die Feste",
+      "pronunciation": {
+        "ipa": "/fɛst/",
+        "korean": [
+          {
+            "text": "페스트",
+            "stress": true
+          }
+        ]
+      },
+      "isSwissExpression": false,
+      "audio": {
+        "aiden": {
+          "normal": "/audio/2026-10-25/word-01-aiden.opus",
+          "slow": "/audio/2026-10-25/word-01-aiden-slow.opus"
+        },
+        "serena": {
+          "normal": "/audio/2026-10-25/word-01-serena.opus",
+          "slow": "/audio/2026-10-25/word-01-serena-slow.opus"
+        }
+      }
+    },
+    {
+      "id": "word-02",
+      "german": "die Spezialität",
+      "meaning": "특산품, 지역 명물",
+      "partOfSpeech": "noun",
+      "gender": "die",
+      "plural": "die Spezialitäten",
+      "pronunciation": {
+        "ipa": "/ʃpet͡sialiˈtɛːt/",
+        "korean": [
+          {
+            "text": "슈페",
+            "stress": false
+          },
+          {
+            "text": "시아",
+            "stress": false
+          },
+          {
+            "text": "리테ː트",
+            "stress": true
+          }
+        ]
+      },
+      "isSwissExpression": true,
+      "swissNote": "스위스 각 지역마다 치즈, 초콜릿, 말린 고기 등 독특한 로컬 Spezialität가 많습니다.",
+      "audio": {
+        "aiden": {
+          "normal": "/audio/2026-10-25/word-02-aiden.opus",
+          "slow": "/audio/2026-10-25/word-02-aiden-slow.opus"
+        },
+        "serena": {
+          "normal": "/audio/2026-10-25/word-02-serena.opus",
+          "slow": "/audio/2026-10-25/word-02-serena-slow.opus"
+        }
+      }
+    },
+    {
+      "id": "word-03",
+      "german": "die Musik",
+      "meaning": "음악",
+      "partOfSpeech": "noun",
+      "gender": "die",
+      "plural": null,
+      "pronunciation": {
+        "ipa": "/muˈziːk/",
+        "korean": [
+          {
+            "text": "무",
+            "stress": false
+          },
+          {
+            "text": "지ː크",
+            "stress": true
+          }
+        ]
+      },
+      "isSwissExpression": false,
+      "audio": {
+        "aiden": {
+          "normal": "/audio/2026-10-25/word-03-aiden.opus",
+          "slow": "/audio/2026-10-25/word-03-aiden-slow.opus"
+        },
+        "serena": {
+          "normal": "/audio/2026-10-25/word-03-serena.opus",
+          "slow": "/audio/2026-10-25/word-03-serena-slow.opus"
+        }
+      }
+    },
+    {
+      "id": "word-04",
+      "german": "der Wein",
+      "meaning": "와인",
+      "partOfSpeech": "noun",
+      "gender": "der",
+      "plural": "die Weine",
+      "pronunciation": {
+        "ipa": "/vaɪ̯n/",
+        "korean": [
+          {
+            "text": "바인",
+            "stress": true
+          }
+        ]
+      },
+      "isSwissExpression": false,
+      "swissNote": "스위스에서도 발레주나 Vaud 주 등에서 훌륭한 로컬 와인을 많이 생산합니다.",
+      "audio": {
+        "aiden": {
+          "normal": "/audio/2026-10-25/word-04-aiden.opus",
+          "slow": "/audio/2026-10-25/word-04-aiden-slow.opus"
+        },
+        "serena": {
+          "normal": "/audio/2026-10-25/word-04-serena.opus",
+          "slow": "/audio/2026-10-25/word-04-serena-slow.opus"
+        }
+      }
+    },
+    {
+      "id": "word-05",
+      "german": "der Tanz",
+      "meaning": "춤, 댄스",
+      "partOfSpeech": "noun",
+      "gender": "der",
+      "plural": "die Tänze",
+      "pronunciation": {
+        "ipa": "/tant͡s/",
+        "korean": [
+          {
+            "text": "탄츠",
+            "stress": true
+          }
+        ]
+      },
+      "isSwissExpression": false,
+      "audio": {
+        "aiden": {
+          "normal": "/audio/2026-10-25/word-05-aiden.opus",
+          "slow": "/audio/2026-10-25/word-05-aiden-slow.opus"
+        },
+        "serena": {
+          "normal": "/audio/2026-10-25/word-05-serena.opus",
+          "slow": "/audio/2026-10-25/word-05-serena-slow.opus"
+        }
+      }
+    },
+    {
+      "id": "word-06",
+      "german": "die Kultur",
+      "meaning": "문화",
+      "partOfSpeech": "noun",
+      "gender": "die",
+      "plural": "die Kulturen",
+      "pronunciation": {
+        "ipa": "/kʊlˈtuːɐ̯/",
+        "korean": [
+          {
+            "text": "쿨",
+            "stress": false
+          },
+          {
+            "text": "투어",
+            "stress": true
+          }
+        ]
+      },
+      "isSwissExpression": false,
+      "audio": {
+        "aiden": {
+          "normal": "/audio/2026-10-25/word-06-aiden.opus",
+          "slow": "/audio/2026-10-25/word-06-aiden-slow.opus"
+        },
+        "serena": {
+          "normal": "/audio/2026-10-25/word-06-serena.opus",
+          "slow": "/audio/2026-10-25/word-06-serena-slow.opus"
+        }
+      }
+    },
+    {
+      "id": "word-07",
+      "german": "interessant",
+      "meaning": "흥미로운, 재미있는",
+      "partOfSpeech": "adjective",
+      "pronunciation": {
+        "ipa": "/ɪntəʁɛˈsant/",
+        "korean": [
+          {
+            "text": "인테",
+            "stress": false
+          },
+          {
+            "text": "레",
+            "stress": false
+          },
+          {
+            "text": "잔트",
+            "stress": true
+          }
+        ]
+      },
+      "isSwissExpression": false,
+      "audio": {
+        "aiden": {
+          "normal": "/audio/2026-10-25/word-07-aiden.opus",
+          "slow": "/audio/2026-10-25/word-07-aiden-slow.opus"
+        },
+        "serena": {
+          "normal": "/audio/2026-10-25/word-07-serena.opus",
+          "slow": "/audio/2026-10-25/word-07-serena-slow.opus"
+        }
+      }
+    },
+    {
+      "id": "word-08",
+      "german": "traditionell",
+      "meaning": "전통적인",
+      "partOfSpeech": "adjective",
+      "pronunciation": {
+        "ipa": "/tʁatit͡sioˈnɛl/",
+        "korean": [
+          {
+            "text": "트라티",
+            "stress": false
+          },
+          {
+            "text": "시오",
+            "stress": false
+          },
+          {
+            "text": "넬",
+            "stress": true
+          }
+        ]
+      },
+      "isSwissExpression": false,
+      "audio": {
+        "aiden": {
+          "normal": "/audio/2026-10-25/word-08-aiden.opus",
+          "slow": "/audio/2026-10-25/word-08-aiden-slow.opus"
+        },
+        "serena": {
+          "normal": "/audio/2026-10-25/word-08-serena.opus",
+          "slow": "/audio/2026-10-25/word-08-serena-slow.opus"
+        }
+      }
+    },
+    {
+      "id": "word-09",
+      "german": "sch زیبا",
+      "meaning": "아름다운",
+      "partOfSpeech": "adjective",
+      "pronunciation": {
+        "ipa": "/ʃøːn/",
+        "korean": [
+          {
+            "text": "쇤",
+            "stress": true
+          }
+        ]
+      },
+      "isSwissExpression": false,
+      "audio": {
+        "aiden": {
+          "normal": "/audio/2026-10-25/word-09-aiden.opus",
+          "slow": "/audio/2026-10-25/word-09-aiden-slow.opus"
+        },
+        "serena": {
+          "normal": "/audio/2026-10-25/word-09-serena.opus",
+          "slow": "/audio/2026-10-25/word-09-serena-slow.opus"
+        }
+      }
+    },
+    {
+      "id": "word-10",
+      "german": "Hopp Schwiiz",
+      "meaning": "힘내라 스위스 (응원 구호)",
+      "partOfSpeech": "interjection",
+      "pronunciation": {
+        "ipa": "/hɔp ˈʃviːt͡s/",
+        "korean": [
+          {
+            "text": "홉",
+            "stress": false
+          },
+          {
+            "text": "슈비츠",
+            "stress": true
+          }
+        ]
+      },
+      "isSwissExpression": true,
+      "swissNote": "스위스의 스포츠 경기나 축제 등에서 응원할 때 쓰는 대표적인 스위스식 독일어 표현입니다.",
+      "audio": {
+        "aiden": {
+          "normal": "/audio/2026-10-25/word-10-aiden.opus",
+          "slow": "/audio/2026-10-25/word-10-aiden-slow.opus"
+        },
+        "serena": {
+          "normal": "/audio/2026-10-25/word-10-serena.opus",
+          "slow": "/audio/2026-10-25/word-10-serena-slow.opus"
+        }
+      }
+    }
+  ],
+  "sentences": [
+    {
+      "id": "sentence-01",
+      "german": "Wir gehen heute zum Fest.",
+      "meaning": "우리는 오늘 축제에 갑니다.",
+      "pronunciation": {
+        "ipa": "/viːɐ̯ ˈɡeːən ˈhɔʏ̯tə t͡sʊm fɛst/",
+        "korean": [
+          {
+            "text": "비어",
+            "stress": false
+          },
+          {
+            "text": "게에언",
+            "stress": true
+          },
+          {
+            "text": "호이테",
+            "stress": false
+          },
+          {
+            "text": "춤",
+            "stress": true
+          },
+          {
+            "text": "페스트",
+            "stress": true
+          }
+        ]
+      },
+      "usesWords": [
+        "word-01"
+      ],
+      "audio": {
+        "aiden": {
+          "normal": "/audio/2026-10-25/sentence-01-aiden.opus",
+          "slow": "/audio/2026-10-25/sentence-01-aiden-slow.opus"
+        },
+        "serena": {
+          "normal": "/audio/2026-10-25/sentence-01-serena.opus",
+          "slow": "/audio/2026-10-25/sentence-01-serena-slow.opus"
+        }
+      }
+    },
+    {
+      "id": "sentence-02",
+      "german": "Das ist eine traditionelle Spezialität.",
+      "meaning": "이것은 전통적인 특산품입니다.",
+      "pronunciation": {
+        "ipa": "/das ɪst ˈaɪ̯nə tʁatit͡sioˈnɛlə ʃpet͡sialiˈtɛːt/",
+        "korean": [
+          {
+            "text": "다스",
+            "stress": false
+          },
+          {
+            "text": "이스트",
+            "stress": false
+          },
+          {
+            "text": "아이네",
+            "stress": false
+          },
+          {
+            "text": "트라티시오넬레",
+            "stress": false
+          },
+          {
+            "text": "슈페시아리테ː트",
+            "stress": true
+          }
+        ]
+      },
+      "usesWords": [
+        "word-02",
+        "word-08"
+      ],
+      "audio": {
+        "aiden": {
+          "normal": "/audio/2026-10-25/sentence-02-aiden.opus",
+          "slow": "/audio/2026-10-25/sentence-02-aiden-slow.opus"
+        },
+        "serena": {
+          "normal": "/audio/2026-10-25/sentence-02-serena.opus",
+          "slow": "/audio/2026-10-25/sentence-02-serena-slow.opus"
+        }
+      }
+    },
+    {
+      "id": "sentence-03",
+      "german": "Hopp Schwiiz! Das Fest ist sehr schön.",
+      "meaning": "힘내라 스위스! 축제가 아주 아름답습니다.",
+      "pronunciation": {
+        "ipa": "/hɔp ˈʃviːt͡s das fɛst ɪst zeːɐ̯ ʃøːn/",
+        "korean": [
+          {
+            "text": "홉",
+            "stress": false
+          },
+          {
+            "text": "슈비츠",
+            "stress": true
+          },
+          {
+            "text": "다스",
+            "stress": false
+          },
+          {
+            "text": "페스트",
+            "stress": false
+          },
+          {
+            "text": "이스트",
+            "stress": false
+          },
+          {
+            "text": "제어",
+            "stress": false
+          },
+          {
+            "text": "쇤",
+            "stress": true
+          }
+        ]
+      },
+      "usesWords": [
+        "word-01",
+        "word-09",
+        "word-10"
+      ],
+      "audio": {
+        "aiden": {
+          "normal": "/audio/2026-10-25/sentence-03-aiden.opus",
+          "slow": "/audio/2026-10-25/sentence-03-aiden-slow.opus"
+        },
+        "serena": {
+          "normal": "/audio/2026-10-25/sentence-03-serena.opus",
+          "slow": "/audio/2026-10-25/sentence-03-serena-slow.opus"
+        }
+      }
+    }
+  ],
+  "grammar": {
+    "id": "zum-zur",
+    "title": "zu + 3격: zum Fest / zur Messe",
+    "pattern": "zu + 3격 관사 (dem -> zum, der -> zur)",
+    "meaning": "“~로, ~에(서) (장소, 행사 방향)”",
+    "explanation": "전치사 zu 뒤에는 항상 3격(Dativ)이 옵니다. 남성(der) 또는 중성(das) 명사 앞에서는 'zu + dem'이 합쳐져 'zum'이 되고, 여성(die) 명사 앞에서는 'zu + der'가 합쳐져 'zur'가 됩니다. 축제나 행사장, 장소를 찾아갈 때 아주 유용하게 쓰입니다.",
+    "examples": [
+      {
+        "german": "Wir gehen zum Fest.",
+        "meaning": "우리는 축제에 갑니다."
+      },
+      {
+        "german": "Ich gehe zur Ausstellung.",
+        "meaning": "나는 전시회에 갑니다."
+      }
+    ],
+    "tip": "도시에 있는 특정 장소나 건물, 행사 이름을 말할 때 'zum' 또는 'zur'를 붙여 방향을 나타내 보세요."
+  }
+}

@@ -1,0 +1,510 @@
+{
+  "type": "lesson",
+  "schemaVersion": 1,
+  "date": "2026-10-29",
+  "day": 26,
+  "unlockAt": "2026-10-29T17:00:00+09:00",
+  "theme": {
+    "id": "small-talk",
+    "title": "자기소개와 스몰토크",
+    "emoji": "👋"
+  },
+  "approved": true,
+  "words": [
+    {
+      "id": "word-01",
+      "german": "kommen",
+      "meaning": "오다, ~출신이다",
+      "partOfSpeech": "verb",
+      "pronunciation": {
+        "ipa": "/ˈkɔmən/",
+        "korean": [
+          {
+            "text": "코",
+            "stress": true
+          },
+          {
+            "text": "멘",
+            "stress": false
+          }
+        ]
+      },
+      "isSwissExpression": false,
+      "audio": {
+        "aiden": {
+          "normal": "/audio/2026-10-29/word-01-aiden.opus",
+          "slow": "/audio/2026-10-29/word-01-aiden-slow.opus"
+        },
+        "serena": {
+          "normal": "/audio/2026-10-29/word-01-serena.opus",
+          "slow": "/audio/2026-10-29/word-01-serena-slow.opus"
+        }
+      }
+    },
+    {
+      "id": "word-02",
+      "german": "aus",
+      "meaning": "~에서, ~출신의",
+      "partOfSpeech": "preposition",
+      "pronunciation": {
+        "ipa": "/aʊ̯s/",
+        "korean": [
+          {
+            "text": "아우스",
+            "stress": true
+          }
+        ]
+      },
+      "isSwissExpression": false,
+      "audio": {
+        "aiden": {
+          "normal": "/audio/2026-10-29/word-02-aiden.opus",
+          "slow": "/audio/2026-10-29/word-02-aiden-slow.opus"
+        },
+        "serena": {
+          "normal": "/audio/2026-10-29/word-02-serena.opus",
+          "slow": "/audio/2026-10-29/word-02-serena-slow.opus"
+        }
+      }
+    },
+    {
+      "id": "word-03",
+      "german": "bleiben",
+      "meaning": "머무르다",
+      "partOfSpeech": "verb",
+      "pronunciation": {
+        "ipa": "/ˈblaɪ̯bn̩/",
+        "korean": [
+          {
+            "text": "블라이",
+            "stress": true
+          },
+          {
+            "text": "벤",
+            "stress": false
+          }
+        ]
+      },
+      "isSwissExpression": false,
+      "audio": {
+        "aiden": {
+          "normal": "/audio/2026-10-29/word-03-aiden.opus",
+          "slow": "/audio/2026-10-29/word-03-aiden-slow.opus"
+        },
+        "serena": {
+          "normal": "/audio/2026-10-29/word-03-serena.opus",
+          "slow": "/audio/2026-10-29/word-03-serena-slow.opus"
+        }
+      }
+    },
+    {
+      "id": "word-04",
+      "german": "die Woche",
+      "meaning": "주, 일주일",
+      "partOfSpeech": "noun",
+      "gender": "die",
+      "plural": "die Wochen",
+      "pronunciation": {
+        "ipa": "/ˈvɔxə/",
+        "korean": [
+          {
+            "text": "보",
+            "stress": true
+          },
+          {
+            "text": "헤",
+            "stress": false
+          }
+        ]
+      },
+      "isSwissExpression": false,
+      "audio": {
+        "aiden": {
+          "normal": "/audio/2026-10-29/word-04-aiden.opus",
+          "slow": "/audio/2026-10-29/word-04-aiden-slow.opus"
+        },
+        "serena": {
+          "normal": "/audio/2026-10-29/word-04-serena.opus",
+          "slow": "/audio/2026-10-29/word-04-serena-slow.opus"
+        }
+      }
+    },
+    {
+      "id": "word-05",
+      "german": "der Beruf",
+      "meaning": "직업",
+      "partOfSpeech": "noun",
+      "gender": "der",
+      "plural": "die Berufe",
+      "pronunciation": {
+        "ipa": "/bəˈʁuːf/",
+        "korean": [
+          {
+            "text": "베",
+            "stress": false
+          },
+          {
+            "text": "루ː프",
+            "stress": true
+          }
+        ]
+      },
+      "isSwissExpression": false,
+      "audio": {
+        "aiden": {
+          "normal": "/audio/2026-10-29/word-05-aiden.opus",
+          "slow": "/audio/2026-10-29/word-05-aiden-slow.opus"
+        },
+        "serena": {
+          "normal": "/audio/2026-10-29/word-05-serena.opus",
+          "slow": "/audio/2026-10-29/word-05-serena-slow.opus"
+        }
+      }
+    },
+    {
+      "id": "word-06",
+      "german": "die Reise",
+      "meaning": "여행",
+      "partOfSpeech": "noun",
+      "gender": "die",
+      "plural": "die Reisen",
+      "pronunciation": {
+        "ipa": "/ˈʁaɪ̯zə/",
+        "korean": [
+          {
+            "text": "라이",
+            "stress": true
+          },
+          {
+            "text": "제",
+            "stress": false
+          }
+        ]
+      },
+      "isSwissExpression": false,
+      "audio": {
+        "aiden": {
+          "normal": "/audio/2026-10-29/word-06-aiden.opus",
+          "slow": "/audio/2026-10-29/word-06-aiden-slow.opus"
+        },
+        "serena": {
+          "normal": "/audio/2026-10-29/word-06-serena.opus",
+          "slow": "/audio/2026-10-29/word-06-serena-slow.opus"
+        }
+      }
+    },
+    {
+      "id": "word-07",
+      "german": "freundlich",
+      "meaning": "친절한, 다정한",
+      "partOfSpeech": "adjective",
+      "pronunciation": {
+        "ipa": "/ˈfʁɔɪ̯ntlɪç/",
+        "korean": [
+          {
+            "text": "프로인트",
+            "stress": true
+          },
+          {
+            "text": "리히",
+            "stress": false
+          }
+        ]
+      },
+      "isSwissExpression": false,
+      "audio": {
+        "aiden": {
+          "normal": "/audio/2026-10-29/word-07-aiden.opus",
+          "slow": "/audio/2026-10-29/word-07-aiden-slow.opus"
+        },
+        "serena": {
+          "normal": "/audio/2026-10-29/word-07-serena.opus",
+          "slow": "/audio/2026-10-29/word-07-serena-slow.opus"
+        }
+      }
+    },
+    {
+      "id": "word-08",
+      "german": "wunderbar",
+      "meaning": "아주 멋진, 훌륭한",
+      "partOfSpeech": "adjective",
+      "pronunciation": {
+        "ipa": "/ˈvʊndɐˌbaːɐ̯/",
+        "korean": [
+          {
+            "text": "분",
+            "stress": true
+          },
+          {
+            "text": "더",
+            "stress": false
+          },
+          {
+            "text": "바ː어",
+            "stress": false
+          }
+        ]
+      },
+      "isSwissExpression": false,
+      "audio": {
+        "aiden": {
+          "normal": "/audio/2026-10-29/word-08-aiden.opus",
+          "slow": "/audio/2026-10-29/word-08-aiden-slow.opus"
+        },
+        "serena": {
+          "normal": "/audio/2026-10-29/word-08-serena.opus",
+          "slow": "/audio/2026-10-29/word-08-serena-slow.opus"
+        }
+      }
+    },
+    {
+      "id": "word-09",
+      "german": "zusammen",
+      "meaning": "함께",
+      "partOfSpeech": "adverb",
+      "pronunciation": {
+        "ipa": "/tsuˈzamən/",
+        "korean": [
+          {
+            "text": "추",
+            "stress": false
+          },
+          {
+            "text": "자",
+            "stress": true
+          },
+          {
+            "text": "멘",
+            "stress": false
+          }
+        ]
+      },
+      "isSwissExpression": false,
+      "audio": {
+        "aiden": {
+          "normal": "/audio/2026-10-29/word-09-aiden.opus",
+          "slow": "/audio/2026-10-29/word-09-aiden-slow.opus"
+        },
+        "serena": {
+          "normal": "/audio/2026-10-29/word-09-serena.opus",
+          "slow": "/audio/2026-10-29/word-09-serena-slow.opus"
+        }
+      }
+    },
+    {
+      "id": "word-10",
+      "german": "Grüezi mitenand",
+      "meaning": "여러분, 안녕하세요 (스위스식 인사)",
+      "partOfSpeech": "phrase",
+      "pronunciation": {
+        "ipa": "/ˈɡryə̯tsi mɪtəˈnand/",
+        "korean": [
+          {
+            "text": "그뤼",
+            "stress": true
+          },
+          {
+            "text": "에",
+            "stress": false
+          },
+          {
+            "text": "치",
+            "stress": false
+          },
+          {
+            "text": "미",
+            "stress": false
+          },
+          {
+            "text": "테",
+            "stress": false
+          },
+          {
+            "text": "난트",
+            "stress": false
+          }
+        ]
+      },
+      "isSwissExpression": true,
+      "swissNote": "여러 사람에게 정중하게 인사할 때 쓰는 스위스 독일어 표현입니다. 한 사람에게 쓰는 Grüezi에 mitenand를 덧붙입니다.",
+      "audio": {
+        "aiden": {
+          "normal": "/audio/2026-10-29/word-10-aiden.opus",
+          "slow": "/audio/2026-10-29/word-10-aiden-slow.opus"
+        },
+        "serena": {
+          "normal": "/audio/2026-10-29/word-10-serena.opus",
+          "slow": "/audio/2026-10-29/word-10-serena-slow.opus"
+        }
+      }
+    }
+  ],
+  "sentences": [
+    {
+      "id": "sentence-01",
+      "german": "Grüezi mitenand! Ich komme aus Korea.",
+      "meaning": "여러분, 안녕하세요! 저는 한국에서 왔어요.",
+      "pronunciation": {
+        "ipa": "/ˈɡryə̯tsi mɪtəˈnand ɪç ˈkɔmə aʊ̯s koˈʁeːa/",
+        "korean": [
+          {
+            "text": "그뤼에치",
+            "stress": true
+          },
+          {
+            "text": "미테난트",
+            "stress": false
+          },
+          {
+            "text": "이히",
+            "stress": false
+          },
+          {
+            "text": "코메",
+            "stress": false
+          },
+          {
+            "text": "아우스",
+            "stress": false
+          },
+          {
+            "text": "코레ː아",
+            "stress": true
+          }
+        ]
+      },
+      "usesWords": [
+        "word-10",
+        "word-01",
+        "word-02"
+      ],
+      "audio": {
+        "aiden": {
+          "normal": "/audio/2026-10-29/sentence-01-aiden.opus",
+          "slow": "/audio/2026-10-29/sentence-01-aiden-slow.opus"
+        },
+        "serena": {
+          "normal": "/audio/2026-10-29/sentence-01-serena.opus",
+          "slow": "/audio/2026-10-29/sentence-01-serena-slow.opus"
+        }
+      }
+    },
+    {
+      "id": "sentence-02",
+      "german": "Ich bleibe eine Woche in der Schweiz.",
+      "meaning": "저는 스위스에서 일주일 동안 머물러요.",
+      "pronunciation": {
+        "ipa": "/ɪç ˈblaɪ̯bə ˈaɪ̯nə ˈvɔxə ɪn deːɐ̯ ʃvaɪ̯ts/",
+        "korean": [
+          {
+            "text": "이히",
+            "stress": false
+          },
+          {
+            "text": "블라이베",
+            "stress": false
+          },
+          {
+            "text": "아이네",
+            "stress": false
+          },
+          {
+            "text": "보헤",
+            "stress": true
+          },
+          {
+            "text": "인",
+            "stress": false
+          },
+          {
+            "text": "데어",
+            "stress": false
+          },
+          {
+            "text": "슈바이츠",
+            "stress": true
+          }
+        ]
+      },
+      "usesWords": [
+        "word-03",
+        "word-04"
+      ],
+      "audio": {
+        "aiden": {
+          "normal": "/audio/2026-10-29/sentence-02-aiden.opus",
+          "slow": "/audio/2026-10-29/sentence-02-aiden-slow.opus"
+        },
+        "serena": {
+          "normal": "/audio/2026-10-29/sentence-02-serena.opus",
+          "slow": "/audio/2026-10-29/sentence-02-serena-slow.opus"
+        }
+      }
+    },
+    {
+      "id": "sentence-03",
+      "german": "Was ist Ihr Beruf?",
+      "meaning": "직업이 어떻게 되세요?",
+      "pronunciation": {
+        "ipa": "/vas ɪst iːɐ̯ bəˈʁuːf/",
+        "korean": [
+          {
+            "text": "바스",
+            "stress": false
+          },
+          {
+            "text": "이스트",
+            "stress": false
+          },
+          {
+            "text": "이ː어",
+            "stress": false
+          },
+          {
+            "text": "베루ː프",
+            "stress": true
+          }
+        ]
+      },
+      "usesWords": [
+        "word-05"
+      ],
+      "audio": {
+        "aiden": {
+          "normal": "/audio/2026-10-29/sentence-03-aiden.opus",
+          "slow": "/audio/2026-10-29/sentence-03-aiden-slow.opus"
+        },
+        "serena": {
+          "normal": "/audio/2026-10-29/sentence-03-serena.opus",
+          "slow": "/audio/2026-10-29/sentence-03-serena-slow.opus"
+        }
+      }
+    }
+  ],
+  "grammar": {
+    "id": "kommen-aus",
+    "title": "Ich komme aus … (aus + 3격)",
+    "pattern": "Ich komme aus + 나라·도시(3격). / Woher kommen Sie?",
+    "meaning": "저는 ~에서 왔어요. / 어디에서 오셨어요?",
+    "explanation": "출신을 말할 때는 Ich komme aus …라고 합니다. aus 뒤의 명사는 3격으로 쓰지만, Korea나 Seoul처럼 보통 관사를 붙이지 않는 지명은 그대로 사용합니다. 관사를 쓰는 나라 이름 die Schweiz는 aus 뒤에서 aus der Schweiz로 바뀝니다. 상대방의 출신을 정중하게 물을 때는 Woher kommen Sie?라고 합니다.",
+    "examples": [
+      {
+        "german": "Ich komme aus Korea.",
+        "meaning": "저는 한국에서 왔어요."
+      },
+      {
+        "german": "Ich komme aus Seoul.",
+        "meaning": "저는 서울에서 왔어요."
+      },
+      {
+        "german": "Ich komme aus der Schweiz.",
+        "meaning": "저는 스위스에서 왔어요."
+      },
+      {
+        "german": "Woher kommen Sie?",
+        "meaning": "어디에서 오셨어요?"
+      }
+    ],
+    "tip": "출신을 묻는 woher는 현재 위치를 묻는 wo와 달라요. 직업에 관한 질문은 대화가 자연스럽게 이어질 때 사용해 보세요."
+  }
+}

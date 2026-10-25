@@ -1,0 +1,459 @@
+{
+  "type": "lesson",
+  "schemaVersion": 1,
+  "date": "2026-10-15",
+  "day": 12,
+  "unlockAt": "2026-10-15T17:00:00+09:00",
+  "theme": {
+    "id": "weather",
+    "title": "날씨",
+    "emoji": "⛅"
+  },
+  "approved": true,
+  "words": [
+    {
+      "id": "word-01",
+      "german": "der Föhn",
+      "meaning": "푄 (알프스의 따뜻하고 건조한 바람)",
+      "partOfSpeech": "noun",
+      "gender": "der",
+      "plural": null,
+      "pronunciation": {
+        "ipa": "/føːn/",
+        "korean": [
+          {
+            "text": "푄",
+            "stress": true
+          }
+        ]
+      },
+      "isSwissExpression": true,
+      "swissNote": "알프스 산맥을 넘어 불어오는 따뜻하고 건조한 바람입니다. 푄 현상이 일어나면 날씨는 맑아지지만 두통이나 피로감을 느끼는 사람도 있습니다.",
+      "audio": {
+        "aiden": {
+          "normal": "/audio/2026-10-15/word-01-aiden.opus",
+          "slow": "/audio/2026-10-15/word-01-aiden-slow.opus"
+        },
+        "serena": {
+          "normal": "/audio/2026-10-15/word-01-serena.opus",
+          "slow": "/audio/2026-10-15/word-01-serena-slow.opus"
+        }
+      }
+    },
+    {
+      "id": "word-02",
+      "german": "die Sonne",
+      "meaning": "해, 태양",
+      "partOfSpeech": "noun",
+      "gender": "die",
+      "plural": "die Sonnen",
+      "pronunciation": {
+        "ipa": "/ˈzɔnə/",
+        "korean": [
+          {
+            "text": "조",
+            "stress": true
+          },
+          {
+            "text": "네",
+            "stress": false
+          }
+        ]
+      },
+      "isSwissExpression": false,
+      "audio": {
+        "aiden": {
+          "normal": "/audio/2026-10-15/word-02-aiden.opus",
+          "slow": "/audio/2026-10-15/word-02-aiden-slow.opus"
+        },
+        "serena": {
+          "normal": "/audio/2026-10-15/word-02-serena.opus",
+          "slow": "/audio/2026-10-15/word-02-serena-slow.opus"
+        }
+      }
+    },
+    {
+      "id": "word-03",
+      "german": "der Regen",
+      "meaning": "비",
+      "partOfSpeech": "noun",
+      "gender": "der",
+      "plural": null,
+      "pronunciation": {
+        "ipa": "/ˈʁeːɡn̩/",
+        "korean": [
+          {
+            "text": "레ː",
+            "stress": true
+          },
+          {
+            "text": "근",
+            "stress": false
+          }
+        ]
+      },
+      "isSwissExpression": false,
+      "audio": {
+        "aiden": {
+          "normal": "/audio/2026-10-15/word-03-aiden.opus",
+          "slow": "/audio/2026-10-15/word-03-aiden-slow.opus"
+        },
+        "serena": {
+          "normal": "/audio/2026-10-15/word-03-serena.opus",
+          "slow": "/audio/2026-10-15/word-03-serena-slow.opus"
+        }
+      }
+    },
+    {
+      "id": "word-04",
+      "german": "der Schnee",
+      "meaning": "눈",
+      "partOfSpeech": "noun",
+      "gender": "der",
+      "plural": null,
+      "pronunciation": {
+        "ipa": "/ʃneː/",
+        "korean": [
+          {
+            "text": "슈네ː",
+            "stress": true
+          }
+        ]
+      },
+      "isSwissExpression": false,
+      "audio": {
+        "aiden": {
+          "normal": "/audio/2026-10-15/word-04-aiden.opus",
+          "slow": "/audio/2026-10-15/word-04-aiden-slow.opus"
+        },
+        "serena": {
+          "normal": "/audio/2026-10-15/word-04-serena.opus",
+          "slow": "/audio/2026-10-15/word-04-serena-slow.opus"
+        }
+      }
+    },
+    {
+      "id": "word-05",
+      "german": "kalt",
+      "meaning": "추운, 차가운",
+      "partOfSpeech": "adjective",
+      "pronunciation": {
+        "ipa": "/kalt/",
+        "korean": [
+          {
+            "text": "칼트",
+            "stress": true
+          }
+        ]
+      },
+      "isSwissExpression": false,
+      "audio": {
+        "aiden": {
+          "normal": "/audio/2026-10-15/word-05-aiden.opus",
+          "slow": "/audio/2026-10-15/word-05-aiden-slow.opus"
+        },
+        "serena": {
+          "normal": "/audio/2026-10-15/word-05-serena.opus",
+          "slow": "/audio/2026-10-15/word-05-serena-slow.opus"
+        }
+      }
+    },
+    {
+      "id": "word-06",
+      "german": "warm",
+      "meaning": "따뜻한",
+      "partOfSpeech": "adjective",
+      "pronunciation": {
+        "ipa": "/vaʁm/",
+        "korean": [
+          {
+            "text": "바름",
+            "stress": true
+          }
+        ]
+      },
+      "isSwissExpression": false,
+      "audio": {
+        "aiden": {
+          "normal": "/audio/2026-10-15/word-06-aiden.opus",
+          "slow": "/audio/2026-10-15/word-06-aiden-slow.opus"
+        },
+        "serena": {
+          "normal": "/audio/2026-10-15/word-06-serena.opus",
+          "slow": "/audio/2026-10-15/word-06-serena-slow.opus"
+        }
+      }
+    },
+    {
+      "id": "word-07",
+      "german": "regnen",
+      "meaning": "비가 오다",
+      "partOfSpeech": "verb",
+      "pronunciation": {
+        "ipa": "/ˈʁeːɡnən/",
+        "korean": [
+          {
+            "text": "레ː",
+            "stress": true
+          },
+          {
+            "text": "그넨",
+            "stress": false
+          }
+        ]
+      },
+      "isSwissExpression": false,
+      "audio": {
+        "aiden": {
+          "normal": "/audio/2026-10-15/word-07-aiden.opus",
+          "slow": "/audio/2026-10-15/word-07-aiden-slow.opus"
+        },
+        "serena": {
+          "normal": "/audio/2026-10-15/word-07-serena.opus",
+          "slow": "/audio/2026-10-15/word-07-serena-slow.opus"
+        }
+      }
+    },
+    {
+      "id": "word-08",
+      "german": "schneien",
+      "meaning": "눈이 오다",
+      "partOfSpeech": "verb",
+      "pronunciation": {
+        "ipa": "/ˈʃnaɪ̯ən/",
+        "korean": [
+          {
+            "text": "슈나이",
+            "stress": true
+          },
+          {
+            "text": "언",
+            "stress": false
+          }
+        ]
+      },
+      "isSwissExpression": false,
+      "audio": {
+        "aiden": {
+          "normal": "/audio/2026-10-15/word-08-aiden.opus",
+          "slow": "/audio/2026-10-15/word-08-aiden-slow.opus"
+        },
+        "serena": {
+          "normal": "/audio/2026-10-15/word-08-serena.opus",
+          "slow": "/audio/2026-10-15/word-08-serena-slow.opus"
+        }
+      }
+    },
+    {
+      "id": "word-09",
+      "german": "die Jacke",
+      "meaning": "재킷, 겉옷",
+      "partOfSpeech": "noun",
+      "gender": "die",
+      "plural": "die Jacken",
+      "pronunciation": {
+        "ipa": "/ˈjakə/",
+        "korean": [
+          {
+            "text": "야",
+            "stress": true
+          },
+          {
+            "text": "케",
+            "stress": false
+          }
+        ]
+      },
+      "isSwissExpression": false,
+      "audio": {
+        "aiden": {
+          "normal": "/audio/2026-10-15/word-09-aiden.opus",
+          "slow": "/audio/2026-10-15/word-09-aiden-slow.opus"
+        },
+        "serena": {
+          "normal": "/audio/2026-10-15/word-09-serena.opus",
+          "slow": "/audio/2026-10-15/word-09-serena-slow.opus"
+        }
+      }
+    },
+    {
+      "id": "word-10",
+      "german": "heute",
+      "meaning": "오늘",
+      "partOfSpeech": "adverb",
+      "pronunciation": {
+        "ipa": "/ˈhɔɪ̯tə/",
+        "korean": [
+          {
+            "text": "호이",
+            "stress": true
+          },
+          {
+            "text": "테",
+            "stress": false
+          }
+        ]
+      },
+      "isSwissExpression": false,
+      "audio": {
+        "aiden": {
+          "normal": "/audio/2026-10-15/word-10-aiden.opus",
+          "slow": "/audio/2026-10-15/word-10-aiden-slow.opus"
+        },
+        "serena": {
+          "normal": "/audio/2026-10-15/word-10-serena.opus",
+          "slow": "/audio/2026-10-15/word-10-serena-slow.opus"
+        }
+      }
+    }
+  ],
+  "sentences": [
+    {
+      "id": "sentence-01",
+      "german": "Es ist heute sehr kalt.",
+      "meaning": "오늘은 매우 춥습니다.",
+      "pronunciation": {
+        "ipa": "/ɛs ɪst ˈhɔɪ̯tə zeːɐ̯ kalt/",
+        "korean": [
+          {
+            "text": "에스",
+            "stress": false
+          },
+          {
+            "text": "이스트",
+            "stress": false
+          },
+          {
+            "text": "호이테",
+            "stress": true
+          },
+          {
+            "text": "제어",
+            "stress": false
+          },
+          {
+            "text": "칼트",
+            "stress": true
+          }
+        ]
+      },
+      "usesWords": [
+        "word-05",
+        "word-10"
+      ],
+      "audio": {
+        "aiden": {
+          "normal": "/audio/2026-10-15/sentence-01-aiden.opus",
+          "slow": "/audio/2026-10-15/sentence-01-aiden-slow.opus"
+        },
+        "serena": {
+          "normal": "/audio/2026-10-15/sentence-01-serena.opus",
+          "slow": "/audio/2026-10-15/sentence-01-serena-slow.opus"
+        }
+      }
+    },
+    {
+      "id": "sentence-02",
+      "german": "Heute regnet es.",
+      "meaning": "오늘은 비가 옵니다.",
+      "pronunciation": {
+        "ipa": "/ˈhɔɪ̯tə ˈʁeːɡnət ɛs/",
+        "korean": [
+          {
+            "text": "호이테",
+            "stress": true
+          },
+          {
+            "text": "레ː그넷",
+            "stress": true
+          },
+          {
+            "text": "에스",
+            "stress": false
+          }
+        ]
+      },
+      "usesWords": [
+        "word-07",
+        "word-10"
+      ],
+      "audio": {
+        "aiden": {
+          "normal": "/audio/2026-10-15/sentence-02-aiden.opus",
+          "slow": "/audio/2026-10-15/sentence-02-aiden-slow.opus"
+        },
+        "serena": {
+          "normal": "/audio/2026-10-15/sentence-02-serena.opus",
+          "slow": "/audio/2026-10-15/sentence-02-serena-slow.opus"
+        }
+      }
+    },
+    {
+      "id": "sentence-03",
+      "german": "Die Jacke ist sehr warm.",
+      "meaning": "이 재킷은 매우 따뜻합니다.",
+      "pronunciation": {
+        "ipa": "/diː ˈjakə ɪst zeːɐ̯ vaʁm/",
+        "korean": [
+          {
+            "text": "디ː",
+            "stress": false
+          },
+          {
+            "text": "야케",
+            "stress": true
+          },
+          {
+            "text": "이스트",
+            "stress": false
+          },
+          {
+            "text": "제어",
+            "stress": false
+          },
+          {
+            "text": "바름",
+            "stress": true
+          }
+        ]
+      },
+      "usesWords": [
+        "word-06",
+        "word-09"
+      ],
+      "swissNote": "스위스 산악 지역은 여름에도 기온이 낮을 수 있으니 항상 따뜻한 겉옷을 챙기세요.",
+      "audio": {
+        "aiden": {
+          "normal": "/audio/2026-10-15/sentence-03-aiden.opus",
+          "slow": "/audio/2026-10-15/sentence-03-aiden-slow.opus"
+        },
+        "serena": {
+          "normal": "/audio/2026-10-15/sentence-03-serena.opus",
+          "slow": "/audio/2026-10-15/sentence-03-serena-slow.opus"
+        }
+      }
+    }
+  ],
+  "grammar": {
+    "id": "es-ist-kalt",
+    "title": "비인칭 es: Es ist kalt. / Es regnet.",
+    "pattern": "Es ist + 형용사 / Es + 날씨 동사",
+    "meaning": "~합니다 (날씨 표현)",
+    "explanation": "독일어에서 날씨나 기온을 말할 때는 구체적인 인칭 주어가 없으므로 비인칭 주어 'es'를 사용합니다. 형용사와 함께 쓰면 'Es ist kalt.'(춥습니다)와 같이 상태를 나타내고, 날씨 동사와 함께 쓰면 'Es regnet.'(비가 옵니다)처럼 동작 및 현상을 나타냅니다.",
+    "examples": [
+      {
+        "german": "Es ist kalt.",
+        "meaning": "춥습니다."
+      },
+      {
+        "german": "Es regnet.",
+        "meaning": "비가 옵니다."
+      },
+      {
+        "german": "Es schneit.",
+        "meaning": "눈이 옵니다."
+      }
+    ],
+    "tip": "문장 맨 앞에 'heute'(오늘)와 같은 시간 부사가 오면 동사가 두 번째 자리를 유지하여 'Heute regnet es.'처럼 주어 es가 동사 뒤로 위치를 바꿉니다."
+  }
+}

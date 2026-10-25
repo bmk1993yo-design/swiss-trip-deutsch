@@ -1,0 +1,502 @@
+{
+  "type": "lesson",
+  "schemaVersion": 1,
+  "date": "2026-10-27",
+  "day": 24,
+  "unlockAt": "2026-10-27T17:00:00+09:00",
+  "theme": {
+    "id": "lake-boat",
+    "title": "호수 유람선",
+    "emoji": "⛴️"
+  },
+  "approved": true,
+  "words": [
+    {
+      "id": "word-01",
+      "german": "das Schiff",
+      "meaning": "유람선, 배",
+      "partOfSpeech": "noun",
+      "gender": "das",
+      "plural": "die Schiffe",
+      "pronunciation": {
+        "ipa": "/ʃɪf/",
+        "korean": [
+          {
+            "text": "쉬프",
+            "stress": true
+          }
+        ]
+      },
+      "isSwissExpression": false,
+      "swissNote": "스위스 주요 호수(취리히호, 루체른호, 브리엔츠호 등)의 유람선은 스위스 트래블 패스(Swiss Travel Pass)로 무료 이용할 수 있습니다.",
+      "audio": {
+        "aiden": {
+          "normal": "/audio/2026-10-27/word-01-aiden.opus",
+          "slow": "/audio/2026-10-27/word-01-aiden-slow.opus"
+        },
+        "serena": {
+          "normal": "/audio/2026-10-27/word-01-serena.opus",
+          "slow": "/audio/2026-10-27/word-01-serena-slow.opus"
+        }
+      }
+    },
+    {
+      "id": "word-02",
+      "german": "die Schifflände",
+      "meaning": "유람선 선착장",
+      "partOfSpeech": "noun",
+      "gender": "die",
+      "plural": "die Schiffländen",
+      "pronunciation": {
+        "ipa": "/ˈʃɪfˌlɛndə/",
+        "korean": [
+          {
+            "text": "쉬프",
+            "stress": true
+          },
+          {
+            "text": "렌",
+            "stress": false
+          },
+          {
+            "text": "데",
+            "stress": false
+          }
+        ]
+      },
+      "isSwissExpression": true,
+      "swissNote": "독일어권 스위스에서는 유람선 선착장을 'Schifflände'라고 부릅니다. 호숫가 표지판에서 자주 볼 수 있는 스위스 고유 단어입니다.",
+      "audio": {
+        "aiden": {
+          "normal": "/audio/2026-10-27/word-02-aiden.opus",
+          "slow": "/audio/2026-10-27/word-02-aiden-slow.opus"
+        },
+        "serena": {
+          "normal": "/audio/2026-10-27/word-02-serena.opus",
+          "slow": "/audio/2026-10-27/word-02-serena-slow.opus"
+        }
+      }
+    },
+    {
+      "id": "word-03",
+      "german": "der See",
+      "meaning": "호수",
+      "partOfSpeech": "noun",
+      "gender": "der",
+      "plural": "die Seen",
+      "pronunciation": {
+        "ipa": "/zeː/",
+        "korean": [
+          {
+            "text": "제ː",
+            "stress": true
+          }
+        ]
+      },
+      "isSwissExpression": false,
+      "audio": {
+        "aiden": {
+          "normal": "/audio/2026-10-27/word-03-aiden.opus",
+          "slow": "/audio/2026-10-27/word-03-aiden-slow.opus"
+        },
+        "serena": {
+          "normal": "/audio/2026-10-27/word-03-serena.opus",
+          "slow": "/audio/2026-10-27/word-03-serena-slow.opus"
+        }
+      }
+    },
+    {
+      "id": "word-04",
+      "german": "das Deck",
+      "meaning": "갑판",
+      "partOfSpeech": "noun",
+      "gender": "das",
+      "plural": "die Decks",
+      "pronunciation": {
+        "ipa": "/dɛk/",
+        "korean": [
+          {
+            "text": "데크",
+            "stress": true
+          }
+        ]
+      },
+      "isSwissExpression": false,
+      "swissNote": "스위스 유람선의 위층 갑판(Oberdeck)은 보통 1등석 승객 전용 구역인 경우가 많습니다.",
+      "audio": {
+        "aiden": {
+          "normal": "/audio/2026-10-27/word-04-aiden.opus",
+          "slow": "/audio/2026-10-27/word-04-aiden-slow.opus"
+        },
+        "serena": {
+          "normal": "/audio/2026-10-27/word-04-serena.opus",
+          "slow": "/audio/2026-10-27/word-04-serena-slow.opus"
+        }
+      }
+    },
+    {
+      "id": "word-05",
+      "german": "die Rundfahrt",
+      "meaning": "순환 유람 운항",
+      "partOfSpeech": "noun",
+      "gender": "die",
+      "plural": "die Rundfahrten",
+      "pronunciation": {
+        "ipa": "/ˈʁʊntˌfaːʁt/",
+        "korean": [
+          {
+            "text": "룬트",
+            "stress": true
+          },
+          {
+            "text": "파르트",
+            "stress": false
+          }
+        ]
+      },
+      "isSwissExpression": false,
+      "audio": {
+        "aiden": {
+          "normal": "/audio/2026-10-27/word-05-aiden.opus",
+          "slow": "/audio/2026-10-27/word-05-aiden-slow.opus"
+        },
+        "serena": {
+          "normal": "/audio/2026-10-27/word-05-serena.opus",
+          "slow": "/audio/2026-10-27/word-05-serena-slow.opus"
+        }
+      }
+    },
+    {
+      "id": "word-06",
+      "german": "anlegen",
+      "meaning": "(배가) 정박하다, 접안하다",
+      "partOfSpeech": "verb",
+      "pronunciation": {
+        "ipa": "/ˈanˌleːɡn̩/",
+        "korean": [
+          {
+            "text": "안",
+            "stress": true
+          },
+          {
+            "text": "레ː",
+            "stress": false
+          },
+          {
+            "text": "겐",
+            "stress": false
+          }
+        ]
+      },
+      "isSwissExpression": false,
+      "audio": {
+        "aiden": {
+          "normal": "/audio/2026-10-27/word-06-aiden.opus",
+          "slow": "/audio/2026-10-27/word-06-aiden-slow.opus"
+        },
+        "serena": {
+          "normal": "/audio/2026-10-27/word-06-serena.opus",
+          "slow": "/audio/2026-10-27/word-06-serena-slow.opus"
+        }
+      }
+    },
+    {
+      "id": "word-07",
+      "german": "der Kapitän",
+      "meaning": "선장",
+      "partOfSpeech": "noun",
+      "gender": "der",
+      "plural": "die Kapitäne",
+      "pronunciation": {
+        "ipa": "/kapiˈtɛːn/",
+        "korean": [
+          {
+            "text": "카",
+            "stress": false
+          },
+          {
+            "text": "피",
+            "stress": false
+          },
+          {
+            "text": "텐",
+            "stress": true
+          }
+        ]
+      },
+      "isSwissExpression": false,
+      "audio": {
+        "aiden": {
+          "normal": "/audio/2026-10-27/word-07-aiden.opus",
+          "slow": "/audio/2026-10-27/word-07-aiden-slow.opus"
+        },
+        "serena": {
+          "normal": "/audio/2026-10-27/word-07-serena.opus",
+          "slow": "/audio/2026-10-27/word-07-serena-slow.opus"
+        }
+      }
+    },
+    {
+      "id": "word-08",
+      "german": "pünktlich",
+      "meaning": "정시에, 시간 맞춰",
+      "partOfSpeech": "adjective",
+      "pronunciation": {
+        "ipa": "/ˈpʏŋktlɪç/",
+        "korean": [
+          {
+            "text": "퓡크트",
+            "stress": true
+          },
+          {
+            "text": "리히",
+            "stress": false
+          }
+        ]
+      },
+      "isSwissExpression": false,
+      "audio": {
+        "aiden": {
+          "normal": "/audio/2026-10-27/word-08-aiden.opus",
+          "slow": "/audio/2026-10-27/word-08-aiden-slow.opus"
+        },
+        "serena": {
+          "normal": "/audio/2026-10-27/word-08-serena.opus",
+          "slow": "/audio/2026-10-27/word-08-serena-slow.opus"
+        }
+      }
+    },
+    {
+      "id": "word-09",
+      "german": "die Haltestelle",
+      "meaning": "정류장, 선착장 정류소",
+      "partOfSpeech": "noun",
+      "gender": "die",
+      "plural": "die Haltestellen",
+      "pronunciation": {
+        "ipa": "/ˈhaltəˌʃtɛlə/",
+        "korean": [
+          {
+            "text": "할",
+            "stress": true
+          },
+          {
+            "text": "테",
+            "stress": false
+          },
+          {
+            "text": "슈텔",
+            "stress": false
+          },
+          {
+            "text": "레",
+            "stress": false
+          }
+        ]
+      },
+      "isSwissExpression": false,
+      "audio": {
+        "aiden": {
+          "normal": "/audio/2026-10-27/word-09-aiden.opus",
+          "slow": "/audio/2026-10-27/word-09-aiden-slow.opus"
+        },
+        "serena": {
+          "normal": "/audio/2026-10-27/word-09-serena.opus",
+          "slow": "/audio/2026-10-27/word-09-serena-slow.opus"
+        }
+      }
+    },
+    {
+      "id": "word-10",
+      "german": "besetzt",
+      "meaning": "자리가 찬, 사용 중인",
+      "partOfSpeech": "adjective",
+      "pronunciation": {
+        "ipa": "/bəˈzɛtst/",
+        "korean": [
+          {
+            "text": "베",
+            "stress": false
+          },
+          {
+            "text": "제츠트",
+            "stress": true
+          }
+        ]
+      },
+      "isSwissExpression": false,
+      "audio": {
+        "aiden": {
+          "normal": "/audio/2026-10-27/word-10-aiden.opus",
+          "slow": "/audio/2026-10-27/word-10-aiden-slow.opus"
+        },
+        "serena": {
+          "normal": "/audio/2026-10-27/word-10-serena.opus",
+          "slow": "/audio/2026-10-27/word-10-serena-slow.opus"
+        }
+      }
+    }
+  ],
+  "sentences": [
+    {
+      "id": "sentence-01",
+      "german": "Fährt das Schiff nach Weggis?",
+      "meaning": "이 유람선이 베기스로 가나요?",
+      "pronunciation": {
+        "ipa": "/fɛːʁt daːs ʃɪf naːx ˈvɛɡɪs/",
+        "korean": [
+          {
+            "text": "패르트",
+            "stress": true
+          },
+          {
+            "text": "다스",
+            "stress": false
+          },
+          {
+            "text": "쉬프",
+            "stress": true
+          },
+          {
+            "text": "나ː흐",
+            "stress": false
+          },
+          {
+            "text": "베기스",
+            "stress": false
+          }
+        ]
+      },
+      "usesWords": [
+        "word-01"
+      ],
+      "audio": {
+        "aiden": {
+          "normal": "/audio/2026-10-27/sentence-01-aiden.opus",
+          "slow": "/audio/2026-10-27/sentence-01-aiden-slow.opus"
+        },
+        "serena": {
+          "normal": "/audio/2026-10-27/sentence-01-serena.opus",
+          "slow": "/audio/2026-10-27/sentence-01-serena-slow.opus"
+        }
+      }
+    },
+    {
+      "id": "sentence-02",
+      "german": "Ist die Schifflände in der Nähe?",
+      "meaning": "유람선 선착장이 근처에 있나요?",
+      "pronunciation": {
+        "ipa": "/ɪst diː ˈʃɪfˌlɛndə ɪn deːɐ̯ ˈnɛːə/",
+        "korean": [
+          {
+            "text": "이스트",
+            "stress": false
+          },
+          {
+            "text": "디",
+            "stress": false
+          },
+          {
+            "text": "쉬프렌데",
+            "stress": true
+          },
+          {
+            "text": "인",
+            "stress": false
+          },
+          {
+            "text": "데어",
+            "stress": false
+          },
+          {
+            "text": "내ː어",
+            "stress": true
+          }
+        ]
+      },
+      "usesWords": [
+        "word-02"
+      ],
+      "audio": {
+        "aiden": {
+          "normal": "/audio/2026-10-27/sentence-02-aiden.opus",
+          "slow": "/audio/2026-10-27/sentence-02-aiden-slow.opus"
+        },
+        "serena": {
+          "normal": "/audio/2026-10-27/sentence-02-serena.opus",
+          "slow": "/audio/2026-10-27/sentence-02-serena-slow.opus"
+        }
+      }
+    },
+    {
+      "id": "sentence-03",
+      "german": "Ist der Platz auf dem Deck besetzt?",
+      "meaning": "갑판 위에 있는 이 자리가 찬 자리인가요?",
+      "pronunciation": {
+        "ipa": "/ɪst deːɐ̯ plats aʊ̯f deːm dɛk bəˈzɛtst/",
+        "korean": [
+          {
+            "text": "이스트",
+            "stress": false
+          },
+          {
+            "text": "데어",
+            "stress": false
+          },
+          {
+            "text": "플라츠",
+            "stress": true
+          },
+          {
+            "text": "아우프",
+            "stress": false
+          },
+          {
+            "text": "뎀",
+            "stress": false
+          },
+          {
+            "text": "데크",
+            "stress": true
+          },
+          {
+            "text": "베제츠트",
+            "stress": false
+          }
+        ]
+      },
+      "usesWords": [
+        "word-04",
+        "word-10"
+      ],
+      "audio": {
+        "aiden": {
+          "normal": "/audio/2026-10-27/sentence-03-aiden.opus",
+          "slow": "/audio/2026-10-27/sentence-03-aiden-slow.opus"
+        },
+        "serena": {
+          "normal": "/audio/2026-10-27/sentence-03-serena.opus",
+          "slow": "/audio/2026-10-27/sentence-03-serena-slow.opus"
+        }
+      }
+    }
+  ],
+  "grammar": {
+    "id": "ja-nein-frage",
+    "title": "예/아니오 질문: 동사가 맨 앞 (Fährt das Schiff nach …?)",
+    "pattern": "동사 + 주어 + 목적어/부사구 ~?",
+    "meaning": "“~합니까?” / “~인가요?” (예/아니오 대답을 요구하는 의문문)",
+    "explanation": "의문사(Wo, Wann 등)가 없는 의문문은 '네(Ja)' 또는 '아니요(Nein)'로 대답할 수 있는 질문입니다. 독일어에서는 동사를 문장의 맨 앞(1위치)에 두고 주어를 바로 그 뒤에 위치시킵니다. 유람선 출발 여부나 목적지를 확인할 때 매우 유용합니다.",
+    "examples": [
+      {
+        "german": "Fährt das Schiff nach Weggis?",
+        "meaning": "이 유람선이 베기스로 가나요?"
+      },
+      {
+        "german": "Ist die Schifflände in der Nähe?",
+        "meaning": "선착장이 근처에 있나요?"
+      }
+    ],
+    "tip": "대답할 때는 'Ja, das Schiff fährt nach Weggis.' 또는 간단히 'Ja'(네) / 'Nein'(아니요)라고 하시면 됩니다."
+  }
+}
